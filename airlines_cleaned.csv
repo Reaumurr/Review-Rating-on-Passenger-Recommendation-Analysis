@@ -1,0 +1,1895 @@
+aircraft_type,country,type_of_travellers,route,seat_types,seat_comfort,cabin_staff_service,ground_service,food_beverages,wifi_connectivity,inflight_entertainment,value_for_money,recommended
+A350,Germany,Business,Hamburg to Las Vegas via London,Premium Economy,2.0,2.0,1.0,2.0,0.0,3.0,1.0,no
+A320,United Kingdom,Couple Leisure,London Heathrow to Porto,Business Class,3.0,4.0,4.0,3.0,0.0,0.0,4.0,yes
+Boeing 787,United Kingdom,Couple Leisure,London to Santiago,Business Class,3.0,5.0,2.0,4.0,0.0,0.0,5.0,yes
+A320,United Kingdom,Couple Leisure,London Heathrow to Faro,Business Class,0.0,0.0,1.0,0.0,0.0,0.0,1.0,no
+A320,Germany,Couple Leisure,London to Munich,Economy Class,1.0,3.0,1.0,1.0,1.0,1.0,1.0,no
+A321,Iceland,Couple Leisure,London to Keflavik,Business Class,3.0,4.0,4.0,3.0,3.0,0.0,4.0,yes
+Boeing 777-200,Iceland,Couple Leisure,Mumbai to London,Business Class,4.0,3.0,4.0,3.0,3.0,3.0,4.0,yes
+A380,Australia,Solo Leisure,London to Miami,Business Class,1.0,1.0,3.0,2.0,0.0,1.0,1.0,no
+A321,United Kingdom,Couple Leisure,London to Lanzarote,Economy Class,3.0,2.0,2.0,0.0,0.0,1.0,3.0,no
+A320,United Kingdom,Solo Leisure,London to Malaga,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+A320,United Kingdom,Couple Leisure,Tenerife to Gatwick,Business Class,1.0,3.0,1.0,1.0,1.0,0.0,1.0,no
+A320,United Kingdom,Business,London Heathrow to Malaga ,Business Class,2.0,2.0,1.0,2.0,1.0,0.0,2.0,no
+Boeing 777-300,United States,Couple Leisure,LHR to LAX,Business Class,4.0,5.0,5.0,3.0,0.0,5.0,4.0,yes
+A320neo,United Kingdom,Solo Leisure,Larnaca to London Heathrow,Business Class,3.0,3.0,3.0,1.0,0.0,0.0,1.0,yes
+A380,United States,Family Leisure,Washington to London,Economy Class,4.0,5.0,1.0,3.0,0.0,2.0,4.0,yes
+A380,United Kingdom,Family Leisure,London to Miami,Business Class,4.0,5.0,4.0,5.0,5.0,5.0,4.0,yes
+Embraer-190,United Kingdom,Couple Leisure,Edinburgh to London City,Economy Class,4.0,4.0,5.0,3.0,0.0,0.0,5.0,yes
+A380 / A320,Poland,Business,San Francisco to Warsaw via London,Economy Class,3.0,5.0,1.0,4.0,3.0,5.0,1.0,no
+Embraer,United Kingdom,Business,Frankfurt to London City,Economy Class,3.0,3.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 777,Hong Kong,Solo Leisure,London to Hong Kong,Business Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 787-8,Iceland,Couple Leisure,London to Mumbai,Business Class,4.0,5.0,4.0,5.0,0.0,3.0,4.0,yes
+A320,Iceland,Couple Leisure,Keflavik  to London,Business Class,3.0,5.0,2.0,4.0,4.0,0.0,3.0,yes
+A321,Qatar,Family Leisure,Madrid to London,Business Class,1.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+E190,United Kingdom,Business,Amsterdam to London City ,Economy Class,3.0,4.0,1.0,3.0,0.0,0.0,2.0,no
+A320,United Kingdom,Couple Leisure,Dalaman to Gatwick ,Business Class,3.0,5.0,5.0,4.0,0.0,0.0,3.0,no
+Boeing 787,United Kingdom,Solo Leisure,Seattle to London Heathrow,Economy Class,2.0,2.0,3.0,1.0,0.0,3.0,3.0,no
+A320,United Kingdom,Couple Leisure,Gatwick to Dalaman ,Economy Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+A320 A350,United Kingdom,Family Leisure,Newcastle to Las Vegas via Heathrow,Business Class,4.0,5.0,4.0,4.0,0.0,3.0,4.0,yes
+A380,United Kingdom,Solo Leisure,London to Miami,Business Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+A320Neo,United Kingdom,Solo Leisure,Amman to London,Economy Class,3.0,1.0,4.0,1.0,3.0,1.0,3.0,no
+Boeing 777,United Kingdom,Couple Leisure,Chennai to London ,Premium Economy,3.0,2.0,4.0,1.0,0.0,1.0,1.0,no
+A321neo,United States,Couple Leisure,Istanbul to London,Economy Class,2.0,2.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 777 -200,United Kingdom,Family Leisure,Kingston to London,Premium Economy,5.0,4.0,3.0,4.0,0.0,3.0,3.0,no
+Boeing 777,United Kingdom,Business,PHL to LHR,First Class,4.0,4.0,5.0,1.0,0.0,0.0,1.0,no
+Boeing 777-200,South Africa,Couple Leisure,London Heathrow to Cape Town,Economy Class,1.0,3.0,3.0,1.0,0.0,3.0,2.0,no
+A380,Greece,Business,Washington to London,Business Class,3.0,3.0,1.0,3.0,0.0,3.0,1.0,no
+A321,Italy,Couple Leisure,London Heathrow to Naples,Economy Class,1.0,4.0,2.0,1.0,0.0,0.0,2.0,no
+A320,Senegal,Solo Leisure,Berlin to London,Economy Class,5.0,5.0,4.0,3.0,5.0,0.0,5.0,yes
+A321Neo,United Kingdom,Couple Leisure,Cairo to London,Economy Class,1.0,1.0,2.0,1.0,1.0,1.0,1.0,no
+A321 neo,United Kingdom,Solo Leisure,Heathrow to Bodrum,Business Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,LHR to BOS,Business Class,5.0,4.0,5.0,3.0,0.0,4.0,4.0,yes
+Embraer 190,United Kingdom,Family Leisure,London City to Ibiza,Business Class,3.0,5.0,3.0,3.0,0.0,0.0,3.0,yes
+A350,United States,Business,Amsterdam to London,Business Class,3.0,3.0,2.0,3.0,1.0,2.0,2.0,no
+Boeing 737,United Kingdom,Couple Leisure,London Heathrow to Kalamata,Economy Class,1.0,4.0,3.0,3.0,0.0,0.0,3.0,yes
+Boeing 787,United Kingdom,Family Leisure,Santiago to London,Economy Class,1.0,2.0,4.0,2.0,0.0,4.0,1.0,no
+Boeing 777,United States,Business,Seattle to Edinburgh via Heathrow,Economy Class,2.0,4.0,2.0,4.0,1.0,4.0,2.0,no
+A350,United Kingdom,Solo Leisure,Vancouver to London Heathrow,Business Class,5.0,5.0,4.0,4.0,0.0,5.0,4.0,yes
+Boeing 777-300,United Kingdom,Family Leisure,London to New York,Premium Economy,4.0,4.0,4.0,3.0,5.0,5.0,4.0,yes
+A320,Canada,Couple Leisure,Lisbon to London ,Economy Class,1.0,3.0,1.0,0.0,1.0,1.0,2.0,no
+A320,Chile,Solo Leisure,London to Glasgow,Economy Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+A320 Finnair,United Kingdom,Business,London Heathrow to Malaga ,Business Class,2.0,2.0,1.0,3.0,1.0,1.0,1.0,no
+A319,United Kingdom,Couple Leisure,London to Nice,Business Class,2.0,3.0,4.0,3.0,1.0,0.0,1.0,no
+Boeing 787-9,Australia,Solo Leisure,Sydney to London via Singapore,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 787,United Kingdom,Couple Leisure,Singapore to London,Business Class,4.0,2.0,3.0,1.0,1.0,5.0,1.0,no
+Boeing 777,United States,Couple Leisure,Seattle to Zagreb via London,Premium Economy,3.0,2.0,3.0,1.0,1.0,1.0,2.0,no
+Boeing 777,Canada,Family Leisure,"Bangalore to Toronto via London, ",Premium Economy,2.0,1.0,1.0,2.0,0.0,3.0,1.0,no
+Dreamliner,Ireland,Family Leisure,London to Denver,Economy Class,2.0,1.0,1.0,1.0,1.0,3.0,2.0,no
+A350,United Kingdom,Solo Leisure,London to Hong Kong,Premium Economy,4.0,5.0,4.0,4.0,0.0,3.0,4.0,yes
+A320,United Kingdom,Business,Heathrow to Malaga,Business Class,3.0,3.0,3.0,4.0,1.0,0.0,2.0,no
+A350,United Kingdom,Couple Leisure,Las Vegas to London,Economy Class,1.0,1.0,4.0,1.0,1.0,4.0,1.0,no
+A320,United Kingdom,Solo Leisure,Faro to Heathrow,Business Class,5.0,5.0,3.0,5.0,0.0,0.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,London to Atlanta,Business Class,4.0,3.0,2.0,2.0,3.0,3.0,3.0,no
+A319,United Kingdom,Couple Leisure,Belfast to London,Economy Class,4.0,4.0,4.0,3.0,0.0,0.0,4.0,yes
+Boeing 787,United Kingdom,Business,London to Hong Kong,Premium Economy,2.0,2.0,4.0,3.0,5.0,3.0,3.0,no
+Boeing 777,United Kingdom,Business,London to New York,Business Class,3.0,2.0,3.0,2.0,1.0,2.0,2.0,no
+Boeing 777-200,United Kingdom,Solo Leisure,Mumbai to London,Economy Class,4.0,5.0,4.0,3.0,5.0,5.0,5.0,yes
+Boeing 787 / A320,Netherlands,Couple Leisure,Mexico City to Amsterdam via London,Business Class,4.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+A321Neo,France,Couple Leisure,Cairo to London,Economy Class,1.0,4.0,4.0,1.0,1.0,1.0,2.0,no
+Boeing 777,India,Solo Leisure,Mumbai to Nassau via London,Premium Economy,4.0,4.0,3.0,2.0,1.0,3.0,3.0,yes
+A380,United States,Couple Leisure,Johannesburg to London,First Class,4.0,5.0,1.0,4.0,4.0,4.0,2.0,no
+A320,United Kingdom,Couple Leisure,Gatwick to Dubrovnik,Economy Class,1.0,3.0,5.0,2.0,0.0,0.0,5.0,yes
+A320,United Kingdom,Solo Leisure,Geneva to London,Economy Class,2.0,3.0,1.0,3.0,0.0,0.0,2.0,no
+A321,United Kingdom,Business,London Heathrow to Arlanda Stockholm,Economy Class,5.0,5.0,5.0,2.0,0.0,0.0,5.0,yes
+Boeing 777 / A320,United States,Solo Leisure,New York to Istanbul via London,Economy Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+A321neo,Canada,Business,London to Cairo,Business Class,1.0,2.0,3.0,1.0,0.0,1.0,1.0,no
+Boeing 787,United Kingdom,Solo Leisure,London Singapore ,Economy Class,3.0,5.0,5.0,5.0,0.0,4.0,4.0,yes
+A380,Belgium,Business,London to Dubai,Business Class,2.0,3.0,4.0,2.0,0.0,3.0,3.0,yes
+A320,Belgium,Business,Brussels to London,Business Class,2.0,4.0,4.0,4.0,0.0,0.0,4.0,yes
+A320,United Arab Emirates,Couple Leisure,Faro to Gatwick ,Economy Class,2.0,2.0,5.0,1.0,0.0,0.0,2.0,no
+A320,United Kingdom,Family Leisure,Oslo to London,Economy Class,3.0,3.0,2.0,1.0,0.0,0.0,3.0,no
+A320,United Kingdom,Solo Leisure,London to Madrid,Economy Class,2.0,1.0,1.0,1.0,0.0,0.0,2.0,no
+Boeing 787-9,United Kingdom,Couple Leisure,Mexico City to London,Business Class,5.0,5.0,5.0,4.0,0.0,4.0,5.0,yes
+A320,Spain,Solo Leisure,Palma to Gatwick,Economy Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+A320,United Kingdom,Business,London Heathrow to Glasgow,Economy Class,5.0,5.0,5.0,4.0,5.0,0.0,5.0,yes
+Boeing 777-300,United Kingdom,Solo Leisure,London to Vancouver,Premium Economy,4.0,4.0,4.0,1.0,0.0,1.0,1.0,no
+A380,United Kingdom,Solo Leisure,Heathrow to Johannesburg,First Class,4.0,5.0,5.0,4.0,3.0,3.0,4.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,Cape Town to London,Business Class,4.0,5.0,4.0,5.0,4.0,4.0,4.0,yes
+Boeing 777-300ER,United Kingdom,Couple Leisure,London to Male,Business Class,5.0,5.0,5.0,5.0,2.0,5.0,4.0,yes
+Boeing 787-8,United Kingdom,Family Leisure,London to Tel Aviv,Economy Class,4.0,5.0,4.0,4.0,4.0,3.0,5.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,London Heathrow to Cape Town,Business Class,3.0,5.0,4.0,5.0,5.0,5.0,4.0,yes
+Boeing 777-200,United Kingdom,Family Leisure,Atlanta to London,Economy Class,1.0,1.0,1.0,1.0,0.0,3.0,2.0,no
+A380,United Kingdom,Family Leisure,London to Chicago,Economy Class,3.0,2.0,3.0,3.0,0.0,4.0,2.0,no
+"A320, A380",United States,Family Leisure,Vienna to Los Angeles via London Heathrow,Business Class,1.0,2.0,1.0,1.0,1.0,1.0,1.0,no
+A321,United Kingdom,Business,London to Belfast,Economy Class,4.0,5.0,5.0,3.0,0.0,0.0,4.0,yes
+A380,United Kingdom,Business,Doha to London,Economy Class,5.0,3.0,5.0,1.0,0.0,1.0,4.0,no
+Boeing 777,United Kingdom,Couple Leisure,London to Barbados,Business Class,3.0,4.0,4.0,4.0,0.0,2.0,3.0,no
+Boeing 777,United Kingdom,Solo Leisure,London Gatwick to Cape Town,Premium Economy,3.0,4.0,2.0,4.0,0.0,2.0,3.0,no
+A350,United Kingdom,Solo Leisure,Cape Town to London,Business Class,4.0,3.0,1.0,2.0,0.0,2.0,2.0,no
+A320,France,Couple Leisure,Marseille to London,Economy Class,3.0,3.0,4.0,2.0,0.0,0.0,5.0,yes
+Boeing 777-300,United Kingdom,Couple Leisure,London to Male,First Class,2.0,2.0,3.0,1.0,1.0,1.0,1.0,no
+A320,United Kingdom,Solo Leisure,Keflavik to London Heathrow,Economy Class,2.0,3.0,1.0,0.0,0.0,0.0,1.0,no
+A321,United Kingdom,Business,London to Rome,Business Class,4.0,4.0,1.0,5.0,4.0,0.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Barbados to London Heathrow,Business Class,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 777-200,New Zealand,Solo Leisure,Doha to  Gatwick,Economy Class,2.0,5.0,3.0,4.0,0.0,4.0,5.0,yes
+A320,United Kingdom,Business,Glasgow to London,Business Class,5.0,5.0,5.0,3.0,3.0,3.0,3.0,no
+Boeing 777,United Kingdom,Couple Leisure,London to Boston,Premium Economy,3.0,4.0,3.0,3.0,0.0,0.0,3.0,yes
+A320,Czech Republic,Solo Leisure,London to Prague,Business Class,2.0,1.0,2.0,1.0,0.0,0.0,1.0,no
+Boeing 787-9,United States,Business,Denver to London,Economy Class,1.0,1.0,1.0,1.0,0.0,3.0,1.0,no
+A320,United Kingdom,Solo Leisure,London to Marrakech,Business Class,3.0,5.0,4.0,5.0,0.0,0.0,3.0,yes
+A380,United States,Solo Leisure,San Francisco to London,Economy Class,2.0,1.0,3.0,2.0,1.0,2.0,2.0,no
+A320,United Kingdom,Solo Leisure,London to Lisbon,Business Class,3.0,4.0,3.0,4.0,0.0,0.0,3.0,yes
+Boeing 787 / A320,Canada,Solo Leisure,Montreal to Edinburgh via London Heathrow,Economy Class,4.0,4.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 777,United Kingdom,Solo Leisure,London to Cape Town,Business Class,4.0,2.0,1.0,1.0,0.0,4.0,1.0,no
+Boeing 787-8,Malaysia,Solo Leisure,Baltimore to London Heathrow,Economy Class,1.0,3.0,2.0,3.0,0.0,1.0,3.0,yes
+A320,United Kingdom,Solo Leisure,London Heathrow to Gibraltar,Economy Class,2.0,1.0,3.0,1.0,0.0,0.0,3.0,no
+Boeing 777,United Kingdom,Solo Leisure,London Heathrow to Nairobi,Business Class,3.0,1.0,1.0,1.0,1.0,2.0,1.0,no
+A350-1000,United States,Solo Leisure,London to Los Angeles,Business Class,5.0,4.0,3.0,5.0,5.0,5.0,5.0,yes
+A320,United States,Solo Leisure,Copenhagen to Heathrow,Business Class,3.0,5.0,4.0,5.0,5.0,0.0,5.0,yes
+A320,United Kingdom,Family Leisure,Larnaca to London,Economy Class,1.0,2.0,2.0,1.0,0.0,1.0,2.0,no
+Boeing 787-10,United States,Couple Leisure,Atlanta to London,Business Class,5.0,4.0,5.0,4.0,5.0,5.0,4.0,yes
+A380,United States,Solo Leisure,Madrid to San Francisco via London,Business Class,3.0,1.0,3.0,1.0,0.0,4.0,1.0,no
+A380,Malaysia,Solo Leisure,London to Washington,Economy Class,3.0,5.0,2.0,5.0,0.0,3.0,5.0,yes
+A380,United Kingdom,Couple Leisure,London to San Francisco,Economy Class,1.0,1.0,1.0,3.0,5.0,3.0,1.0,no
+Boeing 777-300,United States,Couple Leisure,London to Los Angeles,Economy Class,3.0,4.0,4.0,3.0,0.0,4.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Miami to London Heathrow,Business Class,5.0,5.0,4.0,3.0,0.0,2.0,3.0,yes
+A380,United Kingdom,Solo Leisure,Dubai to London,Business Class,4.0,4.0,4.0,4.0,2.0,2.0,3.0,yes
+A320neo,United States,Couple Leisure,London to Cairo,Economy Class,1.0,1.0,4.0,1.0,1.0,0.0,1.0,no
+Boeing 777,United States,Solo Leisure,Orlando to London Gatwick,Business Class,5.0,5.0,5.0,5.0,4.0,5.0,4.0,yes
+A321neo,United Kingdom,Business,London to Cairo,Economy Class,2.0,4.0,3.0,1.0,2.0,0.0,1.0,no
+A380,United States,Couple Leisure,Dallas to London,Economy Class,2.0,4.0,4.0,2.0,0.0,4.0,3.0,yes
+A319,United Kingdom,Couple Leisure,Jersey to London Heathrow,Business Class,4.0,4.0,3.0,4.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Couple Leisure,London Heathrow to Jersey,Business Class,4.0,5.0,3.0,4.0,0.0,0.0,4.0,yes
+A320-200,United States,Solo Leisure,Istanbul to London Heathrow,Business Class,1.0,3.0,3.0,2.0,0.0,1.0,2.0,no
+Boeing 777-200,United States,Solo Leisure,London Heathrow to New York JFK,Business Class,5.0,4.0,5.0,4.0,0.0,4.0,5.0,yes
+A320,United Kingdom,Couple Leisure,London to Lisbon,Economy Class,4.0,5.0,3.0,1.0,0.0,0.0,3.0,yes
+Boeing 777,New Zealand,Family Leisure,London to Rome,Economy Class,4.0,4.0,1.0,3.0,0.0,0.0,2.0,no
+Boeing 787,United Kingdom,Couple Leisure,Tel Aviv to London,Economy Class,5.0,5.0,3.0,5.0,0.0,5.0,4.0,yes
+Boeing 777,South Africa,Family Leisure,Cape Town to London Heathrow,Economy Class,2.0,1.0,4.0,1.0,0.0,3.0,3.0,no
+A320,United Kingdom,Solo Leisure,London to Marrakesh,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+A380,United Kingdom,Family Leisure,San Francisco to London,Business Class,4.0,5.0,4.0,4.0,5.0,4.0,4.0,yes
+A320,United Kingdom,Solo Leisure,London to Amman,Economy Class,1.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+A350-1000,United Kingdom,Couple Leisure,Sao Paulo to Heathrow ,Economy Class,1.0,2.0,3.0,3.0,0.0,1.0,3.0,yes
+A321,Australia,Couple Leisure,London to Reykjavik,Economy Class,3.0,4.0,1.0,1.0,0.0,0.0,4.0,yes
+A321,United Kingdom,Business,Belfast to London,Economy Class,4.0,5.0,2.0,2.0,0.0,0.0,4.0,yes
+A350,United Kingdom,Family Leisure,London to Los Angeles,Business Class,4.0,4.0,5.0,4.0,5.0,5.0,4.0,yes
+Embraer 190,United States,Couple Leisure,Dublin to London City,Business Class,4.0,4.0,1.0,3.0,0.0,0.0,1.0,no
+"A320, Boeing 787",Italy,Solo Leisure,Venice to Baltimore via London Heathrow,Premium Economy,3.0,3.0,1.0,3.0,1.0,2.0,2.0,no
+A350,South Africa,Couple Leisure,London Heathrow to Johannesburg,Economy Class,1.0,3.0,2.0,3.0,0.0,2.0,4.0,no
+A350,United Kingdom,Business,London to Johannesburg,Economy Class,1.0,4.0,3.0,1.0,1.0,2.0,2.0,no
+A320,United Kingdom,Couple Leisure,Paris CDG to London Heathrow,Economy Class,1.0,4.0,2.0,1.0,1.0,1.0,1.0,no
+A320,United Kingdom,Business,London to Malaga,Business Class,3.0,2.0,2.0,2.0,3.0,0.0,3.0,no
+A380,Canada,Solo Leisure,Vancouver to London,Economy Class,1.0,2.0,2.0,1.0,0.0,3.0,3.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,London to san Francisco,Business Class,4.0,4.0,2.0,3.0,4.0,5.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Cancun to London Gatwick,Premium Economy,4.0,3.0,3.0,2.0,0.0,4.0,3.0,no
+A320,United Kingdom,Couple Leisure,London to Thira,Business Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+A380,United Kingdom,Solo Leisure,Vancouver to London,Business Class,4.0,5.0,2.0,3.0,4.0,4.0,5.0,yes
+Boeing 777-300ER,United Kingdom,Business,London to Boston,Economy Class,4.0,5.0,5.0,5.0,5.0,0.0,3.0,yes
+Boeing 777,South Africa,Couple Leisure,Johannesburg to London Heathrow,Business Class,4.0,4.0,3.0,3.0,0.0,0.0,3.0,yes
+Boeing 777-300,United Kingdom,Family Leisure,Bridgetown to London ,Economy Class,1.0,5.0,3.0,1.0,0.0,3.0,1.0,no
+A320,United Kingdom,Solo Leisure,London Heathrow to Malaga,Economy Class,3.0,2.0,1.0,1.0,1.0,1.0,3.0,no
+A320,United Kingdom,Couple Leisure,Athens to London,Business Class,2.0,4.0,3.0,3.0,2.0,0.0,2.0,no
+Boeing 787,United Kingdom,Solo Leisure,London to Mexico City,Premium Economy,5.0,4.0,4.0,4.0,0.0,3.0,4.0,yes
+Boeing 777,United Arab Emirates,Solo Leisure,Dubai to Milan Malpensa via London,Premium Economy,5.0,5.0,5.0,5.0,3.0,5.0,5.0,yes
+Boeing 777,Botswana,Solo Leisure,London to Cape Town,Economy Class,2.0,1.0,1.0,2.0,0.0,0.0,1.0,no
+A321 Neo,Panama,Family Leisure,Madrid to London Heathrow,Business Class,3.0,5.0,5.0,5.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Couple Leisure,Dubrovnik to London Heathrow,Business Class,4.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+A320,United Kingdom,Solo Leisure,Pisa to London Heathrow,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 737 800,South Africa,Couple Leisure,Johannesburg to Durban,Economy Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+A320,Sweden,Couple Leisure,Gothenburg to Manchester via London,Economy Class,3.0,3.0,1.0,1.0,1.0,0.0,1.0,no
+Boeing 787,United Kingdom,Solo Leisure,Chicago to London,Business Class,5.0,5.0,3.0,5.0,0.0,4.0,4.0,yes
+A380,United Kingdom,Family Leisure,Glasgow to Washington via London,Economy Class,4.0,5.0,4.0,4.0,3.0,3.0,3.0,yes
+A320neo,United Kingdom,Business,Malaga to London,Business Class,2.0,4.0,2.0,2.0,1.0,0.0,2.0,no
+Boeing 787-9,United Kingdom,Solo Leisure,London to Rio De Janeiro,Business Class,5.0,5.0,4.0,5.0,2.0,5.0,5.0,yes
+A321neo,Greece,Family Leisure,London to Athens,Economy Class,3.0,1.0,3.0,1.0,0.0,0.0,4.0,no
+A320 / Boeing 777,France,Couple Leisure,Phoenix to Paris via London,Business Class,3.0,2.0,2.0,2.0,0.0,1.0,2.0,no
+Boeing 777-200,United States,Business,Phoenix to London Heathrow,Business Class,5.0,5.0,4.0,5.0,3.0,5.0,5.0,yes
+Embraer,United Kingdom,Solo Leisure,Edinburgh to London City,Business Class,5.0,5.0,5.0,5.0,0.0,0.0,4.0,yes
+Boeing 777-200ER,United Kingdom,Solo Leisure,Vancouver to London,Business Class,4.0,4.0,2.0,4.0,5.0,4.0,5.0,yes
+A319,United Kingdom,Couple Leisure,London to Venice,Business Class,2.0,4.0,2.0,2.0,0.0,0.0,3.0,yes
+A320,United Kingdom,Business,London to Barcelona,Business Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,Barbados to Heathrow,Business Class,2.0,3.0,4.0,3.0,0.0,1.0,3.0,yes
+A320,Switzerland,Business,Geneva to London,Business Class,4.0,5.0,1.0,4.0,3.0,0.0,4.0,no
+Boeing 777,United Kingdom,Couple Leisure,London to Barbados,Business Class,4.0,5.0,4.0,4.0,0.0,2.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Cape Town to London Heathrow,Business Class,3.0,3.0,3.0,1.0,0.0,0.0,1.0,no
+A320,United Kingdom,Business,London to Malaga,Business Class,2.0,1.0,1.0,2.0,0.0,1.0,1.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,Cape Town to London,Business Class,2.0,1.0,3.0,1.0,0.0,2.0,2.0,no
+Boeing 787-9,United Kingdom,Couple Leisure,London to Austin,Economy Class,4.0,1.0,1.0,1.0,0.0,1.0,3.0,no
+Boeing 787-900,United Kingdom,Solo Leisure,Singapore to London,First Class,5.0,1.0,2.0,1.0,0.0,4.0,2.0,no
+A350,United Kingdom,Family Leisure,Dublin to Dubai via London,Economy Class,3.0,4.0,3.0,3.0,0.0,1.0,3.0,no
+A321-neo,United Kingdom,Business,London Heathrow to Sofia,Business Class,3.0,5.0,1.0,2.0,1.0,0.0,2.0,no
+Boeing 777,United Kingdom,Solo Leisure,Cape Town to Glasgow via London,Premium Economy,3.0,3.0,2.0,2.0,0.0,3.0,3.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,London to Cape Town,Business Class,3.0,3.0,3.0,2.0,0.0,1.0,3.0,no
+A320,United Kingdom,Couple Leisure,Lisbon to London,Business Class,1.0,3.0,3.0,1.0,0.0,0.0,1.0,no
+A350,United Kingdom,Solo Leisure,Vancouver to London,Premium Economy,4.0,5.0,4.0,5.0,4.0,5.0,5.0,yes
+A320,United Kingdom,Business,London to Malaga,Business Class,3.0,3.0,3.0,2.0,3.0,0.0,2.0,no
+A322,Greece,Business,London to Athens,Economy Class,2.0,3.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 787-9,United Kingdom,Family Leisure,Washington to London,Business Class,4.0,5.0,5.0,4.0,4.0,4.0,4.0,yes
+A320,United Arab Emirates,Business,Dublin to London,Business Class,0.0,0.0,0.0,0.0,0.0,0.0,1.0,no
+Boeing 787-9,United Kingdom,Family Leisure,London to Washington,Business Class,4.0,5.0,5.0,5.0,5.0,4.0,4.0,yes
+Boeing 787-9,United Kingdom,Couple Leisure,Atlanta to Belfast via Heathrow,Business Class,4.0,5.0,5.0,4.0,0.0,4.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Cape Town to London Heathrow,Business Class,3.0,4.0,3.0,2.0,0.0,4.0,3.0,yes
+Boeing 777,United Kingdom,Couple Leisure,London Heathrow to Orlando,Business Class,2.0,4.0,3.0,3.0,0.0,1.0,3.0,no
+A380,United Kingdom,Couple Leisure,London Heathrow to Dubai,Economy Class,2.0,1.0,1.0,1.0,0.0,2.0,1.0,no
+Boeing 737-800,South Africa,Couple Leisure,Cape Town to Durban,Business Class,3.0,2.0,4.0,3.0,0.0,0.0,3.0,yes
+A319,United Kingdom,Business,Glasgow to London Heathrow,Business Class,2.0,1.0,2.0,1.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,London to Cape Town,Business Class,3.0,3.0,4.0,2.0,1.0,5.0,3.0,yes
+A320-200,United Kingdom,Solo Leisure,Edinburgh to London,Business Class,4.0,5.0,5.0,4.0,5.0,0.0,4.0,yes
+A320-200,United Kingdom,Solo Leisure,London to Edinburgh,Business Class,4.0,5.0,3.0,5.0,0.0,0.0,4.0,yes
+A380,United Kingdom,Family Leisure,London Heathrow to Los Angeles,Economy Class,1.0,4.0,2.0,1.0,0.0,1.0,1.0,no
+Boeing 777,United Kingdom,Business,London to St Lucia,Economy Class,5.0,5.0,5.0,4.0,0.0,0.0,5.0,yes
+Boeing 787,United Kingdom,Couple Leisure,London to Chicago,First Class,4.0,5.0,4.0,5.0,5.0,3.0,4.0,yes
+A320,United Arab Emirates,Solo Leisure,London to Istanbul,Business Class,1.0,2.0,1.0,3.0,1.0,1.0,2.0,no
+Boeing 777,United Kingdom,Couple Leisure,Dubai to London Heaathrow,Business Class,4.0,2.0,1.0,3.0,3.0,4.0,4.0,yes
+A320,United Kingdom,Solo Leisure,London to Aberdeen,Economy Class,0.0,0.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,London Gatwick to Cancun,Business Class,1.0,5.0,5.0,3.0,0.0,2.0,3.0,no
+A320,United Kingdom,Business,London Heathrow to Paris CDG,Business Class,3.0,4.0,1.0,4.0,0.0,0.0,3.0,no
+A321 neo,United Kingdom,Solo Leisure,London to Tenerife,Business Class,3.0,2.0,4.0,3.0,0.0,0.0,2.0,no
+A321 neo,United Kingdom,Solo Leisure,Tenerife to London,Business Class,4.0,5.0,4.0,5.0,0.0,0.0,4.0,yes
+A320,Sweden,Solo Leisure,Stockholm to London Heathrow,Economy Class,1.0,5.0,1.0,1.0,0.0,0.0,2.0,no
+A320neo,United Kingdom,Couple Leisure,London Heathrow to Tenerife South,Business Class,3.0,3.0,2.0,1.0,0.0,0.0,1.0,no
+A320 Neo,United Kingdom,Couple Leisure,Heathrow to Tenerife South,Business Class,2.0,5.0,3.0,3.0,0.0,0.0,3.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Manchester to Nassau via London,Economy Class,2.0,2.0,1.0,2.0,1.0,2.0,1.0,no
+A321,United Kingdom,Business,Belfast to London,Economy Class,4.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+A321,United Kingdom,Family Leisure,Larnaca to London Heathrow,Business Class,2.0,4.0,3.0,2.0,3.0,0.0,3.0,yes
+A320,United Kingdom,Couple Leisure,Lisbon to London Heathrow,Business Class,4.0,4.0,5.0,4.0,0.0,0.0,4.0,yes
+Boeing 787,United Kingdom,Couple Leisure,Madrid to London,Premium Economy,4.0,5.0,3.0,5.0,0.0,4.0,5.0,yes
+A320NEO,Italy,Family Leisure,London to Bologna,Economy Class,5.0,5.0,2.0,3.0,0.0,0.0,4.0,yes
+A321 Neo,United Kingdom,Business,London to Alicante,Economy Class,1.0,4.0,4.0,4.0,0.0,0.0,5.0,yes
+A321,United Kingdom,Family Leisure,London to Larnaca,Business Class,3.0,5.0,4.0,3.0,2.0,2.0,4.0,yes
+A320,United Kingdom,Business,Prague to London,Economy Class,4.0,5.0,1.0,0.0,0.0,0.0,1.0,no
+A350,United Kingdom,Business,London to Toronto,Business Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+A320,United Kingdom,Family Leisure,London to Prague,Economy Class,1.0,1.0,1.0,1.0,0.0,0.0,2.0,no
+A321,United Kingdom,Couple Leisure,Larnaca to London Heathrow,Business Class,3.0,4.0,4.0,3.0,3.0,0.0,4.0,yes
+A321,United Kingdom,Business,Belfast to London,Economy Class,4.0,3.0,4.0,3.0,0.0,0.0,5.0,yes
+A320,United Kingdom,Couple Leisure,Manchester to Aberdeen via Heathrow,Economy Class,1.0,1.0,1.0,1.0,1.0,0.0,1.0,no
+A320,United Kingdom,Couple Leisure,London Heathrow to Larnaca,Business Class,3.0,3.0,3.0,3.0,2.0,0.0,3.0,yes
+A320,United Kingdom,Family Leisure,London to Lisbon,Business Class,3.0,5.0,3.0,4.0,4.0,0.0,4.0,yes
+Embraer,United Kingdom,Solo Leisure,Frankfurt to London,Economy Class,4.0,4.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 787-8,Russian Federation,Solo Leisure,London to Moscow Domodedovo,Economy Class,5.0,4.0,3.0,1.0,1.0,1.0,2.0,yes
+A320,United Kingdom,Family Leisure,London to Corfu,Economy Class,4.0,5.0,4.0,4.0,4.0,4.0,4.0,yes
+A330,United Kingdom,Couple Leisure,London Heathrow to Nice,Business Class,3.0,4.0,3.0,5.0,0.0,0.0,3.0,no
+A230,United Kingdom,Solo Leisure,Belfast to Budapest via Heathrow,Premium Economy,1.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 777-200,United Kingdom,Family Leisure,Cancun to Gatwick,Business Class,4.0,5.0,4.0,5.0,4.0,4.0,4.0,yes
+Boeing 777-200,United Kingdom,Family Leisure,Gatwick to Cancun,Business Class,5.0,5.0,4.0,4.0,4.0,4.0,5.0,yes
+Boeing 787,United States,Solo Leisure,London to Mexico City,Business Class,1.0,2.0,3.0,3.0,1.0,3.0,1.0,no
+A320,United Kingdom,Couple Leisure,Preveza to London,Business Class,4.0,3.0,5.0,3.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Couple Leisure,London Heathrow to Preveza,Business Class,4.0,4.0,5.0,4.0,0.0,0.0,4.0,yes
+A321NEO,United Kingdom,Solo Leisure,Aberdeen to London Heathrow,Economy Class,4.0,5.0,4.0,4.0,5.0,3.0,4.0,yes
+Boeing 737-800,South Africa,Solo Leisure,Johannesburg to Cape Town,Economy Class,4.0,5.0,5.0,4.0,0.0,0.0,4.0,yes
+Boeing 787-9,United Kingdom,Business,Mexico City to London Heathrow,First Class,2.0,5.0,3.0,1.0,1.0,2.0,3.0,no
+A350,United Kingdom,Solo Leisure,London Heathrow to Dubai,Premium Economy,4.0,1.0,5.0,1.0,4.0,5.0,5.0,no
+A321,United Kingdom,Solo Leisure,London to Tenerife,Business Class,3.0,5.0,4.0,3.0,5.0,0.0,4.0,yes
+Boeing 747,United Kingdom,Family Leisure,London Heathrow to Lahore,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+A320neo,Poland,Solo Leisure,Warsaw to London-Heathrow,Business Class,5.0,5.0,4.0,5.0,5.0,5.0,5.0,yes
+A321,United Kingdom,Couple Leisure,London to Santorini,Economy Class,4.0,4.0,1.0,3.0,0.0,0.0,2.0,no
+A321,United States,Couple Leisure,London to Paris,Economy Class,2.0,3.0,5.0,2.0,0.0,0.0,1.0,no
+A319,Germany,Business,Berlin to London,Economy Class,1.0,1.0,2.0,2.0,0.0,0.0,2.0,no
+A320,Thailand,Solo Leisure,Newcastle to London Heathrow,Economy Class,5.0,5.0,5.0,3.0,0.0,0.0,5.0,yes
+Embraer 195,United Kingdom,Business,London City to Edinburgh,Economy Class,3.0,4.0,5.0,0.0,0.0,0.0,3.0,yes
+A350,United Kingdom,Solo Leisure,London to Tel Aviv,Premium Economy,0.0,0.0,0.0,0.0,0.0,0.0,1.0,no
+A350,United Kingdom,Couple Leisure,London Heathrow to Toronto ,Business Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,Las Vegas to London Heathrow ,Business Class,5.0,5.0,5.0,5.0,0.0,2.0,5.0,yes
+A321neo,Poland,Solo Leisure,London-Heathrow to Warsaw,Economy Class,5.0,5.0,4.0,0.0,0.0,0.0,3.0,yes
+Boeing 747,United Kingdom,Solo Leisure,Nashville to London via Chicago,Business Class,3.0,5.0,3.0,4.0,0.0,0.0,1.0,no
+Boeing 777,United States,Couple Leisure,Seattle to Heathrow,Economy Class,0.0,0.0,0.0,0.0,0.0,0.0,5.0,no
+Boeing 747-400,United Kingdom,Business,Chicago to London Heathrow,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 747-400,United Kingdom,Business,London to New York JFK,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 787,United Kingdom,Solo Leisure,London to Beijing,Economy Class,3.0,5.0,4.0,4.0,0.0,5.0,4.0,yes
+A380,Hong Kong,Family Leisure,Hong Kong to London,Economy Class,5.0,5.0,5.0,5.0,0.0,3.0,5.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,Mumbai to London,Economy Class,4.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,London to Delhi,Economy Class,4.0,5.0,2.0,5.0,0.0,4.0,4.0,yes
+A319,United Kingdom,Business,Paris to London,Business Class,1.0,4.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 747-400,United Kingdom,Solo Leisure,Vancouver to London,Premium Economy,4.0,5.0,4.0,5.0,0.0,5.0,5.0,yes
+Boeing 787,United Kingdom,Business,London to Seattle,Business Class,0.0,0.0,0.0,0.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Solo Leisure,London Heathrow to Nairobi,First Class,3.0,5.0,2.0,1.0,0.0,3.0,3.0,no
+Boeing 787,United Kingdom,Solo Leisure,Rio de Janeiro to London ,Economy Class,1.0,3.0,1.0,1.0,0.0,1.0,2.0,no
+Boeing 747-400,United States,Couple Leisure,Las Vegas to Paris via London,Business Class,1.0,4.0,4.0,3.0,0.0,1.0,1.0,no
+A320,United Kingdom,Couple Leisure,Geneva to Gatwick,Economy Class,0.0,0.0,1.0,0.0,0.0,0.0,1.0,no
+A321,United Kingdom,Solo Leisure,London Heathrow to Sofia,Business Class,4.0,4.0,5.0,4.0,2.0,0.0,4.0,yes
+A321neo,United Kingdom,Business,Madrid to London ,Business Class,2.0,3.0,3.0,2.0,1.0,1.0,2.0,no
+A320,Australia,Family Leisure,Prague to London,Economy Class,5.0,5.0,3.0,0.0,3.0,0.0,5.0,yes
+A380-800,United Kingdom,Couple Leisure,Johannesburg to London,Business Class,3.0,4.0,3.0,3.0,0.0,3.0,3.0,yes
+Boeing 777-200,United Kingdom,Business,Las Vegas to Gatwick,Business Class,2.0,2.0,4.0,2.0,0.0,4.0,1.0,no
+Boeing 747-400,Sweden,Business,San Diego to Stockholm via London,Business Class,5.0,5.0,1.0,5.0,1.0,3.0,3.0,no
+A320,United Kingdom,Couple Leisure,Cape Town to Johannesburg,Business Class,4.0,4.0,4.0,3.0,0.0,0.0,4.0,yes
+Boeing 787-9,United States,Business,Phoenix to London,Business Class,3.0,5.0,3.0,4.0,0.0,4.0,5.0,yes
+Boeing 777-200,United Kingdom,Solo Leisure,London Heathrow to Bangkok,Economy Class,2.0,4.0,4.0,4.0,1.0,1.0,2.0,no
+Boeing 777-200ER,India,Solo Leisure,Mumbai to Boston via London,Economy Class,2.0,5.0,1.0,5.0,1.0,2.0,3.0,yes
+Boeing 787 / A320,Canada,Solo Leisure,Toronto to Geneva via London,Economy Class,4.0,5.0,4.0,4.0,0.0,3.0,3.0,yes
+Boeing 777-300,United Kingdom,Solo Leisure,Hong Kong to London,First Class,4.0,5.0,4.0,5.0,0.0,4.0,4.0,yes
+Boeing 787,France,Business,San Jose to Amsterdam via London,Economy Class,1.0,1.0,2.0,2.0,0.0,3.0,3.0,no
+Boeing 777,Singapore,Couple Leisure,Singapore to Paris via London,Business Class,3.0,4.0,1.0,4.0,0.0,4.0,2.0,no
+A321neo,Poland,Solo Leisure,Warsaw to London,Economy Class,5.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+Boeing 747-400,United Kingdom,Family Leisure,New York  to London Heathrow,Economy Class,4.0,5.0,5.0,3.0,0.0,4.0,4.0,yes
+Boeing 737-800,United Kingdom,Couple Leisure,Johannesburg to Cape Town,Business Class,3.0,3.0,4.0,3.0,0.0,0.0,4.0,yes
+A380,United Kingdom,Couple Leisure,London to Johannesburg,Business Class,4.0,4.0,4.0,4.0,2.0,3.0,4.0,yes
+Boeing 777-200 / 747-400,India,Solo Leisure,Boston to Mumbai via London,Economy Class,2.0,5.0,1.0,4.0,0.0,2.0,5.0,yes
+A320,United Kingdom,Solo Leisure,London Gatwick to Glasgow,Business Class,4.0,5.0,5.0,4.0,0.0,0.0,4.0,yes
+Boeing 787-8,United Kingdom,Solo Leisure,Rio De Janeiro to London Heathrow,Business Class,5.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+A320,United Kingdom,Business,Gatwick to Tirana,Business Class,1.0,3.0,4.0,2.0,5.0,1.0,2.0,yes
+A320,United Kingdom,Couple Leisure,Keflavik to London Heathrow,Business Class,3.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+A380,Saint Kitts and Nevis,Couple Leisure,London to Hong Kong,Business Class,3.0,4.0,1.0,3.0,0.0,4.0,3.0,no
+Boeing 747,United States,Family Leisure,Los Angeles to London Heathrow,Business Class,1.0,3.0,1.0,2.0,1.0,2.0,1.0,no
+A320,United Kingdom,Solo Leisure,Istanbul to London,Economy Class,2.0,2.0,1.0,0.0,0.0,0.0,1.0,no
+A320,Vietnam,Solo Leisure,Budapest to Billund via London,Economy Class,3.0,3.0,4.0,2.0,0.0,1.0,3.0,yes
+Boeing 777-300ER,Australia,Solo Leisure,Sydney to Toulouse via Singapore / London,Economy Class,5.0,5.0,4.0,5.0,1.0,2.0,5.0,yes
+A321neo,United Kingdom,Solo Leisure,Sofia to London,Business Class,3.0,4.0,3.0,4.0,0.0,0.0,4.0,yes
+A320,Germany,Solo Leisure,London to Munich,Economy Class,2.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 777 - 200,Australia,Business,New York to London,Economy Class,2.0,2.0,5.0,1.0,0.0,1.0,5.0,no
+Boeing 747-400,United States,Business,London to San Francisco ,Business Class,3.0,5.0,5.0,4.0,5.0,4.0,4.0,yes
+A319,United Kingdom,Couple Leisure,Heathrow to Belfast,Economy Class,2.0,5.0,1.0,5.0,0.0,0.0,3.0,no
+A380,Ireland,Solo Leisure,London to Singapore,Business Class,4.0,5.0,5.0,5.0,1.0,1.0,5.0,yes
+A319,Sweden,Solo Leisure,London Heathrow to Stockholm,Business Class,3.0,5.0,5.0,5.0,0.0,0.0,4.0,yes
+A380,United Kingdom,Family Leisure,Johannesburg to London,Economy Class,1.0,3.0,2.0,3.0,0.0,3.0,1.0,no
+A380,United Kingdom,Couple Leisure,Johannesburg to London,Business Class,3.0,3.0,3.0,3.0,0.0,3.0,4.0,yes
+Boeing 747-400,Sweden,Solo Leisure,London Heathrow to Miami,First Class,4.0,5.0,5.0,5.0,1.0,5.0,5.0,yes
+A319,Sweden,Solo Leisure,Stockholm to London Heathrow,Business Class,3.0,5.0,5.0,5.0,0.0,0.0,4.0,yes
+Boeing 777-300,Australia,Couple Leisure,London to Sydney via Singapore,Economy Class,3.0,4.0,3.0,4.0,0.0,2.0,4.0,yes
+Boeing 747-400,United States,Couple Leisure,London to New York JFK,Business Class,1.0,4.0,1.0,3.0,0.0,1.0,1.0,no
+Boeing 777-200,United Kingdom,Solo Leisure,Gatwick to Bridgetown,Business Class,3.0,2.0,3.0,3.0,0.0,3.0,2.0,no
+Boeing 777,Belgium,Business,Brussels to Bangkok via London,Business Class,4.0,2.0,4.0,2.0,0.0,3.0,3.0,no
+Boeing 777-200,Norway,Business,San Francisco to Oslo via London,Economy Class,1.0,2.0,1.0,2.0,0.0,0.0,1.0,no
+A380,United Kingdom,Couple Leisure,London to Johannesburg ,Business Class,3.0,3.0,3.0,3.0,0.0,3.0,3.0,yes
+Boeing 787-9,Malaysia,Family Leisure,doha to londonDoha to London,Economy Class,5.0,5.0,5.0,4.0,0.0,4.0,5.0,yes
+A380,United Kingdom,Couple Leisure,San Francisco to London,Economy Class,4.0,2.0,3.0,3.0,0.0,2.0,3.0,no
+Boeing 777-300,Australia,Business,Sydney to Singapore,Business Class,1.0,1.0,2.0,1.0,1.0,1.0,1.0,no
+Boeing 777,United Kingdom,Family Leisure,London to Mauritius,Economy Class,1.0,4.0,1.0,1.0,1.0,1.0,2.0,no
+Boeing 747-400,Ireland,Solo Leisure,London to Vancouver,Economy Class,2.0,2.0,2.0,2.0,0.0,1.0,3.0,no
+Boeing 747-400,Australia,Couple Leisure,New York to Paris via London,Economy Class,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no
+A320,United Kingdom,Couple Leisure,London Heathrow to Lisbon,Business Class,4.0,1.0,5.0,2.0,0.0,0.0,2.0,no
+Boeing 777,United Kingdom,Solo Leisure,London to Boston,Economy Class,4.0,4.0,4.0,4.0,1.0,4.0,3.0,yes
+A320,United Kingdom,Business,Tirana to London ,Economy Class,4.0,5.0,5.0,3.0,5.0,5.0,5.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,Gatwick to St Lucia,Economy Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+A320,United Kingdom,Couple Leisure,Gatwick to Venice,Business Class,4.0,5.0,5.0,4.0,0.0,0.0,4.0,yes
+Boeing 787-9,United Kingdom,Couple Leisure,Seychelles to London,Business Class,5.0,5.0,4.0,5.0,0.0,5.0,5.0,yes
+A320,United Kingdom,Couple Leisure,London to Belfast,Economy Class,3.0,2.0,1.0,0.0,0.0,0.0,2.0,no
+Boeing 787,United States,Couple Leisure,San Jose to London,Business Class,2.0,4.0,3.0,4.0,0.0,1.0,2.0,no
+A321neo,United Kingdom,Solo Leisure,London Heathrow to Edinburgh,Economy Class,1.0,3.0,3.0,1.0,0.0,0.0,3.0,yes
+Boeing 777-200,United Kingdom,Family Leisure,Gatwick to Barbados,Economy Class,4.0,4.0,5.0,4.0,5.0,5.0,5.0,yes
+Boeing 777,Canada,Couple Leisure,Toronto to London,Economy Class,3.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+A380,United Kingdom,Couple Leisure,San Francisco to London,Business Class,5.0,5.0,5.0,5.0,0.0,4.0,4.0,yes
+A319,United Kingdom,Solo Leisure,London to Belfast,Business Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+Boeing 747-400,Switzerland,Business,Vancouver to London,Business Class,4.0,1.0,3.0,1.0,0.0,4.0,2.0,no
+A320,United Kingdom,Solo Leisure,London to Malaga,Economy Class,1.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+A320,United Kingdom,Business,Brussels to London,Economy Class,4.0,4.0,1.0,0.0,0.0,0.0,2.0,no
+Boeing 777,Australia,Couple Leisure,London to Singapore,Premium Economy,1.0,1.0,3.0,1.0,0.0,0.0,1.0,no
+Boeing 787,Argentina,Solo Leisure,Kuala Lumpur to Glasgow via London,Premium Economy,5.0,1.0,2.0,2.0,0.0,3.0,1.0,no
+Boeing 787-900,United Kingdom,Couple Leisure,London Heathrow to Seychelles,Business Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+A321,Jordan,Couple Leisure,Amman to London,Economy Class,4.0,4.0,4.0,4.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Business,London to Athens,Economy Class,3.0,2.0,4.0,0.0,0.0,0.0,2.0,no
+Boeing 777,United States,Couple Leisure,New York JFK to London,Economy Class,1.0,2.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 777-200,Argentina,Couple Leisure,Buenos Aires to London Heathrow,Premium Economy,1.0,3.0,4.0,1.0,0.0,1.0,1.0,no
+"Boeing 787-9, A320-200",Mexico,Solo Leisure,Mexico City to Barcelona via London Heathrow,Economy Class,5.0,4.0,4.0,4.0,0.0,4.0,3.0,yes
+A319,United Kingdom,Couple Leisure,Bari to London Gatwick,Economy Class,4.0,5.0,4.0,4.0,0.0,0.0,5.0,yes
+Boeing 787,United Kingdom,Couple Leisure,Abu Dhabi to London Heathrow,Premium Economy,1.0,3.0,4.0,1.0,0.0,0.0,1.0,no
+Boeing 787-900,United Kingdom,Couple Leisure,London Heathrow to Abu Dhabi,Economy Class,5.0,5.0,5.0,5.0,3.0,4.0,4.0,yes
+A350,United Kingdom,Business,Dubai to London Heathrow,Business Class,5.0,5.0,5.0,5.0,4.0,3.0,4.0,yes
+A320,United Kingdom,Business,London to Athens,Economy Class,1.0,3.0,1.0,0.0,0.0,0.0,1.0,no
+A320,United Kingdom,Solo Leisure,London Heathrow to Newcastle,Economy Class,4.0,4.0,5.0,0.0,0.0,0.0,4.0,yes
+Boeing 787-9,Malaysia,Family Leisure,Kuala Lumpur to London,Economy Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 747,United Kingdom,Couple Leisure,Austin to London,Business Class,3.0,3.0,3.0,3.0,0.0,0.0,4.0,yes
+Boeing 787,United Kingdom,Couple Leisure,London to Kuala Lumpur,Premium Economy,5.0,4.0,4.0,3.0,4.0,4.0,4.0,yes
+A320,United Kingdom,Business,Gatwick to Alicante,Business Class,5.0,5.0,2.0,5.0,0.0,5.0,5.0,yes
+A380,United Kingdom,Solo Leisure,Vancouver to London,Premium Economy,5.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 747,United Kingdom,Couple Leisure,London Heathrow to Austin,Business Class,4.0,5.0,3.0,4.0,0.0,2.0,5.0,yes
+Boeing 747,United Kingdom,Couple Leisure,London Heathrow to Austin,Business Class,4.0,4.0,4.0,4.0,0.0,1.0,4.0,yes
+A320,United Kingdom,Couple Leisure,Cephalonia to London ,Business Class,3.0,4.0,3.0,4.0,4.0,0.0,3.0,yes
+A380,Italy,Family Leisure,Chicago to Zurich via London,Economy Class,1.0,4.0,1.0,1.0,0.0,1.0,3.0,no
+A321,United Kingdom,Solo Leisure,London Heathrow to Berlin Tegel,Economy Class,5.0,5.0,3.0,3.0,0.0,0.0,5.0,yes
+EMB190,United Kingdom,Business,London to Geneva,Economy Class,4.0,2.0,4.0,1.0,0.0,0.0,2.0,no
+A320,United Kingdom,Couple Leisure,London to Kefalonia ,Business Class,3.0,2.0,3.0,2.0,0.0,0.0,3.0,no
+Boeing 777-200,United Kingdom,Business,London Heathrow to Abuja Nigeria,Economy Class,3.0,4.0,1.0,1.0,0.0,1.0,2.0,no
+Boeing 777-300,United Kingdom,Solo Leisure,London to Bangkok,Economy Class,2.0,3.0,4.0,4.0,0.0,1.0,3.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,Belfast to San Francisco via London,Business Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+A319,United Kingdom,Couple Leisure,London to Gothenburg,Economy Class,4.0,4.0,4.0,0.0,0.0,0.0,4.0,yes
+Boeing 787 / A320,Sweden,Solo Leisure,Mahe to Stockholm via London ,Business Class,1.0,2.0,1.0,2.0,0.0,4.0,2.0,no
+A319 / Boeing777,United Kingdom,Couple Leisure,Glasgow to Tampa via Gatwick,Business Class,4.0,5.0,5.0,3.0,0.0,3.0,4.0,yes
+Boeing 777-200,United Kingdom,Family Leisure,Orlando to Gatwick,Economy Class,2.0,3.0,3.0,1.0,0.0,4.0,1.0,no
+Boeing 787,United Arab Emirates,Family Leisure,London to Abu Dhabi,Economy Class,3.0,4.0,4.0,5.0,0.0,5.0,4.0,yes
+A320,United Kingdom,Couple Leisure,London to St Petersburgh,Business Class,1.0,3.0,5.0,1.0,0.0,0.0,1.0,no
+Boeing 777,Australia,Business,Sydney to London via Singapore,Premium Economy,4.0,2.0,4.0,1.0,3.0,2.0,3.0,no
+A380,United States,Couple Leisure,London to Johannesburg,Business Class,1.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 777-200,China,Family Leisure,London to Shanghai,First Class,5.0,5.0,5.0,4.0,3.0,3.0,5.0,yes
+Boeing 747,United States,Family Leisure,Boston to Copenhagen via London,Premium Economy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 777-200,United Kingdom,Business,London Gatwick to San Jose Costa Rica,Business Class,1.0,3.0,5.0,4.0,1.0,1.0,1.0,no
+Boeing 777,United Kingdom,Solo Leisure,London to Dubai,Economy Class,3.0,4.0,1.0,3.0,0.0,3.0,3.0,no
+"A340-300, A320",Canada,Family Leisure,Toronto to Pisa London Heathrow,Business Class,4.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+A320,United Kingdom,Family Leisure,London Heathrow to Venice Marco Polo,Economy Class,4.0,5.0,4.0,0.0,4.0,0.0,4.0,yes
+A321neo,United Kingdom,Family Leisure,London to Larnaca,Economy Class,1.0,3.0,2.0,0.0,0.0,0.0,1.0,no
+Boeing 777-200,United Kingdom,Family Leisure,Gatwick to Orlando,Economy Class,4.0,5.0,5.0,4.0,0.0,4.0,4.0,yes
+A320,Hong Kong,Family Leisure,London to Munich,Economy Class,4.0,4.0,2.0,0.0,0.0,0.0,3.0,yes
+A320,Slovakia,Solo Leisure,Vienna to Heathrow,Economy Class,4.0,5.0,5.0,5.0,0.0,3.0,4.0,yes
+A321,United Kingdom,Couple Leisure,Malaga to London ,Business Class,1.0,2.0,1.0,2.0,1.0,1.0,1.0,no
+A320,United Kingdom,Couple Leisure,Palma to London Heathrow,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+A321-200,United Kingdom,Family Leisure,London Heathrow to Sofia,Economy Class,5.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Buenos Aires to London Heathrow,Economy Class,3.0,5.0,4.0,4.0,0.0,2.0,4.0,yes
+Boeing 777-300ER,Hong Kong,Family Leisure,Hong Kong to London,Economy Class,4.0,3.0,2.0,3.0,2.0,3.0,3.0,yes
+A320,United Kingdom,Solo Leisure,London Heathrow to Malaga,Business Class,2.0,1.0,3.0,1.0,0.0,0.0,1.0,no
+B777-200,United Kingdom,Business,London to Delhi,Economy Class,1.0,1.0,3.0,3.0,0.0,2.0,2.0,no
+Boeing 747-400,United Kingdom,Family Leisure,London Heathrow to Austin,Economy Class,1.0,3.0,3.0,1.0,1.0,1.0,2.0,no
+A320,United States,Business,Mykonos to London,Business Class,2.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 737-800,Thailand,Family Leisure,Johannesburg OR Tambo to Cape Town,Economy Class,4.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 777-200,United Kingdom,Family Leisure,Grenada to Gatwick,Economy Class,1.0,4.0,4.0,3.0,0.0,5.0,3.0,yes
+Boeing 777,United Arab Emirates,Solo Leisure,London to Dubai,Premium Economy,5.0,5.0,5.0,3.0,5.0,5.0,5.0,yes
+A321,New Zealand,Solo Leisure,Heathrow to Manchester,Business Class,2.0,3.0,1.0,0.0,0.0,0.0,1.0,no
+A320,Belgium,Solo Leisure,Brussels to Larnaca via London,Business Class,3.0,4.0,4.0,4.0,0.0,0.0,4.0,yes
+A320,Australia,Couple Leisure,Stockholm to London,Business Class,2.0,1.0,3.0,1.0,0.0,0.0,1.0,no
+Boeing 737,United Kingdom,Family Leisure,Orlando to London,Premium Economy,3.0,4.0,3.0,1.0,1.0,3.0,3.0,yes
+A320,Australia,Couple Leisure,Lisbon to London,Business Class,1.0,1.0,2.0,1.0,0.0,0.0,1.0,no
+A320,United Kingdom,Solo Leisure,Heathrow to Marseille,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+A320,Canada,Business,Madrid to London,Business Class,3.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+A320 neo,United Kingdom,Business,Dublin to London,Economy Class,4.0,4.0,4.0,0.0,0.0,0.0,4.0,yes
+B777-200,United Kingdom,Couple Leisure,Barbados to Gatwick,Economy Class,3.0,1.0,3.0,1.0,0.0,4.0,3.0,no
+A380,United Kingdom,Solo Leisure,London Heathrow to Singapore,Economy Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+A321,Spain,Business,Madrid to London Heathrow,Economy Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+A319 / Boeing 789,Germany,Business,Hamburg to Abu Dhabi via London Heathrow,Economy Class,1.0,2.0,1.0,2.0,1.0,2.0,3.0,no
+Boeing 777-200 and A319,United States,Solo Leisure,New York to Glasgow via London,Economy Class,3.0,3.0,3.0,3.0,0.0,4.0,4.0,yes
+Boeing 777-200,United Kingdom,Family Leisure,Gatwick to Bermuda,Business Class,4.0,5.0,3.0,5.0,2.0,5.0,5.0,yes
+A320,United Kingdom,Couple Leisure,London Heathrow to Larnaca,Business Class,4.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+A320-200,United Kingdom,Couple Leisure,Gatwick to Cagliari,Economy Class,3.0,2.0,4.0,1.0,0.0,0.0,1.0,yes
+A320,United Kingdom,Couple Leisure,Heathrow to Kalamata,Economy Class,5.0,4.0,3.0,3.0,0.0,0.0,3.0,yes
+A320,Australia,Solo Leisure,Amsterdam to London,Economy Class,0.0,0.0,1.0,0.0,0.0,0.0,1.0,no
+A321 Neo,United Kingdom,Business,Istanbul to London,Economy Class,1.0,4.0,4.0,2.0,0.0,0.0,3.0,yes
+A321 / Boeing 787-9,United Kingdom,Family Leisure,Manchester to Kuala Lumpur via London ,Economy Class,2.0,2.0,3.0,2.0,3.0,4.0,3.0,no
+Boeing 787,United Kingdom,Solo Leisure,London to Seoul ,Business Class,1.0,1.0,1.0,2.0,1.0,1.0,1.0,no
+A380,United Kingdom,Solo Leisure,London to Vancouver,Economy Class,2.0,4.0,3.0,4.0,1.0,2.0,3.0,no
+Boeing 747,United States,Business,Miami to Delhi via London Heathrow,Business Class,1.0,3.0,2.0,3.0,0.0,0.0,1.0,no
+Boeing 777 / 747,United States,Solo Leisure,Tel Aviv to New York via London,Economy Class,3.0,4.0,3.0,1.0,0.0,5.0,3.0,no
+A319 / Boeing 777,United States,Solo Leisure,Belfast  to Atlanta via London,Economy Class,3.0,4.0,3.0,2.0,0.0,3.0,2.0,no
+Boeing 787-9,United Kingdom,Business,London to Nashville,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+B747-400 in retro,Qatar,Solo Leisure,London to Washington,First Class,5.0,5.0,5.0,5.0,0.0,3.0,5.0,yes
+Boeing 747,United Kingdom,Couple Leisure,London to Seattle,Economy Class,4.0,5.0,5.0,4.0,0.0,0.0,5.0,yes
+A319/A320,United Kingdom,Business,London to Milan,Economy Class,3.0,5.0,4.0,3.0,0.0,0.0,3.0,yes
+B737-400 / A380 / A319,South Africa,Couple Leisure,Durban to Leeds via Johannesburg / Heathrow,Business Class,4.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 787,United States,Couple Leisure,London Heathrow to Los Angeles,Business Class,4.0,5.0,5.0,5.0,0.0,5.0,4.0,yes
+Boeing 744,United Kingdom,Couple Leisure,Cape Town to London Heathrow,Business Class,3.0,4.0,4.0,4.0,0.0,3.0,3.0,yes
+A321,United Kingdom,Business,Sofia to Belfast via London,Economy Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,Lima to Gatwick,Economy Class,2.0,4.0,4.0,4.0,0.0,1.0,3.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,Gatwick to Barbados,Economy Class,3.0,1.0,3.0,2.0,0.0,4.0,3.0,no
+A320,United Kingdom,Solo Leisure,Gatwick to Malaga,Economy Class,5.0,5.0,4.0,4.0,0.0,0.0,5.0,yes
+A380 / Boeing 777,United States,Solo Leisure,Boston to London Heathrow,Economy Class,4.0,4.0,4.0,3.0,0.0,3.0,4.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,London to Cape Town,First Class,4.0,4.0,3.0,4.0,0.0,3.0,3.0,yes
+A321,United Kingdom,Business,London to Aberdeen,Economy Class,2.0,2.0,1.0,0.0,0.0,0.0,1.0,no
+A319,United Kingdom,Business,Gatwick to Dubrovnik,Business Class,1.0,3.0,1.0,0.0,0.0,0.0,1.0,no
+A320,United Kingdom,Business,Faro to Heathrow,Business Class,3.0,4.0,1.0,4.0,0.0,0.0,2.0,no
+A380,United Kingdom,Couple Leisure,Vancouver to London,Economy Class,4.0,5.0,4.0,4.0,4.0,3.0,4.0,yes
+Boeing 747 400,United Kingdom,Business,Washington to London,First Class,4.0,4.0,3.0,4.0,1.0,4.0,4.0,yes
+Embraer,United Kingdom,Solo Leisure,Rome Fiumicino to London City,Economy Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+Boeing 777-200,United Kingdom,Business,London to Shanghai,Business Class,2.0,1.0,3.0,1.0,0.0,1.0,2.0,no
+Boeing 787,Canada,Solo Leisure,London to Calgary,Business Class,5.0,5.0,1.0,5.0,0.0,5.0,5.0,yes
+Boeing 747,United Kingdom,Couple Leisure,Vancouver to London,Business Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 777-200/300,India,Couple Leisure,London Heathrow to Bengaluru,Economy Class,3.0,5.0,5.0,4.0,0.0,2.0,5.0,yes
+A319,United Kingdom,Solo Leisure,Dublin to London Heathrow,Economy Class,4.0,3.0,4.0,1.0,0.0,0.0,3.0,yes
+Boeing 747-400,United States,Business,London to Seattle,Business Class,4.0,2.0,3.0,3.0,0.0,3.0,2.0,no
+A320,United Kingdom,Family Leisure,London to Gibraltar,Business Class,4.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+Boeing 747,United States,Business,London to Boston,Business Class,2.0,3.0,4.0,4.0,0.0,1.0,2.0,no
+Boeing 787-9,Qatar,Family Leisure,London to Doha,Business Class,3.0,4.0,5.0,3.0,0.0,1.0,4.0,yes
+Boeing 747,United Kingdom,Couple Leisure,London Heathrow to Houston,Economy Class,5.0,5.0,4.0,5.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Business,Larnaca to London,Business Class,1.0,4.0,3.0,4.0,0.0,0.0,1.0,no
+Boeing 787-9,United Kingdom,Couple Leisure,London to Tokyo Narita,First Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+777,United Kingdom,Couple Leisure,St Lucia to Gatwick,Economy Class,1.0,2.0,1.0,1.0,0.0,1.0,1.0,no
+A380,United Kingdom,Solo Leisure,Chicago to London,Economy Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+A320/B788,Germany,Solo Leisure,Hamburg to Abu Dhabi via Heathrow,Economy Class,1.0,3.0,3.0,2.0,0.0,0.0,4.0,no
+Boeing 787-9 / A319,Qatar,Family Leisure,Doha to Paris via London,Business Class,5.0,4.0,4.0,2.0,0.0,2.0,3.0,yes
+A320 Neo,United Kingdom,Couple Leisure,Madrid to London,Business Class,3.0,5.0,4.0,5.0,0.0,0.0,4.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,London to Vancouver ,Economy Class,3.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 777,United Kingdom,Solo Leisure,London to Mumbai ,First Class,4.0,5.0,4.0,2.0,0.0,3.0,4.0,yes
+Boeing 777,United States,Business,London to Chicago ,First Class,2.0,2.0,2.0,1.0,0.0,1.0,2.0,no
+A320,United Kingdom,Business,London Heathrow to Larnaca Cyprus,Economy Class,2.0,3.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 787,United Kingdom,Couple Leisure,Los Angeles to London,Business Class,4.0,5.0,4.0,5.0,0.0,5.0,5.0,yes
+A321,United Kingdom,Solo Leisure,Rome to London,Economy Class,5.0,4.0,5.0,1.0,0.0,0.0,5.0,yes
+A319,United Kingdom,Business,Cologne to Gatwick,Economy Class,3.0,2.0,1.0,0.0,0.0,0.0,2.0,no
+Boeing 777,United States,Couple Leisure,Tampa to Gatwick,Economy Class,2.0,2.0,1.0,2.0,0.0,2.0,1.0,no
+A320,United Kingdom,Business,London Heathrow to Madrid ,Economy Class,5.0,5.0,5.0,0.0,0.0,0.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Gatwick to St Lucia,Business Class,2.0,1.0,3.0,1.0,1.0,1.0,1.0,no
+Boeing 777,United Kingdom,Business,London to Austin,Economy Class,4.0,5.0,5.0,3.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Family Leisure,London to Pisa,Business Class,1.0,4.0,3.0,2.0,0.0,0.0,1.0,no
+B777,United States,Couple Leisure,Edinburgh to Boston via London,Economy Class,1.0,2.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,Gatwick to Mauritius,Economy Class,1.0,3.0,2.0,2.0,0.0,1.0,2.0,no
+B747-400,United Kingdom,Business,Chicago to London Heathrow,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 747-400,United Kingdom,Business,London to Chicago,First Class,1.0,2.0,1.0,1.0,1.0,1.0,1.0,no
+A380,South Africa,Business,London to Johannesburg,Business Class,2.0,1.0,4.0,1.0,0.0,3.0,1.0,no
+Boeing 787-9,United Kingdom,Business,Doha to London Heathrow,Economy Class,3.0,3.0,3.0,3.0,2.0,2.0,3.0,yes
+Boeing 787-9,South Korea,Business,London to Seoul,Premium Economy,5.0,4.0,2.0,3.0,0.0,3.0,4.0,yes
+Boeing 747-400,United Kingdom,Family Leisure,London to New York JFK,Premium Economy,4.0,5.0,5.0,4.0,3.0,5.0,4.0,yes
+Boeing 777,United Kingdom,Business,Gatwick to St Lucia,Business Class,4.0,4.0,3.0,4.0,0.0,4.0,3.0,yes
+Boeing 787,Spain,Couple Leisure,Baltimore to London Heathrow,Economy Class,1.0,1.0,2.0,1.0,0.0,1.0,2.0,no
+A320,United Kingdom,Couple Leisure,London to Athens,Economy Class,3.0,5.0,1.0,1.0,1.0,1.0,2.0,no
+Boeing 787,United Kingdom,Couple Leisure,New Orleans to London,Premium Economy,5.0,4.0,4.0,5.0,0.0,5.0,5.0,yes
+Boeing 787-9,United Kingdom,Couple Leisure,Tokyo Narita to London Heathrow,Business Class,4.0,3.0,5.0,5.0,0.0,5.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,London to Tokyo Haneda,First Class,5.0,5.0,5.0,5.0,0.0,5.0,4.0,yes
+A320,United Kingdom,Couple Leisure,Edinburgh to London Gatwick,Economy Class,3.0,4.0,5.0,0.0,0.0,0.0,4.0,yes
+A320,United States,Family Leisure,London Heathrow to Paris CDG,Economy Class,3.0,4.0,4.0,4.0,1.0,2.0,4.0,yes
+A380,United Kingdom,Family Leisure,Johannesburg to London,Business Class,3.0,3.0,3.0,3.0,4.0,4.0,3.0,yes
+A380 / A319,Switzerland,Solo Leisure,Berlin to Johannesburg via London,Economy Class,3.0,3.0,4.0,2.0,0.0,3.0,4.0,yes
+Boeing 777,United States,Family Leisure,New York JFK to London Heathrow,Economy Class,3.0,4.0,3.0,3.0,1.0,2.0,3.0,yes
+A380,United Kingdom,Couple Leisure,Johannesburg to London ,First Class,4.0,3.0,3.0,3.0,3.0,3.0,3.0,yes
+A380,United Kingdom,Couple Leisure,London to Johannesburg ,Business Class,3.0,4.0,3.0,4.0,0.0,3.0,3.0,yes
+A380,United Kingdom,Family Leisure,London to Johannesburg,Business Class,4.0,5.0,4.0,4.0,4.0,5.0,4.0,yes
+A320,Ireland,Business,London to Dublin,Business Class,5.0,5.0,2.0,5.0,0.0,0.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Bermuda to Gatwick,Premium Economy,1.0,1.0,3.0,1.0,1.0,1.0,1.0,no
+A321-200,Switzerland,Solo Leisure,Zurich to Heathrow,Economy Class,1.0,4.0,1.0,0.0,1.0,1.0,2.0,no
+A380,United States,Solo Leisure,Miami to London,Premium Economy,3.0,4.0,3.0,1.0,3.0,3.0,3.0,no
+A321,Sweden,Solo Leisure,Copenhagen to Amsterdam via London Heathrow,Economy Class,5.0,5.0,2.0,0.0,0.0,0.0,5.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,Antigua to Gatwick,Premium Economy,1.0,2.0,4.0,2.0,0.0,3.0,1.0,no
+Boeing 787,United States,Solo Leisure,Bucharest to London Heathrow to Los Angeles,Economy Class,1.0,5.0,5.0,2.0,1.0,1.0,1.0,no
+Boeing 747,United Kingdom,Business,London to Miami,Business Class,1.0,2.0,3.0,1.0,0.0,1.0,1.0,no
+Boeing 787 Dreamliner,United Kingdom,Business,London to Calgary,Premium Economy,3.0,3.0,4.0,3.0,3.0,4.0,2.0,yes
+Boeing 787,United Kingdom,Business,Calgary to London,Premium Economy,3.0,4.0,3.0,3.0,3.0,3.0,2.0,no
+Boeing 777-200,United Kingdom,Business,Bangalore to London,Premium Economy,2.0,2.0,2.0,2.0,0.0,1.0,1.0,no
+777,United Kingdom,Couple Leisure,San Francisco to London,Economy Class,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 747,United Kingdom,Solo Leisure,Heathrow to Vancouver,Economy Class,4.0,4.0,4.0,3.0,0.0,2.0,1.0,no
+A320,United States,Solo Leisure,London to Bucharest,Economy Class,1.0,4.0,5.0,1.0,0.0,1.0,3.0,no
+A319,United Kingdom,Business,Stuttgart to London,Economy Class,1.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 777-200,United States,Couple Leisure,London to Boston,Economy Class,1.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 747-400,United States,Couple Leisure,Boston to London,Economy Class,2.0,3.0,4.0,5.0,0.0,5.0,4.0,yes
+Airbus A320,United States,Couple Leisure,London to Athens,Economy Class,4.0,1.0,2.0,0.0,0.0,0.0,4.0,no
+A380,South Africa,Couple Leisure,London to Johannesburg,Economy Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 787-9 / 777 ,United States,Solo Leisure,Newark to Bangalore via London,Premium Economy,4.0,4.0,4.0,4.0,0.0,4.0,3.0,yes
+Boeing 777,United Kingdom,Solo Leisure,London to Mumbai,Economy Class,5.0,5.0,5.0,5.0,0.0,3.0,4.0,yes
+Boeing 777,United Kingdom,Family Leisure,Heathrow to Sydney via Singapore,Economy Class,1.0,3.0,2.0,2.0,1.0,1.0,2.0,no
+A319,Thailand,Solo Leisure,Leeds Bradford to London Heathrow,Economy Class,3.0,5.0,5.0,0.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Solo Leisure,Gatwick to Tenerife,Economy Class,1.0,3.0,5.0,4.0,0.0,0.0,3.0,no
+A380,South Africa,Couple Leisure,Johannesburg to London,Business Class,1.0,1.0,2.0,1.0,0.0,3.0,1.0,no
+Boeing 787,United Kingdom,Solo Leisure,London to Kuala Lumpur,Economy Class,1.0,4.0,5.0,3.0,0.0,1.0,1.0,no
+Boeing 747,United States,Solo Leisure,Los Angeles to London Heathrow,Economy Class,2.0,2.0,1.0,1.0,0.0,4.0,2.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,Gatwick to Barbados,First Class,2.0,5.0,3.0,2.0,0.0,2.0,3.0,no
+Boeing 787-9,United Kingdom,Solo Leisure,Moscow to London,First Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Bridgetown to Gatwick,Business Class,1.0,1.0,2.0,2.0,0.0,0.0,1.0,no
+A319 / Boeing 777,United Kingdom,Couple Leisure,Glasgow to New York via London,Economy Class,4.0,5.0,4.0,5.0,2.0,5.0,4.0,yes
+Boeing 777,Australia,Business,Sydney to London via Singapore,Business Class,1.0,1.0,2.0,1.0,0.0,1.0,1.0,no
+A380,United Kingdom,Couple Leisure,Johannesburg to London,First Class,4.0,3.0,3.0,3.0,0.0,2.0,3.0,no
+Boeing 777,Greece,Business,Antigua to Gatwick,Business Class,2.0,1.0,3.0,1.0,0.0,0.0,2.0,no
+Boeing 777,United Kingdom,Couple Leisure,Gatwick to Barbados,First Class,2.0,2.0,1.0,2.0,0.0,1.0,1.0,no
+Boeing 747-400,Canada,Couple Leisure,Cape Town to London,Business Class,2.0,1.0,3.0,1.0,0.0,3.0,1.0,no
+A320,United Kingdom,Couple Leisure,Bucharest to London,Economy Class,1.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 747-400,United Kingdom,Family Leisure,Miami to London,Economy Class,1.0,1.0,3.0,1.0,0.0,1.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,Nassau to London,Premium Economy,2.0,3.0,3.0,1.0,0.0,1.0,1.0,no
+Boeing 747,Ghana,Business,Phoenix to Accra via London,Business Class,5.0,5.0,5.0,5.0,0.0,3.0,5.0,yes
+Boeing 777,Germany,Solo Leisure,San Diego to Hannover via London,Economy Class,2.0,4.0,2.0,4.0,0.0,4.0,2.0,no
+A380,United Kingdom,Couple Leisure,London to Johannesburg,First Class,5.0,5.0,4.0,5.0,0.0,4.0,4.0,yes
+Boeing 747-400,Canada,Family Leisure,Vancouver to London Heathrow,Economy Class,5.0,5.0,5.0,4.0,0.0,2.0,4.0,yes
+Boeing 747,Switzerland,Solo Leisure,Basel to San Fransisco via Heathrow,Premium Economy,2.0,3.0,5.0,2.0,0.0,3.0,2.0,no
+A320,Sweden,Solo Leisure,Stockholm to London,Business Class,3.0,5.0,1.0,2.0,0.0,0.0,3.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,Buenos Aires to London,Economy Class,1.0,2.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 777,Saudi Arabia,Business,Riyadh to London,Business Class,1.0,2.0,3.0,2.0,0.0,3.0,1.0,no
+A319,United Kingdom,Solo Leisure,Aberdeen to London,Economy Class,0.0,0.0,1.0,0.0,0.0,0.0,1.0,no
+A320,Hungary,Family Leisure,London to Budapest,Economy Class,5.0,1.0,5.0,0.0,0.0,0.0,5.0,no
+A321,United Kingdom,Solo Leisure,London to Athens,Economy Class,4.0,3.0,3.0,2.0,1.0,2.0,3.0,yes
+Boeing 777-200,Australia,Solo Leisure,London to Bangkok,Business Class,3.0,3.0,3.0,2.0,1.0,1.0,2.0,no
+A340-300,United Kingdom,Solo Leisure,Abu Dhabi to London,Economy Class,2.0,1.0,3.0,1.0,1.0,1.0,3.0,no
+Boeing 777,United States,Business,Gatwick to Orlando,Business Class,1.0,2.0,2.0,3.0,1.0,1.0,1.0,no
+A319 / Boeing 747,United Kingdom,Solo Leisure,Newcastle to Las Vegas via London,Business Class,4.0,4.0,4.0,4.0,0.0,3.0,5.0,yes
+A320,United Kingdom,Solo Leisure,St Petersburg to London,Economy Class,5.0,5.0,5.0,3.0,0.0,0.0,3.0,yes
+Boeing 787-9,United States,Business,London to Philadelphia,Business Class,1.0,1.0,2.0,2.0,0.0,3.0,1.0,no
+Boeing 777-200,Spain,Business,Madrid to London,Business Class,4.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+A321,Germany,Family Leisure,London to Munich,Economy Class,2.0,3.0,3.0,0.0,0.0,0.0,3.0,yes
+Boeing 747-400,France,Couple Leisure,London to Cape Town,Economy Class,2.0,1.0,1.0,2.0,0.0,0.0,1.0,no
+A321,Germany,Family Leisure,Munich to London Heathrow,Economy Class,2.0,4.0,5.0,0.0,0.0,0.0,3.0,yes
+A319 / Boeing 747-400,United Kingdom,Solo Leisure,Manchester to Philadelphia via London,First Class,5.0,5.0,5.0,4.0,0.0,4.0,5.0,yes
+Boieng 777-200,Netherlands,Business,Bangkok to London,Economy Class,3.0,2.0,1.0,2.0,0.0,3.0,2.0,no
+Boeing 777,Canada,Solo Leisure,London to Toronto,Economy Class,1.0,3.0,2.0,3.0,0.0,2.0,1.0,no
+A320,Austria,Business,London to Vienna,Economy Class,2.0,3.0,2.0,0.0,0.0,0.0,2.0,no
+A380,Belgium,Business,Johannesburg to London,Business Class,2.0,2.0,4.0,1.0,0.0,1.0,2.0,no
+Boeing 777-300ER,Singapore,Solo Leisure,Singapore to London Heathrow,Business Class,4.0,5.0,3.0,3.0,0.0,2.0,3.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,London to Los Angeles,Business Class,1.0,1.0,3.0,1.0,1.0,1.0,3.0,no
+Boeing 747,United Kingdom,Solo Leisure,Miami to London Heathrow,Premium Economy,1.0,5.0,1.0,3.0,0.0,2.0,2.0,no
+Boeing 747-400,Netherlands,Family Leisure,London Heathrow to Miami,Economy Class,5.0,5.0,4.0,5.0,0.0,4.0,5.0,yes
+A380,Germany,Solo Leisure,London to Singapore,Economy Class,5.0,5.0,4.0,5.0,0.0,4.0,5.0,yes
+A321,United Kingdom,Family Leisure,London to Pisa,Business Class,1.0,4.0,4.0,4.0,0.0,0.0,1.0,no
+"Boeing 787-9, A380",Malaysia,Business,Kuala Lumpur to London Heathrow,Premium Economy,3.0,4.0,5.0,3.0,0.0,3.0,4.0,yes
+A319,United Kingdom,Couple Leisure,Los Angeles to Leeds via London Heathrow ,Business Class,4.0,4.0,1.0,4.0,2.0,3.0,3.0,no
+A320,United Kingdom,Couple Leisure,Brindisi to London,Business Class,1.0,2.0,1.0,2.0,0.0,0.0,2.0,no
+A380,United Kingdom,Couple Leisure,Chicago to London,Premium Economy,1.0,1.0,3.0,1.0,0.0,1.0,1.0,no
+Boeing 777,Saudi Arabia,Solo Leisure,Riyadh to London ,Premium Economy,5.0,5.0,3.0,5.0,0.0,4.0,5.0,yes
+A320 / Boeing 787-9,United States,Couple Leisure,Rome to Newark via London,Economy Class,4.0,4.0,4.0,3.0,0.0,3.0,3.0,yes
+Boeing 747-400,United States,Business,London Heathrow to New York JFK,Business Class,3.0,4.0,1.0,2.0,5.0,3.0,3.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,London Heathrow to Dubai,First Class,4.0,5.0,4.0,5.0,2.0,3.0,4.0,yes
+A320,United Kingdom,Couple Leisure,Heraklion to Gatwick,Economy Class,2.0,2.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 767,Brazil,Solo Leisure,Madrid to London Heathrow,Business Class,3.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+A321,United Kingdom,Couple Leisure,London Heathrow to Brindisi,Business Class,2.0,3.0,2.0,2.0,0.0,0.0,3.0,no
+A320,United Kingdom,Business,London to Madrid,Economy Class,2.0,3.0,2.0,1.0,0.0,0.0,2.0,no
+Boeing 747,United Kingdom,Solo Leisure,Glasgow to Miami via London,Premium Economy,3.0,5.0,4.0,5.0,0.0,2.0,4.0,yes
+Airbus A32,United Kingdom,Solo Leisure,London Heathrow to Budapest,Economy Class,5.0,5.0,4.0,0.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Solo Leisure,Budapest to London Heathrow,Economy Class,4.0,4.0,5.0,0.0,0.0,0.0,4.0,yes
+A319 / Boeing 787-9,Canada,Family Leisure,Pisa to Toronto via London,Business Class,4.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+Boeing 747-400 / A319,Germany,Solo Leisure,Washington to Frankfurt via London,Economy Class,3.0,3.0,4.0,2.0,0.0,1.0,2.0,no
+A380,United Kingdom,Solo Leisure,London Heathrow to Hong Kong,Economy Class,5.0,5.0,4.0,3.0,0.0,5.0,3.0,yes
+A318,United Kingdom,Solo Leisure,London Heathrow to Düsseldorf,Economy Class,5.0,4.0,5.0,0.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Couple Leisure,London to Athens,Business Class,1.0,3.0,2.0,2.0,1.0,1.0,3.0,no
+A380,United Kingdom,Family Leisure,London Heathrow to Singapore,First Class,5.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+Boeing 787,United States,Couple Leisure,Philadelphia to London,Premium Economy,3.0,1.0,4.0,1.0,0.0,3.0,3.0,no
+Boeing 747-400,United States,Family Leisure,London to Las Vegas,Economy Class,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+A380,Switzerland,Family Leisure,Los Angeles to Milan via London,Business Class,4.0,3.0,1.0,3.0,0.0,3.0,1.0,no
+Boeing 777,Canada,Solo Leisure,Toronto to London,Premium Economy,3.0,5.0,4.0,2.0,0.0,2.0,3.0,yes
+A380,United Kingdom,Couple Leisure,San Francisco to London Heathrow,Business Class,4.0,5.0,4.0,4.0,0.0,1.0,4.0,no
+A321,United Kingdom,Couple Leisure,London to Paris,Economy Class,3.0,5.0,4.0,5.0,0.0,0.0,3.0,yes
+A320,United Kingdom,Couple Leisure,Amsterdam to London,Economy Class,3.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+Boeing 777,United Kingdom,Solo Leisure,New York JFK to London,First Class,4.0,5.0,5.0,3.0,0.0,0.0,4.0,no
+A320,United Kingdom,Couple Leisure,Paphos to Gatwick,Business Class,3.0,5.0,1.0,3.0,0.0,0.0,3.0,no
+A320,United Kingdom,Couple Leisure,Gatwick to Paphos,Business Class,3.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+Boeing 747-400,United States,Family Leisure,New York to Nairobi via London,Business Class,2.0,5.0,2.0,2.0,0.0,2.0,2.0,no
+Boeing 787-9,Germany,Business,London to Santiago de Chile,Premium Economy,4.0,5.0,4.0,4.0,0.0,4.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,London Heathrow to Seattle Tacoma,Business Class,4.0,4.0,4.0,4.0,0.0,2.0,4.0,no
+A320-200,United Kingdom,Family Leisure,London Gatwick to Tirana Rinas,Economy Class,4.0,4.0,5.0,3.0,0.0,0.0,3.0,yes
+A320,China,Couple Leisure,London to Murcia ,Economy Class,5.0,5.0,3.0,5.0,0.0,0.0,5.0,yes
+A321,United Kingdom,Solo Leisure,London to Amsterdam,Business Class,3.0,4.0,1.0,3.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Family Leisure,Aberdeen to Abu Dhabi via London,Economy Class,3.0,1.0,1.0,1.0,0.0,4.0,3.0,no
+A320 / Boeing 747-400,Czech Republic,Solo Leisure,Prague to Denver via London,Economy Class,3.0,5.0,1.0,5.0,0.0,3.0,2.0,no
+A319,United Kingdom,Couple Leisure,Seville to Gatwick,Economy Class,2.0,1.0,1.0,1.0,0.0,0.0,3.0,no
+Boeing 777 / A380,Australia,Business,HKG to LHR,Premium Economy,4.0,5.0,5.0,4.0,3.0,5.0,4.0,yes
+A320,United Kingdom,Solo Leisure,Faro to Gatwick,Business Class,3.0,2.0,3.0,4.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Solo Leisure,Gatwick to Faro,Business Class,3.0,4.0,5.0,3.0,0.0,0.0,4.0,yes
+Boeing 787-9 / A380-800,United States,Solo Leisure,Jeddah to Chicago via London,First Class,4.0,5.0,1.0,4.0,4.0,5.0,5.0,no
+A321,Spain,Solo Leisure,Gatwick to Malaga,Business Class,4.0,5.0,3.0,5.0,0.0,0.0,5.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,Bermuda to Gatwick,Business Class,4.0,3.0,4.0,1.0,0.0,4.0,2.0,yes
+A319,Australia,Solo Leisure,London to Hamburg,Economy Class,4.0,3.0,5.0,0.0,0.0,0.0,3.0,yes
+A320,United Kingdom,Solo Leisure,Munich to London Heathrow,Economy Class,4.0,4.0,5.0,2.0,0.0,0.0,3.0,yes
+Boeing 777,China,Business,London to Shanghai,Business Class,1.0,5.0,2.0,4.0,0.0,2.0,3.0,no
+Boeing 777,United Kingdom,Family Leisure,London to Tehran,Economy Class,1.0,1.0,4.0,1.0,0.0,0.0,1.0,no
+A321,United Kingdom,Couple Leisure,Pisa to London Heathrow,Economy Class,1.0,3.0,3.0,0.0,0.0,0.0,2.0,no
+Boeing 747,United Kingdom,Business,London Heathrow to Las Vegas,First Class,3.0,2.0,3.0,2.0,2.0,2.0,1.0,no
+Boeing 747,Ireland,Couple Leisure,Dublin to Miami via London,Economy Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 747 / 777,Netherlands,Solo Leisure,Delhi to London,Premium Economy,4.0,4.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 787(9),United Kingdom,Couple Leisure,Seychelles to London,Business Class,2.0,3.0,1.0,3.0,0.0,3.0,1.0,no
+A320,United Kingdom,Couple Leisure,Gatwick to Gibraltar,Business Class,5.0,5.0,4.0,5.0,0.0,0.0,4.0,yes
+A380,Canada,Business,London to Vancouver,First Class,2.0,4.0,2.0,2.0,0.0,2.0,4.0,no
+Boeing 747,United States,Family Leisure,New York JFK to Rome via London Heathrow,Economy Class,3.0,5.0,1.0,5.0,5.0,5.0,1.0,no
+Boeing 777,United Kingdom,Business,Newark to London Heathrow,Business Class,3.0,1.0,4.0,1.0,3.0,3.0,2.0,no
+Boeing 747 and Boeing 777,United Kingdom,Couple Leisure,London Heathrow to Seattle,Business Class,4.0,5.0,5.0,5.0,0.0,4.0,3.0,yes
+Boeing 747,United Kingdom,Solo Leisure,London to Johannesburg,Economy Class,1.0,1.0,4.0,1.0,1.0,1.0,2.0,no
+Boeing 787,United Kingdom,Couple Leisure,Calgary to London,Premium Economy,1.0,1.0,2.0,1.0,1.0,2.0,2.0,no
+Boeing 767,Switzerland,Business,London to Zurich,Economy Class,3.0,2.0,4.0,1.0,1.0,1.0,4.0,no
+Boeing 747,United Kingdom,Couple Leisure,Glasgow to New York via London,Economy Class,2.0,4.0,3.0,4.0,0.0,3.0,3.0,no
+Boeing 787,United Kingdom,Solo Leisure,London Heathrow to Baltimore,Economy Class,2.0,3.0,4.0,3.0,0.0,4.0,4.0,yes
+A380 and 747,Ireland,Couple Leisure,London to Johannesburg,Business Class,2.0,3.0,3.0,3.0,0.0,0.0,1.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,Cape Town to London Heathrow,Business Class,2.0,3.0,3.0,2.0,0.0,2.0,3.0,no
+Boeing 777-200 ER,Canada,Solo Leisure,Toronto to London,Premium Economy,3.0,5.0,5.0,4.0,0.0,3.0,4.0,yes
+Boeing 747-400,United States,Couple Leisure,London to Chicago,Economy Class,5.0,5.0,4.0,4.0,0.0,4.0,5.0,yes
+A320,United Kingdom,Couple Leisure,London Heathrow to Corfu ,Business Class,4.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+A320,United Kingdom,Couple Leisure,Barcelona to Gatwick,Economy Class,3.0,1.0,3.0,1.0,0.0,0.0,2.0,no
+Boeing 747 / A320,United States,Solo Leisure,Washington to Bucharest via London,Business Class,5.0,5.0,5.0,4.0,0.0,0.0,5.0,yes
+A320,United Kingdom,Solo Leisure,London to Warsaw,Economy Class,2.0,2.0,3.0,0.0,0.0,0.0,3.0,no
+A320,United Kingdom,Solo Leisure,London to Istanbul,Economy Class,3.0,5.0,2.0,1.0,0.0,0.0,1.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,London to Cape Town,First Class,4.0,2.0,4.0,4.0,0.0,3.0,3.0,yes
+Boeing 747,United States,Solo Leisure,Miami to Hamburg via London,First Class,3.0,4.0,2.0,3.0,0.0,0.0,1.0,no
+A380,United Kingdom,Business,Los Angeles to London Heathrow,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+A320,United Kingdom,Family Leisure,London Heathrow to Mahon,Economy Class,3.0,2.0,1.0,0.0,0.0,0.0,2.0,no
+Boeing 777-200,United Kingdom,Business,Dubai to London Heathrow,First Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+A380,Singapore,Solo Leisure,London Heathrow to Singapore,Economy Class,4.0,3.0,4.0,4.0,0.0,3.0,4.0,yes
+Boeing 747 400,United Kingdom,Couple Leisure,Washington to London,Premium Economy,1.0,4.0,2.0,2.0,0.0,1.0,1.0,no
+A380,Australia,Business,Singapore to London,Economy Class,4.0,2.0,3.0,1.0,0.0,1.0,4.0,no
+Boeing 777-200,Australia,Business,Sydney to London via Singapore,Economy Class,4.0,3.0,4.0,1.0,0.0,1.0,4.0,no
+A321,Germany,Business,Munich to London,Economy Class,3.0,5.0,3.0,1.0,0.0,0.0,3.0,no
+A320,Singapore,Solo Leisure,London to Reykjavik ,Economy Class,4.0,4.0,4.0,2.0,0.0,0.0,4.0,yes
+Boeing 747-400,United Kingdom,Business,Cape Town to London,Business Class,3.0,1.0,3.0,1.0,0.0,1.0,2.0,no
+Boeing 787 / A320,United States,Couple Leisure,Washington to Prague via London,Economy Class,1.0,3.0,2.0,3.0,0.0,4.0,3.0,no
+Boeing 747,France,Solo Leisure,London to Washington,First Class,3.0,2.0,4.0,2.0,0.0,1.0,1.0,no
+Boeing 747,United States,Solo Leisure,Washington to Glasgow via London,Economy Class,4.0,4.0,3.0,3.0,0.0,3.0,5.0,yes
+Boeing 777-300ER / A320,Netherlands,Solo Leisure,Tokyo to Amsterdam via London,Economy Class,2.0,2.0,4.0,1.0,0.0,1.0,3.0,no
+A320,United Kingdom,Business,Vienna to London Heathrow,Business Class,3.0,4.0,3.0,2.0,0.0,0.0,3.0,yes
+A320,United Kingdom,Solo Leisure,London Heathrow to Vienna,Economy Class,1.0,1.0,1.0,1.0,0.0,2.0,1.0,no
+Boeing 747,France,Business,London to Phoenix ,Business Class,4.0,3.0,4.0,4.0,1.0,1.0,4.0,yes
+A319 / Boeing 777,Belgium,Solo Leisure,Brussels to Shanghai via London,Economy Class,5.0,5.0,2.0,5.0,0.0,4.0,5.0,yes
+A380,United Kingdom,Solo Leisure,Chicago to London Heathrow,Economy Class,4.0,4.0,4.0,3.0,3.0,3.0,3.0,yes
+A320 / Boeing 787,Greece,Couple Leisure,Athens to Philadelphia via London,Economy Class,4.0,4.0,4.0,2.0,4.0,4.0,3.0,no
+Boeing 777,United Kingdom,Couple Leisure,Hong Kong to London,Business Class,2.0,5.0,4.0,3.0,0.0,3.0,4.0,no
+A380,United States,Solo Leisure,Los Angeles to London Heathrow,Business Class,4.0,5.0,5.0,4.0,0.0,5.0,5.0,yes
+A319 / Boeing 787-8,Germany,Solo Leisure,Hamburg to Abu Dhabi via London ,Premium Economy,3.0,2.0,1.0,2.0,0.0,4.0,2.0,no
+Boeing 787-8,United Kingdom,Family Leisure,GIG to LHR,Business Class,4.0,3.0,4.0,3.0,3.0,4.0,3.0,yes
+Boeing 747,United Kingdom,Solo Leisure,London Heathrow to Vancouver,Premium Economy,1.0,1.0,4.0,1.0,0.0,2.0,2.0,no
+Boeing 767,Spain,Business,Madrid to London,Business Class,4.0,5.0,4.0,4.0,0.0,0.0,3.0,yes
+A380,Ireland,Business,Singapore to Dublin via London,Business Class,2.0,5.0,2.0,4.0,0.0,3.0,2.0,no
+Boeing 777-300,United Kingdom,Family Leisure,London to Sao Paulo,Business Class,4.0,4.0,5.0,4.0,4.0,5.0,4.0,yes
+Boeing 777,Germany,Couple Leisure,Tampa to London Gatwick,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+A319,Germany,Business,London Heathrow to Dusseldorf,Business Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+A320,Spain,Business,Madrid to London,Business Class,2.0,5.0,1.0,1.0,0.0,0.0,1.0,no
+A321,United Kingdom,Business,London to Moscow,Business Class,1.0,4.0,1.0,1.0,0.0,0.0,2.0,no
+Boeing 747-400,United Kingdom,Solo Leisure,Miami to London ,Economy Class,4.0,4.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,London Heathrow to Dallas,Economy Class,3.0,3.0,3.0,3.0,0.0,2.0,2.0,no
+A320,Sweden,Business,London to Copenhagen ,Business Class,2.0,3.0,3.0,1.0,0.0,0.0,2.0,no
+A380,United Kingdom,Family Leisure,Los Angeles to London,Premium Economy,1.0,1.0,1.0,2.0,1.0,3.0,1.0,no
+A321/A319,United Kingdom,Business,LHR to CDG,Economy Class,4.0,5.0,4.0,2.0,0.0,0.0,4.0,yes
+Boeing 777-300,United Kingdom,Family Leisure,São Paulo to London Heathrow,Premium Economy,2.0,1.0,2.0,2.0,0.0,3.0,2.0,no
+A320,United Kingdom,Couple Leisure,Budapest to London Heathrow,Economy Class,1.0,1.0,3.0,0.0,0.0,0.0,2.0,no
+Boeing 777,United States,Family Leisure,London Heathrow to New York JFK,Economy Class,1.0,5.0,1.0,2.0,0.0,2.0,3.0,no
+Boeing 787-9,United Kingdom,Family Leisure,London Heathrow to Cairo ,Premium Economy,4.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,St Lucia to Gatwick,Business Class,2.0,2.0,3.0,2.0,0.0,3.0,1.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,Fort Lauderdale to Gatwick,Business Class,2.0,3.0,3.0,3.0,0.0,2.0,3.0,no
+Boeing 747,United Arab Emirates,Family Leisure,Dubai to London Heathrow,Business Class,4.0,5.0,4.0,4.0,0.0,3.0,4.0,yes
+A320,United Kingdom,Business,Heathrow to Keflavik,Economy Class,3.0,4.0,5.0,4.0,0.0,0.0,4.0,yes
+Boeing 767,Switzerland,Solo Leisure,Zürich to London,Economy Class,4.0,5.0,4.0,0.0,0.0,0.0,4.0,yes
+Boeing 787-9,United Kingdom,Solo Leisure,London to Muscat,First Class,5.0,4.0,4.0,4.0,0.0,3.0,4.0,yes
+A320,United Kingdom,Family Leisure,Gatwick to Madeira,Business Class,2.0,4.0,2.0,3.0,0.0,0.0,1.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,London Gatwick to Fort Lauderdale ,Business Class,3.0,4.0,4.0,4.0,0.0,3.0,4.0,yes
+Boeing 777-200,United Kingdom,Business,Bangkok to London,Business Class,1.0,2.0,4.0,1.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,Bangkok to London,Economy Class,1.0,2.0,1.0,1.0,1.0,2.0,2.0,no
+Boeing 777,United Kingdom,Solo Leisure,Moscow to Heathrow,Economy Class,2.0,1.0,1.0,1.0,1.0,3.0,3.0,no
+Boeing 787-9,United Kingdom,Business,London Heathrow to Delhi Airport,First Class,4.0,1.0,2.0,1.0,1.0,1.0,1.0,no
+Boeing 747-400,Germany,Business,Miami to London,Economy Class,2.0,3.0,3.0,3.0,1.0,1.0,2.0,no
+A320,United States,Business,Warsaw to London,Business Class,1.0,4.0,4.0,5.0,0.0,0.0,4.0,yes
+A380,Singapore,Business,Singapore to Heathrow,Premium Economy,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 777,United States,Business,Chicago to Chennai via London,Business Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 787,United Kingdom,Solo Leisure,London Heathrow to Toronto,Economy Class,3.0,4.0,4.0,3.0,0.0,2.0,4.0,yes
+A380,United Kingdom,Business,London to Hong Kong,Business Class,3.0,1.0,3.0,1.0,1.0,3.0,1.0,no
+A380,United Kingdom,Solo Leisure,Miami to London Heathrow,Premium Economy,5.0,5.0,5.0,3.0,0.0,5.0,5.0,yes
+Boeing 747,United Kingdom,Couple Leisure,London to Phoenix,First Class,1.0,5.0,1.0,1.0,1.0,1.0,1.0,no
+A319,Mexico,Couple Leisure,Edimbourgh to London Gatwick,Economy Class,1.0,3.0,3.0,0.0,0.0,0.0,5.0,no
+Boeing 747-400,United Kingdom,Business,Chicago to London Heathrow,Business Class,1.0,1.0,3.0,1.0,1.0,1.0,1.0,no
+Boeing 757,Greece,Solo Leisure,Athens to London,Economy Class,3.0,4.0,4.0,0.0,0.0,2.0,5.0,yes
+Boeing 747,United Kingdom,Couple Leisure,London Heathrow to Miami,Premium Economy,2.0,3.0,3.0,2.0,0.0,2.0,2.0,no
+Boeing 777,United Kingdom,Solo Leisure,London to Bombay,Economy Class,4.0,5.0,3.0,4.0,0.0,4.0,5.0,yes
+A319/320,United Kingdom,Couple Leisure,Manchester to Gothenburg via London Heathrow,Business Class,2.0,3.0,3.0,2.0,1.0,1.0,2.0,no
+Boeing 777,United Kingdom,Couple Leisure,London Gatwick to Cape Town,Economy Class,4.0,3.0,4.0,4.0,0.0,3.0,3.0,no
+A321,United Kingdom,Solo Leisure,Aberdeen to London Heathrow,Business Class,5.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+A320,Germany,Solo Leisure,Dusseldorf to London,Business Class,3.0,5.0,4.0,5.0,0.0,0.0,4.0,yes
+Boeing 777,United Kingdom,Solo Leisure,Orlando to Gatwick,Economy Class,3.0,5.0,4.0,1.0,0.0,3.0,3.0,no
+A380,United Kingdom,Solo Leisure,London to Johannesburg,Economy Class,5.0,5.0,5.0,3.0,0.0,5.0,4.0,yes
+A319,Germany,Business,London to Duesseldorf,Economy Class,1.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Solo Leisure,London to Bengaluru,Premium Economy,2.0,1.0,2.0,1.0,0.0,1.0,1.0,no
+Boeing 777-300ER,United States,Couple Leisure,Houston to Dublin via London Heathrow,Economy Class,3.0,4.0,4.0,4.0,0.0,5.0,5.0,yes
+A320,United Kingdom,Solo Leisure,London Heathrow to Paris Orly,Economy Class,3.0,4.0,2.0,0.0,0.0,0.0,2.0,no
+A320,United Kingdom,Solo Leisure,London Heathrow to Belfast,Business Class,5.0,4.0,4.0,4.0,0.0,0.0,4.0,yes
+A380,United States,Business,Singapore to Madrid via London Heathrow,Business Class,1.0,2.0,1.0,2.0,0.0,2.0,1.0,no
+Boeing 777,United Kingdom,Solo Leisure,Gatwick to Tobago,Business Class,3.0,3.0,2.0,3.0,0.0,2.0,3.0,no
+A319,United Kingdom,Business,London Gatwick to Turin,Business Class,1.0,1.0,3.0,2.0,0.0,0.0,1.0,no
+A320,United States,Solo Leisure,London to Dusseldorf,Economy Class,2.0,4.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 777-200,Portugal,Couple Leisure,London to Bangkok,Business Class,5.0,5.0,5.0,5.0,2.0,2.0,5.0,yes
+A320,Italy,Solo Leisure,London Gatwick to Rome Fiumicino,Business Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 787-9,United States,Solo Leisure,"San Jose, CA to London Heathrow",Business Class,4.0,5.0,3.0,5.0,0.0,4.0,4.0,yes
+Boeing 777,Germany,Business,Dubai to London,Business Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+E170 / A319,United Kingdom,Business,London to Düsseldorf,Economy Class,3.0,5.0,4.0,1.0,0.0,0.0,2.0,no
+Boeing 777,United Kingdom,Solo Leisure,Bangkok to Aberdeen via Heathrow,Economy Class,3.0,4.0,4.0,4.0,0.0,2.0,4.0,yes
+E190,Netherlands,Couple Leisure,Rotterdam to London City,Economy Class,5.0,5.0,4.0,3.0,0.0,0.0,5.0,yes
+Boeing 747-400,United States,Solo Leisure,Chicago to London Heathrow,First Class,5.0,5.0,4.0,5.0,0.0,5.0,5.0,yes
+Boeing 777-200,Canada,Couple Leisure,Toronto to London,First Class,4.0,4.0,3.0,4.0,0.0,3.0,4.0,no
+Boeing 747,United Kingdom,Solo Leisure,Las Vegas to Manchester via London,Economy Class,1.0,2.0,1.0,1.0,0.0,2.0,1.0,no
+Boeing 777,United States,Business,London to Dubai,Business Class,2.0,1.0,3.0,1.0,0.0,0.0,1.0,no
+A380,United Kingdom,Solo Leisure,London to Johannesburg,Economy Class,5.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 777-300ER,China,Family Leisure,Hong Kong to London,First Class,4.0,5.0,4.0,5.0,0.0,0.0,4.0,yes
+A321,United Kingdom,Couple Leisure,Dublin to Heathrow,Business Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,London to New York,Economy Class,1.0,1.0,3.0,1.0,1.0,2.0,2.0,no
+Boeing 747-400,United Kingdom,Family Leisure,New York to London,Economy Class,4.0,4.0,3.0,4.0,0.0,3.0,3.0,yes
+A380,Australia,Solo Leisure,London to Hong Kong,Premium Economy,4.0,4.0,5.0,4.0,0.0,4.0,3.0,yes
+Boeing 777,United Kingdom,Family Leisure,London to Houston,First Class,3.0,3.0,1.0,1.0,0.0,3.0,1.0,no
+Boeing 747-400,United Kingdom,Solo Leisure,Dubai to London Heathrow,Economy Class,2.0,1.0,4.0,2.0,0.0,1.0,2.0,no
+Boeing 747-400,Hungary,Solo Leisure,New York to Budapest via London,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+A320,Germany,Couple Leisure,Hamburg to London Heathrow,Economy Class,3.0,2.0,5.0,0.0,0.0,0.0,2.0,no
+A320,United Kingdom,Family Leisure,London to Pisa,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+A320,United Kingdom,Family Leisure,London to Toulouse,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 787-900,United Kingdom,Solo Leisure,London to Santiago ,Business Class,5.0,5.0,4.0,4.0,0.0,4.0,5.0,yes
+A320,United States,Couple Leisure,London to Rome,Economy Class,5.0,3.0,5.0,0.0,0.0,0.0,5.0,yes
+Boeing 777,United States,Solo Leisure,London to Seattle,Premium Economy,4.0,4.0,4.0,4.0,0.0,3.0,4.0,yes
+Boeing 777,United States,Solo Leisure,Seattle to London,Premium Economy,4.0,4.0,4.0,3.0,0.0,3.0,4.0,yes
+A320,Taiwan,Family Leisure,London to Barcelona,Economy Class,1.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 747-400,Canada,Business,Vancouver to Edinburgh via London,Economy Class,2.0,2.0,1.0,3.0,0.0,2.0,2.0,no
+A319,United Kingdom,Solo Leisure,London to Berlin Tegel,First Class,2.0,2.0,4.0,1.0,0.0,1.0,2.0,no
+Boeing 777-200,United Kingdom,Family Leisure,London Heathrow to Dubai,First Class,3.0,4.0,3.0,2.0,0.0,2.0,1.0,no
+Boeing 777-200,United Kingdom,Family Leisure,Dubai to London Heathrow,First Class,3.0,2.0,2.0,2.0,0.0,2.0,2.0,no
+Boeing 777-200,United Kingdom,Business,Saint Lucia to London Gatwick,Business Class,2.0,3.0,4.0,2.0,3.0,4.0,2.0,no
+A320,United Kingdom,Business,London Heathrow to Belfast,Business Class,4.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,London Heathrow to New York JFK,Business Class,4.0,5.0,4.0,5.0,4.0,5.0,4.0,yes
+A320-200,United Kingdom,Couple Leisure,Manchester to London,Business Class,1.0,3.0,1.0,3.0,0.0,0.0,3.0,no
+Boeing 767,Greece,Family Leisure,London to Athens,Economy Class,3.0,3.0,1.0,0.0,0.0,0.0,2.0,no
+A320/319,Germany,Business,Berlin Tegel to London Heathrow,Economy Class,4.0,1.0,2.0,0.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,London Heathrow to Doha,Business Class,2.0,3.0,2.0,2.0,1.0,1.0,3.0,no
+Boeing 777-300,Singapore,Couple Leisure,Singapore to Sydney,Economy Class,3.0,1.0,3.0,1.0,1.0,2.0,2.0,no
+Boeing 777-200,United Kingdom,Family Leisure,London Gatwick to Orlando,Economy Class,5.0,5.0,5.0,4.0,0.0,4.0,5.0,yes
+A320,United Kingdom,Business,London Heathrow to Basel,Economy Class,2.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 747,United Kingdom,Couple Leisure,Miami to London Heathrow,Economy Class,1.0,5.0,3.0,1.0,0.0,1.0,3.0,no
+Boeing 747-400,United States,Business,Prague to Washington via London,Business Class,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,Cape Town to London,First Class,4.0,5.0,4.0,5.0,0.0,3.0,4.0,yes
+Boeing 777-200 ER,Thailand,Business,Bangkok to London Heathrow,Premium Economy,2.0,4.0,5.0,3.0,0.0,1.0,3.0,no
+Boeing 777-200,United Kingdom,Solo Leisure,Tel Aviv to London,First Class,5.0,4.0,2.0,5.0,1.0,4.0,5.0,yes
+Boeing 777-200,United Kingdom,Solo Leisure,London to Tel Aviv,Business Class,5.0,4.0,4.0,4.0,1.0,1.0,5.0,yes
+Boeing 787,Malaysia,Family Leisure,Kuala Lumpur to Madrid via London,Economy Class,4.0,3.0,3.0,2.0,0.0,4.0,4.0,yes
+A319,United Kingdom,Solo Leisure,Madrid to London Heathrow,Economy Class,3.0,1.0,2.0,1.0,0.0,0.0,3.0,no
+A380,United Kingdom,Couple Leisure,London Heathrow to Johannesburg,Business Class,4.0,4.0,4.0,4.0,0.0,3.0,4.0,yes
+Boeing 787,South Korea,Solo Leisure,London Heathrow to Seoul Incheon,Business Class,3.0,4.0,2.0,2.0,0.0,3.0,3.0,no
+Boeing 787,South Korea,Solo Leisure,Seoul Incheon to London Heathrow,Business Class,3.0,3.0,4.0,3.0,0.0,3.0,3.0,no
+Boeing 747,United Kingdom,Business,Cape Town to London,Economy Class,1.0,1.0,3.0,1.0,0.0,1.0,3.0,no
+Boeing 747,United Kingdom,Family Leisure,London to Philadelphia,Business Class,4.0,5.0,4.0,2.0,0.0,4.0,4.0,yes
+Boeing 767,United Kingdom,Business,London to Edinburgh,Business Class,1.0,3.0,3.0,3.0,0.0,0.0,1.0,no
+A321,United States,Business,Düsseldorf to London ,Economy Class,3.0,4.0,2.0,2.0,0.0,3.0,1.0,no
+Boeing 787-9,United Kingdom,Couple Leisure,London to Santiago,Business Class,3.0,4.0,4.0,3.0,0.0,3.0,3.0,yes
+Boeing 747-400,United Kingdom,Business,London to New York JFK,Business Class,2.0,3.0,3.0,2.0,1.0,3.0,1.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,London to Mumbai,Business Class,3.0,4.0,5.0,2.0,1.0,1.0,1.0,no
+A320,United Kingdom,Couple Leisure,Heathrow to Barcelona,Economy Class,2.0,2.0,3.0,0.0,0.0,0.0,2.0,no
+Boeing 777,Sweden,Solo Leisure,Tokyo Haneda to Heathrow,Economy Class,1.0,2.0,2.0,1.0,1.0,1.0,3.0,no
+Boeing 787-8,Switzerland,Business,London to Toronto,Business Class,2.0,2.0,1.0,1.0,3.0,1.0,2.0,no
+Boeing 747-400,United Kingdom,Business,New York JFK to London,First Class,3.0,4.0,3.0,3.0,1.0,4.0,2.0,no
+A380,United States,Solo Leisure,Los Angeles to London Heathrow,Economy Class,4.0,4.0,4.0,4.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Solo Leisure,Gatwick to Cagliari,Economy Class,4.0,4.0,4.0,2.0,0.0,0.0,3.0,yes
+A320,United Kingdom,Couple Leisure,Gatwick to Marrakech,Economy Class,3.0,1.0,4.0,1.0,0.0,0.0,4.0,no
+A321,United Kingdom,Couple Leisure,Aberdeen to London,Economy Class,3.0,2.0,3.0,1.0,0.0,0.0,1.0,no
+A380,Singapore,Solo Leisure,Singapore to Nassau via Heathrow,Economy Class,3.0,2.0,3.0,2.0,0.0,2.0,5.0,no
+A321,United Kingdom,Business,London Heathrow to Madrid,Economy Class,1.0,2.0,2.0,0.0,0.0,0.0,1.0,no
+A320,United Kingdom,Business,London to Zurich,Economy Class,2.0,2.0,2.0,1.0,1.0,1.0,1.0,no
+A319,United Kingdom,Couple Leisure,Bari to Gatwick,Economy Class,3.0,3.0,4.0,1.0,1.0,1.0,4.0,yes
+A320,United Kingdom,Couple Leisure,London Heathrow to Gibraltar,Economy Class,3.0,2.0,3.0,2.0,0.0,0.0,3.0,yes
+A319,United Kingdom,Couple Leisure,Pisa to London,Business Class,1.0,5.0,3.0,3.0,0.0,0.0,1.0,no
+Boeing 747-400,United Kingdom,Business,Las Vegas to London Heathrow,First Class,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+E-190,Australia,Family Leisure,London City to Edinburgh,Economy Class,5.0,4.0,4.0,4.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Solo Leisure,Faro to Gatwick,Business Class,4.0,5.0,2.0,4.0,0.0,0.0,3.0,yes
+A380,United Kingdom,Solo Leisure,Los Angeles to London Heathrow,Economy Class,4.0,1.0,5.0,2.0,1.0,1.0,2.0,no
+Boeing 777,United Kingdom,Solo Leisure,London Heathrow to Bangkok,Economy Class,2.0,2.0,2.0,1.0,0.0,1.0,2.0,no
+A319,United Kingdom,Couple Leisure,Gatwick to Bari,Economy Class,3.0,3.0,2.0,1.0,0.0,0.0,4.0,yes
+A319,United Kingdom,Family Leisure,Malaga to Gatwick,Business Class,5.0,5.0,3.0,5.0,0.0,0.0,5.0,yes
+A319,United Kingdom,Family Leisure,Gatwick to Malaga,Business Class,5.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,Gatwick to Orlando,Business Class,3.0,2.0,3.0,4.0,0.0,2.0,3.0,no
+A319,United Kingdom,Solo Leisure,Gatwick to Faro,Business Class,3.0,4.0,4.0,4.0,0.0,0.0,5.0,yes
+Boeing 767,United Kingdom,Couple Leisure,Larnaca to London Heathrow,Economy Class,3.0,3.0,4.0,0.0,0.0,1.0,3.0,yes
+A320,United Kingdom,Couple Leisure,Funchal to Gatwick,Business Class,4.0,1.0,1.0,1.0,0.0,0.0,3.0,no
+A320,New Zealand,Solo Leisure,Leeds Bradford to Geneva via London Heathrow,Economy Class,4.0,4.0,4.0,2.0,0.0,0.0,2.0,yes
+A380,Qatar,Business,Los Angeles to Doha via London,Business Class,2.0,3.0,4.0,1.0,0.0,4.0,3.0,no
+A321,United Kingdom,Couple Leisure,London Heathrow to Istanbul,Economy Class,2.0,1.0,2.0,1.0,0.0,0.0,1.0,no
+Boeing 777-200 / 787-9 / A319/ 320,Canada,Business,Toronto to Oslo via London,Premium Economy,1.0,3.0,4.0,1.0,0.0,3.0,4.0,yes
+A321,United Kingdom,Solo Leisure,London to Sofia,Economy Class,3.0,5.0,3.0,2.0,0.0,0.0,3.0,yes
+Boeing 777,Romania,Business,Port of Spain to Gatwick via St. Lucia,Economy Class,5.0,5.0,4.0,5.0,0.0,5.0,4.0,yes
+Boeing 747-400,United Kingdom,Business,London Heathrow to Chicago ,First Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+A319,United Kingdom,Couple Leisure,Jersey to Gatwick,Economy Class,3.0,4.0,4.0,1.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Couple Leisure,Gatwick to Tirana,Economy Class,3.0,3.0,4.0,0.0,0.0,0.0,3.0,no
+A320,United Kingdom,Solo Leisure,Brussels to London ,Economy Class,5.0,5.0,5.0,0.0,0.0,0.0,5.0,yes
+A321,United Kingdom,Solo Leisure,London Heathrow to Sofia,Economy Class,4.0,4.0,3.0,1.0,0.0,0.0,3.0,yes
+A320,United Kingdom,Solo Leisure,Heathrow to Bilbao,Economy Class,3.0,2.0,4.0,0.0,0.0,0.0,3.0,no
+A320,United Kingdom,Couple Leisure,Kalamata to London Heathrow,Business Class,2.0,2.0,3.0,2.0,0.0,0.0,2.0,no
+Boeing 777,United Kingdom,Business,"London Heathrow to Abuja, Nigeria",Economy Class,1.0,2.0,3.0,2.0,2.0,2.0,2.0,no
+Boeing 777,United Kingdom,Business,London to Tokyo Haneda,Economy Class,2.0,4.0,3.0,1.0,0.0,2.0,1.0,no
+A380,Hong Kong,Solo Leisure,London to Hong Kong,Premium Economy,3.0,5.0,2.0,3.0,0.0,3.0,3.0,no
+A320,United Kingdom,Couple Leisure,London Heathrow to Kalamata,Business Class,2.0,4.0,3.0,3.0,0.0,0.0,3.0,no
+Boeing 777,United States,Business,Dubai to London,Business Class,3.0,1.0,3.0,1.0,0.0,1.0,1.0,no
+A319,Australia,Couple Leisure,London Heathrow to Biarritz,Economy Class,4.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Couple Leisure,London Gatwick to Funchal,Economy Class,1.0,1.0,2.0,1.0,0.0,0.0,1.0,no
+A320,United Kingdom,Family Leisure,Zakinthos to London Heathrow,Business Class,4.0,5.0,2.0,4.0,0.0,2.0,5.0,yes
+A319,United Kingdom,Business,Belfast City to London Heathrow,Economy Class,3.0,4.0,5.0,4.0,0.0,0.0,2.0,yes
+Boeing 777-200,Canada,Business,Toronto to London Heathrow,Business Class,4.0,5.0,4.0,3.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Family Leisure,London Heathrow to Zakinthos,Business Class,4.0,5.0,5.0,4.0,0.0,2.0,5.0,yes
+A380,United Kingdom,Family Leisure,London to Vancouver,Economy Class,3.0,5.0,4.0,3.0,0.0,4.0,3.0,yes
+Boeing 777-200ER,United Kingdom,Business,London to Sao Paulo,Economy Class,2.0,4.0,5.0,2.0,0.0,4.0,4.0,yes
+Boeing 777,United Kingdom,Solo Leisure,Bangkok to London,Business Class,4.0,1.0,4.0,1.0,0.0,2.0,1.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,London to Cape Town,Business Class,2.0,2.0,1.0,2.0,0.0,1.0,2.0,no
+A319,United Kingdom,Business,London to Milan,Economy Class,3.0,1.0,3.0,1.0,0.0,0.0,2.0,yes
+A321,United Kingdom,Business,London Heathrow to Bucharest,Economy Class,2.0,4.0,3.0,2.0,1.0,1.0,2.0,no
+A321,United Kingdom,Couple Leisure,London to Bologna,Economy Class,4.0,4.0,4.0,2.0,0.0,1.0,4.0,no
+A320,United Kingdom,Business,London Heathrow to Keflavik,Business Class,3.0,5.0,4.0,4.0,1.0,1.0,4.0,yes
+A320,United Kingdom,Family Leisure,Larnaca to London Heathrow,Economy Class,3.0,1.0,4.0,2.0,0.0,0.0,2.0,no
+Boeing 777-300,United Kingdom,Couple Leisure,Tokyo Haneda to London,Economy Class,3.0,3.0,2.0,1.0,2.0,3.0,2.0,no
+Boeing 767,United Kingdom,Couple Leisure,Rome to London,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+A320-233,United Kingdom,Family Leisure,Amsterdam to Gatwick,Economy Class,3.0,4.0,4.0,0.0,0.0,0.0,4.0,yes
+Boeing 747-400,United States,Business,New York to Cape Town via London,First Class,2.0,4.0,3.0,2.0,1.0,2.0,2.0,no
+Boeing 747,United States,Business,London to Philadelphia,Business Class,3.0,1.0,2.0,1.0,0.0,1.0,1.0,no
+A320,United Kingdom,Solo Leisure,Salzburg to Gatwick,Economy Class,2.0,1.0,5.0,1.0,1.0,1.0,2.0,no
+A320,United Kingdom,Couple Leisure,Athens to Newcastle via London,Business Class,2.0,5.0,5.0,1.0,0.0,0.0,2.0,no
+A319,United Kingdom,Family Leisure,London to Paris Orly,Business Class,3.0,3.0,3.0,2.0,0.0,0.0,3.0,no
+Embraer 170,United Kingdom,Business,London City to Dusseldorf,Business Class,4.0,2.0,1.0,1.0,0.0,0.0,2.0,no
+A380,Denmark,Family Leisure,Vancouver to London Heathrow,Business Class,1.0,4.0,2.0,1.0,0.0,2.0,1.0,no
+Boeing 747-400 / A380,South Africa,Solo Leisure,Johannesburg to London,Premium Economy,5.0,5.0,4.0,5.0,3.0,5.0,4.0,yes
+Boeing 747-400,United States,Solo Leisure,Oslo to Philadelphia via London,Business Class,2.0,2.0,3.0,1.0,0.0,3.0,2.0,no
+A320,Canada,Family Leisure,Athens to London,Business Class,1.0,2.0,3.0,1.0,1.0,1.0,1.0,no
+Boeing 767,United Kingdom,Business,Nice to London Heathrow,Economy Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+A320,United States,Business,Paris CDG to London,Business Class,3.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+A320,United Kingdom,Solo Leisure,Gatwick to Paphos,Economy Class,1.0,1.0,2.0,1.0,1.0,1.0,2.0,no
+A380,Canada,Solo Leisure,Vancouver to London Heathrow,Economy Class,3.0,1.0,4.0,1.0,0.0,2.0,2.0,no
+A380,United Kingdom,Solo Leisure,Vancouver to London,Premium Economy,2.0,1.0,3.0,1.0,0.0,1.0,3.0,no
+Boeing 767,United Kingdom,Couple Leisure,Athens to London ,Economy Class,1.0,2.0,2.0,0.0,0.0,0.0,1.0,no
+A319,United Kingdom,Couple Leisure,Venice to Gatwick,Economy Class,3.0,4.0,3.0,0.0,0.0,0.0,3.0,no
+Boeing 747,United Kingdom,Business,London Heathrow to Accra,Business Class,1.0,2.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 777,United Kingdom,Family Leisure,Gatwick to Orlando ,Economy Class,4.0,3.0,1.0,2.0,0.0,3.0,3.0,no
+Boeing 777,United Kingdom,Solo Leisure,San Diego to London,Business Class,1.0,2.0,2.0,2.0,1.0,2.0,1.0,no
+A319,United Kingdom,Couple Leisure,Pisa to London Gatwick,Business Class,3.0,4.0,3.0,3.0,0.0,0.0,5.0,yes
+A320,China,Solo Leisure,LHR to KRK,Economy Class,3.0,3.0,4.0,2.0,0.0,0.0,5.0,yes
+Boeing 777-300,United Kingdom,Family Leisure,Newcastle to Boston via London,Economy Class,5.0,5.0,4.0,5.0,0.0,5.0,4.0,yes
+A321,United Kingdom,Family Leisure,London Heathrow to Sofia,Economy Class,2.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+A320,United Kingdom,Solo Leisure,London to Frankfurt,Economy Class,3.0,1.0,2.0,1.0,0.0,0.0,2.0,no
+A321,United Kingdom,Couple Leisure,London Heathrow to Bologna,Economy Class,3.0,4.0,4.0,3.0,0.0,0.0,5.0,yes
+Boeing 747,United Kingdom,Couple Leisure,London Heathrow to New York JFK,Economy Class,2.0,1.0,2.0,1.0,0.0,3.0,1.0,no
+A321 / Boeing 777,United States,Couple Leisure,Barcelona to Boston via London,Business Class,2.0,5.0,3.0,4.0,1.0,0.0,1.0,no
+A321,United Kingdom,Solo Leisure,London to Madrid,Economy Class,2.0,3.0,3.0,1.0,1.0,1.0,4.0,no
+A319,United Kingdom,Business,London to Brussels ,Economy Class,2.0,2.0,2.0,0.0,0.0,0.0,2.0,no
+Boeing 747 400,United Kingdom,Business,London Heathrow to Accra,Business Class,1.0,3.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 777-200,United Kingdom,Family Leisure,Gatwick to Bridgetown,Economy Class,4.0,4.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 777,United States,Business,Dubai to London,Business Class,4.0,2.0,1.0,2.0,0.0,1.0,2.0,no
+A321,United Kingdom,Couple Leisure,London to Sofia,Economy Class,1.0,1.0,3.0,1.0,0.0,0.0,1.0,no
+Boeing 777-200,United Kingdom,Family Leisure,Mauritius to Gatwick,Business Class,3.0,3.0,3.0,3.0,0.0,3.0,3.0,yes
+Boeing 747,United Kingdom,Business,New York JFK to London Heathrow,Business Class,1.0,1.0,2.0,1.0,0.0,1.0,1.0,no
+A320,United States,Business,Athens to London Heathrow,Economy Class,3.0,2.0,3.0,1.0,0.0,1.0,3.0,yes
+Boeing 747-400,United States,Solo Leisure,London to Boston,Economy Class,4.0,5.0,4.0,5.0,0.0,4.0,5.0,yes
+Boeing 777,United Kingdom,Business,Toronto to London Heathrow,Business Class,1.0,4.0,3.0,1.0,0.0,2.0,1.0,no
+A320,United Kingdom,Couple Leisure,Newcastle to Geneva via London,Business Class,4.0,5.0,3.0,4.0,0.0,0.0,4.0,yes
+A320,Iceland,Couple Leisure,London to Keflavik,Economy Class,4.0,5.0,5.0,5.0,0.0,0.0,4.0,yes
+Boeing 777,United Kingdom,Solo Leisure,London to Tokyo,Economy Class,4.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Gatwick to Mauritius,Economy Class,1.0,3.0,3.0,1.0,0.0,4.0,3.0,no
+Boeing 777 / A320,Spain,Couple Leisure,Boston to Barcelona via London,Premium Economy,1.0,1.0,2.0,0.0,0.0,2.0,2.0,no
+Boeing 777-200,United Kingdom,Family Leisure,Gatwick to Mauritius ,Business Class,3.0,3.0,4.0,3.0,0.0,2.0,3.0,yes
+Boeing 767,United Kingdom,Family Leisure,London Heathrow to Larnaca,Economy Class,2.0,1.0,4.0,1.0,1.0,1.0,3.0,no
+A320,United Kingdom,Couple Leisure,London Heathrow to Tallinn,Economy Class,4.0,5.0,3.0,4.0,0.0,0.0,4.0,yes
+Boeing 767,United Kingdom,Couple Leisure,Stockholm to London Heathrow,Economy Class,2.0,3.0,1.0,0.0,0.0,0.0,2.0,no
+Boeing 747-400,United Kingdom,Business,Accra to London Heathrow,Business Class,1.0,1.0,2.0,1.0,0.0,1.0,1.0,no
+A321,United Kingdom,Couple Leisure,London Heathrow to Stockholm,Economy Class,2.0,3.0,3.0,0.0,0.0,0.0,3.0,no
+Boeing 787-9,United Kingdom,Couple Leisure,Kuala Lumpur to London,First Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 747,Ghana,Business,Heathrow to Accra,Business Class,1.0,2.0,1.0,1.0,0.0,1.0,1.0,no
+A320,United Kingdom,Solo Leisure,Mykonos to London,Economy Class,3.0,1.0,3.0,1.0,0.0,0.0,1.0,no
+Boeing 767,United Kingdom,Couple Leisure,Rome to Heathrow,Economy Class,2.0,2.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 787,United Kingdom,Couple Leisure,Chennai to London,Business Class,2.0,2.0,2.0,3.0,0.0,4.0,2.0,no
+A321,Australia,Couple Leisure,London Gatwick to Genoa,Business Class,1.0,4.0,4.0,1.0,0.0,0.0,2.0,no
+Boeing 777,Ghana,Business,Beijing to London Heathrow,Business Class,1.0,2.0,2.0,1.0,0.0,1.0,2.0,no
+A319 / A380 / Boeing 737,South Africa,Couple Leisure,Leeds to Durban via London / Johannesburg,Premium Economy,4.0,4.0,4.0,4.0,0.0,4.0,4.0,yes
+A319,United States,Business,London Heathrow to Paris Orly,Economy Class,2.0,2.0,1.0,0.0,0.0,0.0,1.0,no
+A380-800,United Kingdom,Solo Leisure,Singapore to London Heathrow,Premium Economy,3.0,2.0,4.0,2.0,0.0,4.0,1.0,no
+Boeing 777-200,Canada,Solo Leisure,Toronto to London,Premium Economy,3.0,3.0,5.0,3.0,0.0,2.0,3.0,no
+A320,France,Business,Dublin to Marseille via London,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+A380,South Africa,Business,Johannesburg to London,Premium Economy,4.0,1.0,4.0,1.0,0.0,5.0,2.0,no
+A319,United Kingdom,Couple Leisure,Valencia to London Gatwick,Business Class,4.0,5.0,1.0,3.0,0.0,0.0,4.0,no
+A320 / Boeing 767,United Kingdom,Business,London to Edinburgh,Business Class,2.0,2.0,3.0,1.0,0.0,0.0,2.0,no
+A319,United Kingdom,Couple Leisure,London Gatwick to Valencia,Business Class,4.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,Antigua to Gatwick,Premium Economy,1.0,1.0,1.0,1.0,0.0,1.0,1.0,yes
+Boeing 767,United Kingdom,Solo Leisure,London Heathrow to Madrid,Business Class,2.0,1.0,4.0,1.0,0.0,0.0,2.0,no
+A319,United Kingdom,Family Leisure,Gatwick to Alicante,Business Class,3.0,5.0,5.0,4.0,0.0,0.0,5.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,Gatwick to Antigua,Economy Class,1.0,2.0,2.0,1.0,0.0,1.0,2.0,no
+E190,United Kingdom,Business,London City to Milan,Business Class,2.0,4.0,2.0,1.0,0.0,1.0,1.0,no
+Boeing 747 & A319,Switzerland,Couple Leisure,Boston to Geneva via Heathrow,Premium Economy,2.0,4.0,1.0,2.0,0.0,3.0,2.0,no
+A320,United Kingdom,Couple Leisure,Gatwick to Bordeaux,Economy Class,1.0,2.0,1.0,1.0,0.0,0.0,1.0,yes
+Boeing 747-400,United Kingdom,Business,London to Boston,Premium Economy,1.0,3.0,1.0,1.0,1.0,1.0,1.0,no
+A320,Turkey,Family Leisure,Istanbul to London,Economy Class,1.0,2.0,3.0,2.0,0.0,0.0,3.0,no
+A380,Australia,Couple Leisure,London Heathrow to Sydney via Singapore,Premium Economy,2.0,2.0,2.0,2.0,0.0,3.0,1.0,no
+Boeing 777-300,United Kingdom,Solo Leisure,London Heathrow to Hong Kong,Premium Economy,4.0,4.0,5.0,4.0,0.0,4.0,2.0,yes
+Boeing 747,United Kingdom,Family Leisure,London to Dubai,First Class,3.0,5.0,1.0,2.0,0.0,2.0,1.0,no
+A380,Canada,Business,London to Vancouver,Business Class,2.0,1.0,4.0,1.0,0.0,3.0,1.0,no
+Boeing 787-9,United Kingdom,Couple Leisure,Tokyo to London Heathrow,Premium Economy,3.0,1.0,3.0,1.0,0.0,4.0,2.0,no
+Boeing 747,United Kingdom,Family Leisure,Heathrow to Miami,Economy Class,1.0,2.0,3.0,1.0,0.0,1.0,2.0,no
+A19,United Kingdom,Couple Leisure,London Heathrow to Brussels,Economy Class,4.0,4.0,5.0,0.0,0.0,0.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Lima to London Gatwick,Business Class,3.0,1.0,3.0,2.0,0.0,2.0,1.0,no
+A380-800,United Kingdom,Couple Leisure,London to Johannesburg,Economy Class,1.0,1.0,1.0,2.0,0.0,5.0,1.0,no
+Boeing 747-400 / A320,United States,Solo Leisure,Washington to Sofia via London,Premium Economy,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+Boeing 767,United Kingdom,Couple Leisure,Rome to London Heathrow,Business Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 747-400,United Kingdom,Business,Chicago to London Heathrow,Business Class,1.0,1.0,1.0,1.0,1.0,4.0,1.0,no
+A321,United Kingdom,Couple Leisure,Gatwick to Funchal,Economy Class,1.0,2.0,3.0,0.0,0.0,0.0,1.0,no
+Boeing 787-9,United Kingdom,Couple Leisure,London Heathrow to Tokyo Narita,First Class,4.0,2.0,5.0,1.0,0.0,3.0,1.0,no
+A320,United Kingdom,Couple Leisure,Luxembourg to London,Business Class,2.0,3.0,3.0,1.0,1.0,1.0,2.0,no
+A319,United Kingdom,Family Leisure,Heathrow to Bergen,Economy Class,3.0,2.0,2.0,1.0,1.0,1.0,1.0,no
+Boeing 787-8,United Kingdom,Business,Seoul to London,Business Class,4.0,5.0,3.0,4.0,0.0,3.0,3.0,no
+Boeing 777,United Kingdom,Couple Leisure,Gatwick to Lima,Business Class,4.0,4.0,3.0,4.0,0.0,2.0,4.0,yes
+A320,United Kingdom,Business,London Heathrow to Santorini,Business Class,1.0,2.0,2.0,1.0,0.0,0.0,1.0,no
+A320,United Kingdom,Solo Leisure,London Heathrow to Bilbao,Economy Class,3.0,3.0,4.0,0.0,0.0,0.0,2.0,no
+Boeing 787-9,Ireland,Solo Leisure,Kuala Lumpur to London,Economy Class,4.0,1.0,5.0,1.0,0.0,5.0,4.0,yes
+Boeing 787,Ireland,Solo Leisure,London to Kuala Lumpur,Economy Class,4.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 747-400,United Kingdom,Business,London Heathrow to Miami,Business Class,2.0,4.0,1.0,1.0,0.0,1.0,1.0,no
+A321 / Boeing 777,Russian Federation,Solo Leisure,Moscow to Houston via London,Economy Class,3.0,3.0,3.0,3.0,0.0,3.0,4.0,yes
+A319,United Kingdom,Business,London to Brussels,Economy Class,3.0,4.0,4.0,0.0,1.0,1.0,2.0,no
+Boeing 747,United Kingdom,Couple Leisure,London to San Francisco,Economy Class,4.0,5.0,4.0,5.0,0.0,4.0,4.0,yes
+A321 / Boeing 777-300,Netherlands,Couple Leisure,Amsterdam to Tokyo via London,Economy Class,4.0,5.0,3.0,4.0,0.0,4.0,4.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,Antigua to Gatwick,Business Class,3.0,2.0,4.0,2.0,0.0,2.0,3.0,no
+Boeing 777-200,United Kingdom,Family Leisure,Orlando to Gatwick,Economy Class,5.0,5.0,5.0,5.0,0.0,3.0,5.0,yes
+Boeing 777,United Kingdom,Solo Leisure,London to Toronto,Premium Economy,4.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+Boeing 787,Italy,Business,London to Santiago de Chile,Business Class,3.0,4.0,3.0,2.0,0.0,4.0,3.0,no
+A320,United Kingdom,Business,Gatwick to Amsterdam,Economy Class,3.0,5.0,1.0,3.0,0.0,0.0,2.0,no
+Boeing 767,United Kingdom,Couple Leisure,London Heathrow to Nice,Economy Class,1.0,2.0,4.0,1.0,0.0,0.0,1.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,London to Cape Town,Economy Class,1.0,1.0,4.0,1.0,0.0,3.0,1.0,no
+A320,United Kingdom,Couple Leisure,LHR to TXL,Business Class,4.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Rio de Janeiro to London,Premium Economy,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+A320,United Kingdom,Business,London to Edinburgh,Economy Class,2.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 777-300,United Kingdom,Couple Leisure,Gatwick to Antigua,Business Class,4.0,4.0,4.0,3.0,0.0,1.0,4.0,yes
+A320,United Kingdom,Business,Berlin Tegel to London,Business Class,3.0,5.0,4.0,3.0,1.0,2.0,4.0,yes
+Embraer,United Kingdom,Solo Leisure,London City to Bergerac,Economy Class,3.0,4.0,3.0,3.0,0.0,0.0,4.0,no
+Boeing 777 200/300,United Kingdom,Business,London Heathrow to Bangkok,Premium Economy,2.0,1.0,3.0,1.0,0.0,2.0,2.0,no
+A380 and Boeing 747,United Kingdom,Couple Leisure,London Heathrow to Miami,First Class,4.0,5.0,5.0,3.0,0.0,4.0,5.0,no
+A380,United Kingdom,Business,Singapore to London Heathrow,Economy Class,3.0,4.0,5.0,3.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Solo Leisure,Nice to London Heathrow,Economy Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+A320,United Kingdom,Family Leisure,Keflavik to London ,Economy Class,1.0,1.0,1.0,0.0,0.0,1.0,1.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,Glasgow to Chicago via Heathrow,Premium Economy,1.0,3.0,3.0,2.0,0.0,1.0,1.0,no
+Boeing 777 200,Bahrain,Business,Bahrain to Dublin via london,Business Class,0.0,0.0,1.0,0.0,0.0,0.0,1.0,no
+A319,United Kingdom,Solo Leisure,London to Edinburgh,Economy Class,3.0,1.0,4.0,1.0,0.0,0.0,1.0,no
+A320,Slovakia,Solo Leisure,London Heathrow to Vienna,Economy Class,2.0,1.0,4.0,1.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,Hong Kong to London Heathrow,Economy Class,3.0,3.0,5.0,2.0,0.0,3.0,3.0,yes
+A320,United Kingdom,Couple Leisure,London Heathrow to Budapest,Economy Class,4.0,1.0,3.0,1.0,0.0,0.0,2.0,no
+A380,Portugal,Family Leisure,London to Boston,Economy Class,5.0,5.0,4.0,5.0,0.0,5.0,4.0,yes
+Boeing 787-8,United Kingdom,Couple Leisure,Newark to London Heathrow,First Class,3.0,4.0,3.0,1.0,0.0,2.0,3.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,London to Newark,First Class,3.0,4.0,4.0,2.0,0.0,2.0,2.0,no
+A320,United Kingdom,Couple Leisure,Pisa to Gatwick,Business Class,2.0,4.0,2.0,4.0,0.0,0.0,2.0,no
+A380-800,United Kingdom,Couple Leisure,Heathrow to San Francisco,Economy Class,4.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+A319,United Kingdom,Couple Leisure,Gatwick to Pisa,Business Class,2.0,4.0,4.0,1.0,0.0,0.0,2.0,no
+Boeing 777,United Kingdom,Couple Leisure,St Lucia to Gatwick,Business Class,5.0,5.0,5.0,5.0,0.0,5.0,4.0,yes
+A380,United Kingdom,Couple Leisure,Singapore to London Heathrow,Economy Class,4.0,3.0,4.0,2.0,0.0,3.0,3.0,no
+Boeing 777,United Kingdom,Solo Leisure,Bangkok to London Heathrow,Economy Class,3.0,3.0,2.0,1.0,1.0,1.0,1.0,no
+Boeing 787-8,United Kingdom,Business,London to Seoul,Economy Class,1.0,4.0,4.0,2.0,0.0,3.0,2.0,no
+A380,United States,Couple Leisure,Heathrow to San Francisco,Premium Economy,5.0,5.0,3.0,5.0,0.0,4.0,5.0,yes
+Boeing 777-300,Italy,Business,Buenos Aires to London,Business Class,2.0,4.0,4.0,3.0,0.0,3.0,3.0,no
+A319,United Kingdom,Couple Leisure,Gatwick to Pisa,Business Class,2.0,5.0,5.0,1.0,0.0,0.0,3.0,no
+A319,Germany,Business,Stuttgart to London,Economy Class,2.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+A319,United Kingdom,Family Leisure,Nice to Gatwick,Business Class,2.0,4.0,3.0,1.0,0.0,0.0,1.0,no
+Boeing 777-200ER,United Kingdom,Solo Leisure,London LGW to Lima,Business Class,5.0,5.0,5.0,4.0,0.0,3.0,4.0,yes
+Boeing 777,Dominican Republic,Solo Leisure,Punta Cana to Gatwick,Business Class,1.0,1.0,4.0,1.0,0.0,1.0,2.0,no
+Boeing 777-200 / 747-400,United States,Family Leisure,London to Washington,Economy Class,3.0,4.0,3.0,1.0,1.0,3.0,3.0,no
+Boeing 747-400,United States,Family Leisure,London to New York JFK,Economy Class,5.0,4.0,4.0,1.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Solo Leisure,Malaga to Gatwick,Economy Class,2.0,1.0,5.0,2.0,0.0,0.0,1.0,no
+Boeing 747-400,Norway,Couple Leisure,Stavanger to Las Vegas via London,Economy Class,4.0,4.0,5.0,3.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Business,Gatwick to Rome,Economy Class,2.0,3.0,3.0,1.0,0.0,0.0,2.0,no
+A320,United Kingdom,Business,LHR to IST,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,3.0,no
+Boeing 747-400,United Kingdom,Solo Leisure,Los Angeles to London Heathrow,Economy Class,1.0,3.0,3.0,1.0,0.0,2.0,1.0,no
+A321,United States,Business,London to Milan,Economy Class,4.0,1.0,1.0,1.0,0.0,0.0,1.0,yes
+Boeing 777,Bulgaria,Family Leisure,Sofia to Boston via London,Business Class,5.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+Boeing 777-300,Australia,Business,LHR to SYD via SIN,First Class,5.0,4.0,5.0,5.0,0.0,5.0,5.0,yes
+B777-300ER / A320 / A380,China,Couple Leisure,Copenhagen to Hong Kong via London,Business Class,5.0,5.0,5.0,4.0,0.0,5.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,London Gatwick to San Jose Costa Rica,Business Class,3.0,1.0,4.0,1.0,0.0,0.0,2.0,no
+Boeing 747,United Kingdom,Business,San Diego to London,Premium Economy,1.0,2.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 777-200,United Kingdom,Solo Leisure,Philadelphia to Edinburgh via Heathrow,Economy Class,2.0,4.0,5.0,2.0,0.0,2.0,4.0,no
+Boeing 747-400,United Kingdom,Business,London Heathrow to New York JFK,Business Class,2.0,3.0,2.0,1.0,0.0,1.0,1.0,no
+Boeing 767,Australia,Couple Leisure,Rome to London,Business Class,1.0,4.0,1.0,4.0,1.0,1.0,3.0,no
+Boeing 787-8,United Kingdom,Business,London to New Orleans,Economy Class,1.0,3.0,2.0,1.0,1.0,2.0,1.0,no
+Boeing 777-300,United States,Couple Leisure,DFW to LHR,Premium Economy,3.0,4.0,3.0,4.0,3.0,3.0,2.0,no
+A219,United Kingdom,Couple Leisure,London Heathrow to Brussels,Business Class,3.0,5.0,4.0,4.0,0.0,0.0,3.0,yes
+A380,United Kingdom,Business,Miami to London,Business Class,3.0,5.0,4.0,2.0,0.0,4.0,2.0,no
+Boeing 747,Germany,Business,Cape Town to Berlin via London,Premium Economy,3.0,5.0,3.0,1.0,0.0,2.0,1.0,no
+A320,United Kingdom,Couple Leisure,Marrakech to London Gatwick,Economy Class,3.0,1.0,3.0,1.0,0.0,0.0,3.0,no
+A320,United Kingdom,Business,London Heathrow to Munich,Economy Class,3.0,3.0,3.0,1.0,0.0,1.0,3.0,no
+A320,United Kingdom,Couple Leisure,Belfast to Gibraltar via Heathrow,Economy Class,2.0,3.0,3.0,1.0,0.0,0.0,3.0,no
+Boeing 747,Australia,Business,London to New York,Economy Class,4.0,2.0,3.0,2.0,0.0,5.0,3.0,no
+Boeing 777,United Kingdom,Family Leisure,Gatwick to Grenada,Business Class,5.0,5.0,5.0,4.0,0.0,4.0,1.0,no
+A320-200,Portugal,Business,Lisbon to London,Economy Class,4.0,3.0,2.0,1.0,0.0,1.0,1.0,no
+Boeing 747,Australia,Business,Miami to London,Economy Class,1.0,3.0,1.0,1.0,0.0,1.0,1.0,no
+A380,United Kingdom,Business,London to Los Angeles,Economy Class,3.0,1.0,3.0,1.0,0.0,3.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,Mauritius to Gatwick,Business Class,4.0,1.0,5.0,3.0,0.0,4.0,2.0,no
+A380,United Kingdom,Couple Leisure,London Heathrow to Hong Kong,Premium Economy,4.0,4.0,3.0,1.0,0.0,2.0,2.0,no
+Boeing 777,United Kingdom,Couple Leisure,London to Nairobi,Premium Economy,4.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+A319,United Kingdom,Business,London Heathrow to Edinburgh,Economy Class,2.0,5.0,2.0,0.0,0.0,0.0,1.0,no
+Boeing 777,Canada,Couple Leisure,Toronto to Berlin via London,Business Class,1.0,4.0,3.0,2.0,0.0,2.0,1.0,no
+Boeing 787-9,United Kingdom,Couple Leisure,London Heathrow to Dubai,Economy Class,4.0,1.0,4.0,1.0,4.0,3.0,1.0,no
+Boeing 747-400,United Kingdom,Solo Leisure,London Heathrow to Johannesburg,Economy Class,1.0,3.0,3.0,3.0,0.0,3.0,2.0,no
+A320,United Kingdom,Solo Leisure,London Heathrow to Innsbruck,Business Class,1.0,4.0,2.0,3.0,0.0,0.0,3.0,yes
+A320,United Kingdom,Business,London Heathrow to Dublin,Business Class,1.0,3.0,3.0,3.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,London to Barbados,Economy Class,3.0,3.0,3.0,1.0,0.0,2.0,2.0,no
+Boeing 777,United Kingdom,Solo Leisure,London Heathrow to Bangkok,Economy Class,3.0,2.0,4.0,4.0,1.0,1.0,3.0,no
+Boeing 777-300,United Kingdom,Solo Leisure,Beijing to London,Economy Class,4.0,3.0,4.0,2.0,0.0,2.0,3.0,no
+A319,United Kingdom,Couple Leisure,LHR to GVA,Business Class,2.0,4.0,2.0,4.0,0.0,0.0,2.0,no
+Boeing 747-400 / 777-200,Sweden,Family Leisure,GOT to SFO/PHX via LHR,Economy Class,4.0,3.0,3.0,1.0,0.0,1.0,2.0,no
+Boeing 777,United Kingdom,Couple Leisure,Gatwick to Mauritius,Business Class,3.0,4.0,1.0,3.0,0.0,3.0,3.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,San Diego to London,Business Class,4.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 777,Netherlands,Business,Amsterdam to St Lucia via Gatwick,Business Class,2.0,3.0,5.0,2.0,0.0,2.0,1.0,no
+A321,France,Solo Leisure,London to Toulouse,Economy Class,2.0,1.0,2.0,1.0,0.0,0.0,1.0,no
+A320 / Boeing 777-200,United Kingdom,Business,Edinburgh to Luanda via Heathrow,Economy Class,3.0,2.0,2.0,1.0,1.0,2.0,1.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,Gatwick to Bridgetown,Economy Class,1.0,1.0,2.0,1.0,0.0,2.0,1.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,Cape Town to London,Economy Class,4.0,4.0,5.0,4.0,0.0,4.0,4.0,yes
+Boeing 777,United Kingdom,Business,Orlando to London,Business Class,2.0,2.0,1.0,3.0,0.0,3.0,1.0,no
+Boeing 787-9,United Kingdom,Business,Newark to London ,Business Class,2.0,3.0,4.0,1.0,0.0,3.0,2.0,no
+Boeing 747,United Kingdom,Couple Leisure,London to Chicago,Economy Class,2.0,3.0,2.0,1.0,0.0,2.0,1.0,no
+Boeing 747-400,United Kingdom,Solo Leisure,LHR to YVR,Premium Economy,3.0,3.0,3.0,2.0,0.0,2.0,2.0,no
+A320,United Kingdom,Couple Leisure,London Heathrow to Gibraltar,Economy Class,3.0,2.0,2.0,1.0,0.0,0.0,3.0,no
+A380/A320,Singapore,Solo Leisure,Singapore to Venice via London,Economy Class,3.0,3.0,3.0,2.0,0.0,2.0,3.0,no
+A320,United Kingdom,Family Leisure,London to Marrakech,Economy Class,3.0,1.0,3.0,1.0,0.0,0.0,1.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,Cape Town to London,Economy Class,1.0,3.0,4.0,1.0,0.0,4.0,3.0,no
+Boeing 747-400 & A320/321,Kuwait,Solo Leisure,Kuwait to Edinburgh via London,Premium Economy,5.0,3.0,5.0,2.0,0.0,5.0,3.0,no
+A321,United Kingdom,Couple Leisure,London Heathrow to Pisa,Business Class,1.0,4.0,1.0,2.0,0.0,0.0,1.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,St Lucia to Gatwick,Business Class,5.0,5.0,3.0,3.0,0.0,4.0,3.0,yes
+Boeing 747-400,Canada,Couple Leisure,Cape Town to London,Business Class,5.0,5.0,5.0,5.0,0.0,4.0,4.0,yes
+Boeing 767,Cyprus,Business,London to Larnaca,Economy Class,1.0,2.0,2.0,3.0,1.0,2.0,1.0,no
+Boeing 747-400,United Kingdom,Business,Chicago to London,Premium Economy,5.0,5.0,4.0,3.0,0.0,5.0,4.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,Phoenix to London Heathrow,Economy Class,1.0,2.0,2.0,1.0,1.0,1.0,1.0,no
+Boeing 747-400,United Kingdom,Business,London to Chicago O'Hare,Business Class,5.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+Boeing 777,United Kingdom,Business,London to Mumbai,Premium Economy,2.0,2.0,2.0,2.0,0.0,1.0,3.0,no
+A380,Australia,Business,HKG to LHR,Business Class,3.0,3.0,4.0,4.0,0.0,4.0,3.0,yes
+Boeing 777,United Kingdom,Couple Leisure,San Jose to London Gatwick,Business Class,4.0,3.0,1.0,1.0,1.0,1.0,1.0,no
+A380,United Kingdom,Solo Leisure,London to Miami,Economy Class,4.0,4.0,5.0,1.0,0.0,5.0,5.0,yes
+A320,United Kingdom,Business,Lisbon to London,Economy Class,2.0,2.0,3.0,0.0,0.0,0.0,2.0,no
+A320,Germany,Solo Leisure,Berlin to London,Economy Class,5.0,5.0,5.0,2.0,0.0,3.0,2.0,yes
+A320,Canada,Solo Leisure,Istanbul to London,Economy Class,3.0,5.0,3.0,1.0,0.0,1.0,2.0,no
+Boeing 777-200,United Kingdom,Business,London Heathrow to Chicago,First Class,1.0,1.0,3.0,1.0,1.0,1.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,Gatwick to Cape Town,Economy Class,4.0,3.0,4.0,2.0,0.0,2.0,4.0,yes
+Boeing 787-8 / 787-9,Canada,Solo Leisure,Toronto to London,Premium Economy,3.0,4.0,4.0,2.0,0.0,1.0,3.0,no
+A319,United Kingdom,Business,London Heathrow to Stuttgart,Economy Class,1.0,2.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,London to Las Vegas,Economy Class,4.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+A320,United Kingdom,Business,London Heathrow to Rome,Economy Class,4.0,1.0,5.0,1.0,0.0,0.0,2.0,no
+Embraer 170,United Kingdom,Solo Leisure,Edinburgh to London City,Economy Class,3.0,3.0,1.0,3.0,0.0,0.0,4.0,no
+Boeing 747,Ghana,Couple Leisure,Accra to London Heathrow,Economy Class,2.0,3.0,4.0,2.0,0.0,3.0,3.0,no
+Boeing 777,United Kingdom,Couple Leisure,London Gatwick to Mauritius ,Business Class,4.0,3.0,2.0,4.0,0.0,4.0,3.0,no
+Boeing 747-400,United Kingdom,Solo Leisure,London to Vancouver,Economy Class,2.0,5.0,4.0,4.0,0.0,3.0,3.0,yes
+A380,United Kingdom,Solo Leisure,Washington to London,Economy Class,5.0,5.0,5.0,4.0,0.0,4.0,5.0,yes
+Boeing 777,United Kingdom,Business,Bangkok to London,Economy Class,1.0,3.0,3.0,1.0,1.0,1.0,1.0,no
+Boeing 777,China,Business,London to Hong Kong,Business Class,4.0,4.0,4.0,4.0,0.0,4.0,4.0,yes
+A320,China,Business,Paris to London,Business Class,3.0,4.0,4.0,3.0,0.0,0.0,4.0,yes
+Boeing 747,United States,Business,Chicago to London Heathrow,Premium Economy,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+"Boeing 767, A319",United Kingdom,Family Leisure,London Heathrow to Rome,Economy Class,2.0,2.0,4.0,2.0,0.0,2.0,2.0,no
+A319,United Kingdom,Solo Leisure,London to Brussels,Economy Class,5.0,5.0,5.0,2.0,0.0,0.0,4.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,Dublin to Seattle via London Heathrow,Economy Class,2.0,5.0,1.0,1.0,0.0,3.0,3.0,no
+Boeing 767-300 ,United Kingdom,Business,London Heathrow to Athens,Economy Class,2.0,2.0,2.0,1.0,0.0,1.0,2.0,no
+Boeing 777,Australia,Business,Doha to London Heathrow,Business Class,1.0,1.0,3.0,1.0,0.0,4.0,2.0,no
+A319,United Kingdom,Solo Leisure,LBA to LHR,Economy Class,3.0,2.0,4.0,1.0,0.0,0.0,3.0,no
+A380,Spain,Business,Los Angeles to London,Economy Class,2.0,1.0,2.0,1.0,0.0,1.0,1.0,no
+Boeing 777,United States,Couple Leisure,TPA to ATH via LGW,Economy Class,4.0,5.0,5.0,4.0,0.0,3.0,5.0,yes
+A380,China,Solo Leisure,Hong Kong to London,Business Class,4.0,4.0,4.0,3.0,0.0,3.0,5.0,yes
+A320,United Kingdom,Business,LHR to IST,Business Class,0.0,0.0,1.0,0.0,0.0,0.0,1.0,no
+A320,United Kingdom,Solo Leisure,Gatwick to Salzburg,Business Class,4.0,4.0,5.0,4.0,0.0,0.0,5.0,yes
+Boeing 777-200ER,United Kingdom,Couple Leisure,Gatwick to Barbados,Economy Class,2.0,3.0,3.0,1.0,1.0,1.0,2.0,no
+A320,France,Business,Bordeaux to London Gatwick,Economy Class,2.0,3.0,5.0,2.0,0.0,0.0,5.0,yes
+A380,United Kingdom,Couple Leisure,LHR to SFO,Business Class,5.0,5.0,1.0,5.0,0.0,4.0,4.0,yes
+A320,Denmark,Solo Leisure,London Heathrow to Copenhagen,Economy Class,3.0,4.0,4.0,0.0,0.0,0.0,3.0,no
+A380,Poland,Solo Leisure,LHR to IAD,Economy Class,3.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 777,United Kingdom,Solo Leisure,LHR to HKG,Business Class,1.0,2.0,1.0,2.0,0.0,2.0,2.0,no
+Boeing 777,United Kingdom,Couple Leisure,London Gatwick to Mauritius,Economy Class,4.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Solo Leisure,London Gatwick to Barcelona,Business Class,1.0,1.0,1.0,1.0,0.0,0.0,1.0,no
+A320,United Kingdom,Solo Leisure,SOF to LHR,Economy Class,1.0,1.0,2.0,1.0,0.0,0.0,1.0,no
+A380 / Boeing 777,United States,Solo Leisure,IAD to BCN via LHR,Premium Economy,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+Boeing 747,Canada,Solo Leisure,YVR to LHR,Economy Class,3.0,5.0,5.0,5.0,0.0,3.0,4.0,yes
+A320,United States,Business,LHR to MXP,Economy Class,1.0,1.0,2.0,1.0,1.0,1.0,3.0,no
+A380,United Kingdom,Couple Leisure,London to Johannesburg,Economy Class,4.0,2.0,2.0,1.0,0.0,3.0,2.0,no
+A320,Switzerland,Business,London to Zurich,Economy Class,2.0,1.0,2.0,1.0,0.0,0.0,1.0,no
+A321,United Kingdom,Business,MAD to LHR,Economy Class,2.0,3.0,3.0,1.0,1.0,1.0,1.0,no
+Boeing 777,United Kingdom,Solo Leisure,LHR to PHL,First Class,5.0,4.0,4.0,4.0,0.0,4.0,5.0,yes
+A320,United Kingdom,Business,MLA to LGW,Business Class,2.0,3.0,3.0,0.0,0.0,0.0,2.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,LHR to CPT,First Class,3.0,5.0,3.0,4.0,0.0,2.0,3.0,no
+A320 / Boeing 787,Germany,Business,DUS to PHL via LHR,Premium Economy,5.0,3.0,3.0,5.0,0.0,5.0,4.0,no
+Boeing 747 / A380,United Kingdom,Solo Leisure,SFO to JNB via LHR,Business Class,4.0,3.0,4.0,3.0,0.0,3.0,3.0,yes
+A320,United Kingdom,Couple Leisure,London to Manchester,Economy Class,5.0,5.0,5.0,3.0,0.0,1.0,3.0,yes
+Boeing 787,United States,Couple Leisure,Lisbon to San Jose via London,Business Class,3.0,4.0,3.0,4.0,0.0,3.0,4.0,yes
+Boeing 747-400,United Kingdom,Business,LHR to PHX,Premium Economy,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,Gatwick to Tampa,Business Class,3.0,3.0,1.0,2.0,0.0,2.0,1.0,no
+Boeing 747,United Kingdom,Solo Leisure,Miami to London,Economy Class,2.0,1.0,2.0,1.0,1.0,1.0,1.0,no
+Boeing 747,United Kingdom,Business,LHR to DXB,Economy Class,2.0,2.0,1.0,1.0,0.0,2.0,2.0,no
+Boeing 777,France,Couple Leisure,BKK to CDG via LHR,Business Class,2.0,5.0,1.0,1.0,1.0,1.0,1.0,no
+A320,Japan,Solo Leisure,GLA to LGW,Economy Class,1.0,4.0,4.0,1.0,0.0,0.0,2.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,LHR to CPT,Business Class,3.0,3.0,4.0,3.0,0.0,3.0,3.0,no
+Boeing 787-9,United Kingdom,Solo Leisure,LHR to KUL,First Class,3.0,1.0,3.0,1.0,0.0,3.0,1.0,no
+A320,United Kingdom,Solo Leisure,LED to LHR,Economy Class,3.0,4.0,4.0,1.0,0.0,1.0,2.0,no
+Boeing 777,United Kingdom,Couple Leisure,LGW to BGI,Business Class,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 747-400,United States,Solo Leisure,LAS to LHR,Business Class,3.0,5.0,4.0,5.0,0.0,2.0,3.0,yes
+A320,United Kingdom,Couple Leisure,FUE to LGW,Economy Class,2.0,3.0,4.0,1.0,0.0,0.0,3.0,no
+Boeing 777,United Kingdom,Solo Leisure,IAH to LHR,Business Class,4.0,2.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,LGW to CUN,Business Class,3.0,3.0,3.0,1.0,0.0,1.0,2.0,no
+Boeing 777,Switzerland,Solo Leisure,LHR to HKG,Business Class,3.0,2.0,1.0,2.0,0.0,4.0,1.0,no
+A321,United Kingdom,Solo Leisure,LHR to AMM,Business Class,5.0,5.0,3.0,3.0,0.0,3.0,4.0,yes
+A320 / Boeing 767,United Kingdom,Family Leisure,LHR to FCO,Economy Class,4.0,5.0,5.0,4.0,0.0,0.0,4.0,yes
+Boeing 787,United Kingdom,Couple Leisure,KUL to LHR,Economy Class,1.0,3.0,4.0,2.0,1.0,1.0,2.0,no
+A320,Greece,Couple Leisure,ATH to LHR,Economy Class,4.0,5.0,5.0,3.0,0.0,0.0,4.0,yes
+Boeing 747,United Kingdom,Family Leisure,MIA to LHR,Business Class,1.0,4.0,4.0,3.0,0.0,3.0,1.0,no
+Boeing 777,Australia,Couple Leisure,SYD to LHR,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 777,Hong Kong,Couple Leisure,LHR to HKG,Business Class,1.0,4.0,3.0,4.0,0.0,2.0,1.0,no
+Boeing 787-9,Canada,Solo Leisure,YYZ to LHR,Business Class,3.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,LHR to LIM,Economy Class,3.0,3.0,3.0,3.0,0.0,3.0,3.0,yes
+Boeing 747-400,Sweden,Solo Leisure,ARN to DEN via LHR,Economy Class,3.0,4.0,1.0,2.0,0.0,1.0,2.0,no
+Boeing 747,United Kingdom,Solo Leisure,CUN to LGW,Economy Class,3.0,4.0,4.0,2.0,0.0,3.0,2.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,MAN to SAN via LHR,First Class,4.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 777-200ER,United Kingdom,Family Leisure,LGW to TPA,Economy Class,3.0,4.0,5.0,4.0,1.0,3.0,3.0,yes
+A380,United Kingdom,Solo Leisure,LAX to LHR,Premium Economy,5.0,4.0,5.0,4.0,0.0,5.0,5.0,yes
+Boeing 747-400,Luxembourg,Couple Leisure,FRA to CPT via LHR,Business Class,4.0,5.0,4.0,2.0,0.0,3.0,4.0,yes
+Boeing 787,United States,Couple Leisure,BWI to LHR,Economy Class,2.0,3.0,1.0,2.0,0.0,3.0,1.0,no
+Boeing 787,United Kingdom,Couple Leisure,BKK to LHR,Premium Economy,4.0,4.0,4.0,2.0,0.0,5.0,3.0,no
+A320,United Kingdom,Business,LHR to CPH,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,LGW to ANU,Economy Class,3.0,3.0,1.0,1.0,1.0,2.0,2.0,no
+Boeing 747-400,United Kingdom,Solo Leisure,LHR to CPT,Economy Class,4.0,5.0,3.0,4.0,0.0,5.0,5.0,yes
+Boeing 777,Thailand,Couple Leisure,BKK to MAN via LHR,Premium Economy,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,UVF to LGW,First Class,1.0,3.0,4.0,2.0,0.0,1.0,1.0,no
+A320,United Kingdom,Solo Leisure,Heathrow to Manchester,Economy Class,3.0,1.0,3.0,1.0,0.0,0.0,1.0,no
+A320 / Boeing 767,United Kingdom,Business,LHR to EDI,Economy Class,4.0,3.0,4.0,1.0,0.0,0.0,3.0,yes
+Boeing 777,United Kingdom,Solo Leisure,LHR to EZE,Economy Class,1.0,2.0,2.0,2.0,0.0,1.0,2.0,no
+A380,Singapore,Solo Leisure,HKG to LHR,Economy Class,1.0,3.0,3.0,3.0,0.0,1.0,4.0,yes
+Boeing 777,United States,Family Leisure,LHR to PHL,Premium Economy,1.0,1.0,1.0,2.0,1.0,2.0,1.0,no
+Boeing 747,United States,Business,DFW to BOM via LHR,Business Class,3.0,2.0,3.0,2.0,0.0,2.0,3.0,no
+Boeing 787-900,United States,Solo Leisure,LHR to AUS,Business Class,2.0,4.0,4.0,3.0,0.0,3.0,2.0,yes
+A380,China,Business,LHR to HKG,Business Class,4.0,4.0,4.0,4.0,0.0,3.0,5.0,yes
+A380 and Boeing 777,United States,Solo Leisure,IAD to LHR,Premium Economy,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+Boeing 787,United Kingdom,Business,CTU to LHR,Business Class,2.0,3.0,2.0,1.0,1.0,2.0,1.0,no
+Boeing 777,United States,Solo Leisure,LHR to SEA,Premium Economy,3.0,2.0,4.0,2.0,0.0,3.0,3.0,yes
+Boeing 777,United States,Solo Leisure,SEA to LHR,Business Class,4.0,3.0,2.0,3.0,0.0,4.0,2.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,LGW to UVF,First Class,3.0,2.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 777-300 / A380,Australia,Business,SYD to LHR via SIN,Economy Class,3.0,2.0,4.0,2.0,0.0,3.0,4.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,LHR to CPT,Economy Class,1.0,1.0,4.0,1.0,2.0,2.0,1.0,no
+Boeing 787,United Kingdom,Couple Leisure,LHR to YYC,Premium Economy,5.0,5.0,5.0,3.0,4.0,4.0,4.0,yes
+A320,United Kingdom,Business,LHR to LIS,Business Class,1.0,2.0,1.0,1.0,0.0,1.0,1.0,no
+A380 800,United Kingdom,Couple Leisure,LHR to HKG,Economy Class,1.0,2.0,3.0,1.0,3.0,4.0,2.0,no
+Boeing 777,United Kingdom,Family Leisure,LHR to BKK,Economy Class,2.0,2.0,4.0,2.0,1.0,1.0,2.0,no
+A321,United Kingdom,Couple Leisure,LHR to MAD,Business Class,4.0,4.0,4.0,4.0,0.0,0.0,3.0,yes
+Boeing 777,Australia,Couple Leisure,SIN to  SYD,Business Class,2.0,1.0,1.0,2.0,0.0,2.0,1.0,no
+A321,United Kingdom,Business,LHR to ZRH,Business Class,1.0,2.0,3.0,1.0,1.0,1.0,1.0,no
+A380,United Kingdom,Family Leisure,LHR to HKG,Economy Class,1.0,2.0,3.0,0.0,0.0,0.0,2.0,no
+A380,United Kingdom,Business,SIN to LHR,First Class,5.0,5.0,3.0,5.0,0.0,4.0,4.0,yes
+Boeing 777-200ER,Malaysia,Solo Leisure,JFK to LHR,Economy Class,4.0,4.0,4.0,4.0,0.0,3.0,4.0,yes
+Boeing 777,United Kingdom,Business,LHR to YYZ,First Class,5.0,5.0,5.0,4.0,0.0,4.0,5.0,yes
+Boeing 787-800,United Kingdom,Couple Leisure,MAA to LHR,Business Class,5.0,5.0,3.0,5.0,3.0,3.0,3.0,no
+A380,Singapore,Business,SIN to LHR,Premium Economy,5.0,5.0,5.0,5.0,5.0,4.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,TLV to LHR,Economy Class,3.0,5.0,3.0,5.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Solo Leisure,RAK to LGW,Business Class,4.0,5.0,2.0,3.0,0.0,0.0,3.0,yes
+Boeing 747-400,United States,Solo Leisure,LHR to SFO,First Class,3.0,3.0,2.0,3.0,0.0,3.0,3.0,no
+Boeing 777-200,United Kingdom,Family Leisure,LHR to YYZ,Economy Class,3.0,4.0,5.0,3.0,0.0,3.0,4.0,yes
+Boeing 747-400,Germany,Business,DUS to BOS via LHR,Business Class,3.0,5.0,3.0,2.0,0.0,5.0,2.0,no
+A380,United Kingdom,Business,LHR to SIN,First Class,5.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+A320,United Kingdom,Business,LHR to BHD,Economy Class,4.0,5.0,5.0,4.0,0.0,0.0,3.0,yes
+Boeing 737,United Kingdom,Solo Leisure,LHR to KBP,Economy Class,3.0,4.0,4.0,3.0,2.0,2.0,4.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,LHR to LAS,First Class,5.0,5.0,4.0,5.0,0.0,2.0,4.0,yes
+Various,Thailand,Business,BKK to LHR via LAD & ABV,Economy Class,1.0,1.0,2.0,2.0,0.0,1.0,1.0,no
+A321,United Kingdom,Business,LHR to DME,Economy Class,3.0,2.0,4.0,1.0,0.0,4.0,4.0,yes
+Boeing 777,United Kingdom,Business,LGW to BGI,Economy Class,2.0,1.0,4.0,1.0,0.0,2.0,1.0,no
+A380,United Kingdom,Couple Leisure,JNB to LHR,First Class,5.0,3.0,2.0,1.0,0.0,3.0,1.0,no
+A380,United Kingdom,Couple Leisure,MIA to LHR,Premium Economy,5.0,4.0,3.0,4.0,0.0,5.0,4.0,yes
+Boeing 787-900,United Kingdom,Couple Leisure,LHR to BWI,Premium Economy,5.0,5.0,5.0,4.0,0.0,5.0,5.0,yes
+A320,United Kingdom,Solo Leisure,SOF to LHR,Economy Class,1.0,2.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 787-800 / 777-200,Canada,Couple Leisure,YYZ to LHR,First Class,4.0,4.0,1.0,1.0,0.0,4.0,2.0,no
+A380,United States,Couple Leisure,LHR to IAD,First Class,5.0,5.0,5.0,4.0,0.0,4.0,4.0,yes
+Boeing 747-400,United States,Couple Leisure,DFW to LHR,First Class,5.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+A320,Portugal,Business,LHR to LIS,Economy Class,5.0,2.0,1.0,1.0,0.0,0.0,2.0,no
+A380-800,United Kingdom,Family Leisure,LHR to MIA,Economy Class,3.0,3.0,2.0,1.0,0.0,1.0,2.0,no
+A320,Portugal,Business,LIS to LHR,Economy Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+Boeing 787,United Kingdom,Family Leisure,LHR to DXB,First Class,3.0,4.0,2.0,2.0,0.0,3.0,2.0,no
+Boeing 777,United Kingdom,Couple Leisure,DXB to LHR,First Class,3.0,4.0,2.0,1.0,0.0,3.0,2.0,no
+A320,United Kingdom,Solo Leisure,LGW to ALC,Business Class,2.0,2.0,3.0,3.0,0.0,0.0,3.0,yes
+Boeing 777-200,United Kingdom,Solo Leisure,LHR to BKK,Premium Economy,2.0,2.0,2.0,1.0,1.0,1.0,2.0,no
+Boeing 777,United Kingdom,Couple Leisure,LGW to BGI,Premium Economy,1.0,1.0,1.0,1.0,0.0,3.0,1.0,no
+Boeing 747-400 / A380,South Africa,Solo Leisure,JNB to CLT via LHR,Economy Class,1.0,1.0,1.0,3.0,0.0,2.0,3.0,no
+A380,United Kingdom,Couple Leisure,LHR to LAX,First Class,5.0,5.0,4.0,5.0,0.0,5.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,MRU to LGW,Premium Economy,2.0,1.0,3.0,1.0,0.0,1.0,1.0,no
+A320,Greece,Solo Leisure,ATH to LHR,Economy Class,3.0,5.0,5.0,1.0,0.0,0.0,1.0,no
+Boeing 787-9,United Kingdom,Couple Leisure,LHR to KUL,First Class,3.0,4.0,4.0,3.0,0.0,3.0,3.0,yes
+Boeing 767-300,Cyprus,Business,LCA to LHR,Economy Class,2.0,2.0,2.0,1.0,0.0,1.0,1.0,no
+Boeing 777-200,United Kingdom,Family Leisure,LGW to MCO,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 777,United Kingdom,Solo Leisure,LHR to BKK,Economy Class,3.0,4.0,3.0,1.0,0.0,3.0,3.0,yes
+A319,United Kingdom,Business,LHR to GVA,Business Class,2.0,5.0,4.0,1.0,0.0,0.0,2.0,no
+A380-800,United Kingdom,Couple Leisure,LHR to LAX,Economy Class,4.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,UVF  to LGW,Premium Economy,2.0,2.0,5.0,1.0,0.0,2.0,1.0,no
+A319,United Kingdom,Family Leisure,LGW to VLC,Economy Class,3.0,4.0,4.0,3.0,0.0,0.0,4.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,LHR to JFK,Economy Class,2.0,3.0,1.0,2.0,0.0,3.0,3.0,no
+A320,United Kingdom,Business,LHR to OTP,Business Class,2.0,4.0,2.0,1.0,0.0,0.0,1.0,no
+Boeing 787,United Kingdom,Solo Leisure,ICN to LHR,Economy Class,4.0,5.0,4.0,5.0,0.0,5.0,4.0,yes
+A380 and Boeing 737-800,United Kingdom,Solo Leisure,LHR to CPT via JNB,Economy Class,4.0,5.0,3.0,4.0,0.0,4.0,5.0,yes
+A380,United Kingdom,Couple Leisure,HKG to LHR,Business Class,3.0,3.0,3.0,2.0,0.0,1.0,2.0,no
+Boeing 747-400,United States,Solo Leisure,LHR to ORD,Business Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 747-400,Canada,Solo Leisure,YVR to LHR,Economy Class,3.0,2.0,2.0,1.0,0.0,2.0,2.0,no
+A380,United Kingdom,Couple Leisure,LHR to MIA,Premium Economy,4.0,5.0,5.0,4.0,0.0,1.0,4.0,yes
+"Boeing 747-400,  A320, A319",Kuwait,Solo Leisure,KWI to EDI via LHR,Economy Class,5.0,5.0,5.0,4.0,0.0,5.0,5.0,yes
+A319,Belgium,Business,LHR to BRU,Business Class,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+A320,Netherlands,Business,MLA to LGW,Business Class,3.0,5.0,1.0,3.0,0.0,0.0,3.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,BKK to LHR,Business Class,3.0,3.0,3.0,2.0,0.0,3.0,3.0,no
+A319,United Kingdom,Family Leisure,LGW to Pisa,Business Class,1.0,4.0,1.0,2.0,0.0,0.0,1.0,no
+Boeing 747 400,United Kingdom,Couple Leisure,LHR to LAX,Business Class,5.0,3.0,5.0,4.0,0.0,2.0,4.0,yes
+Boeing 777-300,United Kingdom,Business,HND to LHR,Premium Economy,2.0,2.0,3.0,1.0,0.0,3.0,2.0,no
+Boeing 747,United Kingdom,Solo Leisure,LHR to BOS,First Class,4.0,4.0,4.0,3.0,3.0,4.0,4.0,yes
+A380,United Kingdom,Couple Leisure,SFO to MAN via LHR,Economy Class,2.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,LHR to SFO,Economy Class,1.0,1.0,2.0,2.0,0.0,1.0,1.0,no
+A380,United Kingdom,Business,LHR to SIN,First Class,4.0,4.0,1.0,3.0,0.0,3.0,1.0,no
+"Boeing 747, A380",South Africa,Business,JNB to ATH via LHR,First Class,3.0,4.0,4.0,2.0,0.0,3.0,1.0,no
+A320,United Kingdom,Couple Leisure,LGW to MLA,Business Class,1.0,1.0,1.0,3.0,0.0,0.0,1.0,no
+A319,United Kingdom,Family Leisure,LGW to NCE,Economy Class,3.0,3.0,3.0,2.0,0.0,0.0,3.0,no
+Boeing 787-9,Ireland,Solo Leisure,LHR to KUL,First Class,4.0,1.0,2.0,1.0,0.0,1.0,2.0,no
+A321-200,United Kingdom,Solo Leisure,PMI to LHR,Economy Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+Boeing 787,Ireland,Couple Leisure,LHR to ICN,Economy Class,1.0,4.0,3.0,4.0,4.0,5.0,3.0,no
+Boeing 777 / A320,Czech Republic,Couple Leisure,SEA to PRG via LHR,Economy Class,3.0,1.0,1.0,1.0,0.0,3.0,2.0,no
+A380,Australia,Family Leisure,SIN to LHR,Economy Class,1.0,2.0,2.0,1.0,2.0,1.0,2.0,no
+A380,United States,Couple Leisure,IAD to NBO via LHR,First Class,2.0,4.0,2.0,4.0,0.0,3.0,3.0,no
+A320,United Kingdom,Family Leisure,AGP to LGW,Economy Class,2.0,4.0,4.0,1.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,LGW to MRU,Business Class,3.0,4.0,4.0,2.0,0.0,0.0,2.0,no
+Boeing 787-8 / A320,Canada,Couple Leisure,YYC to FCO via LHR,Business Class,2.0,5.0,1.0,5.0,0.0,3.0,1.0,no
+Boeing 747-400,United Kingdom,Solo Leisure,LHR to DEN,Economy Class,3.0,2.0,3.0,1.0,0.0,1.0,3.0,yes
+Boeing 777,United Arab Emirates,Business,DXB to DUB via LHR,First Class,4.0,4.0,1.0,2.0,1.0,2.0,1.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,LAS to LHR,Economy Class,2.0,2.0,4.0,2.0,1.0,1.0,1.0,no
+Boeing 747,Portugal,Solo Leisure,BOS to LHR,Economy Class,4.0,5.0,2.0,4.0,0.0,4.0,4.0,yes
+A320,Portugal,Solo Leisure,LHR to LIS,Economy Class,5.0,5.0,4.0,4.0,0.0,0.0,5.0,yes
+Boeing 777 / 747,Canada,Business,YYZ to LIS via LHR,Premium Economy,3.0,4.0,4.0,1.0,0.0,1.0,3.0,no
+Boeing 777,United States,Couple Leisure,LHR to ATL,Premium Economy,3.0,2.0,2.0,3.0,0.0,3.0,3.0,no
+Boeing 777,United States,Couple Leisure,BOS to LHR,Economy Class,3.0,4.0,1.0,2.0,0.0,5.0,4.0,yes
+A380,United Kingdom,Couple Leisure,JNB to LHR,Business Class,1.0,2.0,3.0,1.0,1.0,1.0,2.0,no
+A319,United Kingdom,Couple Leisure,LHR to BGO,Economy Class,3.0,4.0,3.0,3.0,0.0,0.0,3.0,yes
+Boeing 777,United Kingdom,Couple Leisure,LGW to MRU,Economy Class,3.0,1.0,3.0,1.0,0.0,2.0,2.0,no
+Boeing 767,United Kingdom,Family Leisure,LCA to LHR,Economy Class,3.0,3.0,2.0,3.0,0.0,1.0,2.0,no
+A380,Australia,Couple Leisure,SIN to LHR,First Class,4.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+Boeing 777,United Kingdom,Family Leisure,SJO to LGW,Economy Class,1.0,3.0,3.0,1.0,1.0,1.0,3.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,LHR to BKK,Business Class,3.0,3.0,5.0,2.0,0.0,3.0,3.0,no
+Boeing 777,Australia,Couple Leisure,MEL to SIN via SYD,First Class,3.0,4.0,5.0,4.0,0.0,4.0,4.0,yes
+Boeing 767,United Kingdom,Couple Leisure,LHR to AMS,Business Class,3.0,4.0,5.0,3.0,0.0,0.0,4.0,yes
+Boeing 787,United States,Solo Leisure,SJC to LHR,Premium Economy,4.0,3.0,1.0,3.0,0.0,4.0,4.0,yes
+A319,United Kingdom,Solo Leisure,LGW to OPO,Economy Class,4.0,4.0,3.0,2.0,0.0,0.0,4.0,yes
+Boeing 747-400 / 777,New Zealand,Solo Leisure,BAH to BOS via LHR,Business Class,2.0,2.0,3.0,3.0,0.0,2.0,3.0,no
+Boeing 777,Argentina,Solo Leisure,LGW to JFK,Business Class,2.0,5.0,3.0,4.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Couple Leisure,LHR to KGS,Economy Class,3.0,5.0,4.0,3.0,0.0,0.0,4.0,yes
+A380,Germany,Couple Leisure,LHR to JNB,Economy Class,4.0,5.0,4.0,3.0,0.0,4.0,5.0,yes
+Boeing 777-300,United States,Business,ATL to GVA via LHR,Premium Economy,2.0,5.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 777-300,Ireland,Couple Leisure,ATL to LHR,Economy Class,1.0,2.0,1.0,1.0,0.0,4.0,1.0,no
+Boeing 787,United Arab Emirates,Business,AUH to LHR,Premium Economy,4.0,4.0,3.0,4.0,0.0,4.0,4.0,yes
+Boeing 777-200,United Kingdom,Family Leisure,London to JFK,Premium Economy,2.0,2.0,3.0,1.0,0.0,1.0,2.0,no
+A380,United Kingdom,Business,LHR to JNB,Economy Class,3.0,2.0,3.0,3.0,0.0,2.0,2.0,yes
+Boeing 787,United Arab Emirates,Family Leisure,AUH to LHR,Economy Class,2.0,1.0,1.0,2.0,0.0,3.0,3.0,no
+A319,United Kingdom,Family Leisure,LGW to AGP,Economy Class,2.0,5.0,2.0,1.0,0.0,0.0,3.0,no
+Boeing 747,United States,Family Leisure,LHR to SEA,Economy Class,3.0,4.0,1.0,1.0,0.0,4.0,2.0,no
+Boeing 767,Australia,Solo Leisure,LHR to ATH,Business Class,1.0,1.0,3.0,1.0,0.0,3.0,1.0,no
+Boeing 767,United Kingdom,Business,LHR to IST,Business Class,4.0,5.0,4.0,4.0,0.0,2.0,4.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,MIA to LHR,First Class,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+A320,United Kingdom,Couple Leisure,LHR to KRK,Business Class,1.0,2.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 747,United Kingdom,Business,LHR to DEN,Economy Class,1.0,3.0,4.0,4.0,0.0,1.0,2.0,no
+Boeing 747-400,United Kingdom,Solo Leisure,LHR to CPT,Economy Class,3.0,4.0,5.0,4.0,0.0,2.0,4.0,yes
+A380,United Kingdom,Couple Leisure,LHR to JNB,Economy Class,1.0,1.0,2.0,1.0,0.0,2.0,1.0,no
+A320,United Kingdom,Family Leisure,LHR to LCA,Economy Class,3.0,4.0,3.0,1.0,0.0,1.0,3.0,yes
+A320,United Kingdom,Couple Leisure,DBV to LGW,Business Class,3.0,3.0,2.0,1.0,0.0,0.0,2.0,no
+Boeing 777,United Kingdom,Business,ATL to LHR,First Class,3.0,4.0,1.0,2.0,0.0,2.0,1.0,no
+A319,United Kingdom,Couple Leisure,LHR to DUB,Economy Class,4.0,4.0,4.0,2.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Couple Leisure,LGW to DBV,Business Class,3.0,5.0,3.0,3.0,0.0,0.0,3.0,yes
+A380-800,Switzerland,Solo Leisure,LHR to HKG,Business Class,4.0,4.0,1.0,3.0,0.0,4.0,3.0,no
+A319,Switzerland,Solo Leisure,AMS to LHR,Business Class,3.0,5.0,3.0,4.0,0.0,0.0,3.0,yes
+A320,Germany,Business,LHR to TXL,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+A320,Austria,Solo Leisure,VIE to OPO via LGW,Economy Class,4.0,4.0,2.0,4.0,0.0,0.0,3.0,yes
+E-170,United Kingdom,Family Leisure,LCY to GVA,Economy Class,4.0,3.0,3.0,3.0,0.0,2.0,2.0,no
+A319,United Kingdom,Family Leisure,LHR to MUC,Economy Class,4.0,4.0,4.0,3.0,0.0,0.0,3.0,yes
+A320,United Kingdom,Family Leisure,LGW to MLA,Business Class,3.0,5.0,5.0,2.0,0.0,0.0,1.0,no
+Boeing 767,Cyprus,Family Leisure,LHR to LCA,Business Class,1.0,5.0,3.0,5.0,0.0,1.0,2.0,no
+Boeing 787-900,Germany,Business,LHR to PVG,Economy Class,2.0,5.0,5.0,4.0,0.0,3.0,5.0,yes
+A380,Singapore,Family Leisure,PRG to SIN via LHR,Economy Class,3.0,1.0,1.0,1.0,0.0,1.0,3.0,no
+A320,United Kingdom,Business,LHR to GLA,Economy Class,5.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+Boeing 747-400,United Kingdom,Family Leisure,PHX to LHR,Business Class,1.0,2.0,2.0,2.0,1.0,1.0,1.0,no
+A320,United Kingdom,Solo Leisure,LIS to LHR,Economy Class,5.0,5.0,2.0,2.0,0.0,0.0,2.0,yes
+A320,United Kingdom,Family Leisure,LGW to RAK,Economy Class,4.0,3.0,3.0,2.0,0.0,0.0,3.0,no
+Boeing 767,Australia,Solo Leisure,BCN to LHR,Economy Class,3.0,4.0,4.0,3.0,0.0,1.0,3.0,yes
+Boeing 747-400,United Kingdom,Family Leisure,"LHR to BOS, SEA to LHR",First Class,5.0,2.0,5.0,1.0,1.0,3.0,1.0,no
+A320,Germany,Business,TXL to LHR,Economy Class,1.0,2.0,2.0,1.0,0.0,1.0,1.0,no
+A320,United Kingdom,Solo Leisure,WAW to LHR,Economy Class,3.0,4.0,2.0,1.0,0.0,1.0,2.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,MAN to JFK via LHR,Economy Class,2.0,2.0,1.0,3.0,2.0,4.0,3.0,no
+787,Canada,Family Leisure,LHR to YYC,Premium Economy,5.0,2.0,1.0,3.0,2.0,5.0,1.0,no
+A320,New Zealand,Family Leisure,MLA to LHR ,First Class,2.0,2.0,3.0,1.0,0.0,1.0,3.0,no
+A320,United Kingdom,Solo Leisure,LHR to DUB,Economy Class,3.0,2.0,1.0,2.0,0.0,0.0,2.0,no
+A380,United Kingdom,Business,LHR to YVR,Economy Class,3.0,5.0,3.0,5.0,0.0,5.0,3.0,yes
+A380,United States,Couple Leisure,LHR to IAD ,Business Class,1.0,3.0,3.0,3.0,0.0,4.0,3.0,no
+A321,Switzerland,Solo Leisure,ZRH to LHR,Economy Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+Boeing 777-200,Germany,Solo Leisure,BOS to SXF via LHR,Economy Class,3.0,4.0,4.0,3.0,0.0,5.0,3.0,yes
+Boeing 777-236 ER,United Kingdom,Couple Leisure,LGW to TPA,Business Class,5.0,5.0,3.0,5.0,0.0,3.0,4.0,yes
+A319,United Kingdom,Business,FRA to LHR,Business Class,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 747,Mexico,Solo Leisure,MEX to AMS via LHR,Premium Economy,3.0,3.0,1.0,3.0,1.0,1.0,1.0,no
+Boeing 777-300ER,Singapore,Solo Leisure,SIN to SYD,Economy Class,4.0,4.0,4.0,4.0,0.0,4.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,LHR to NAS,Business Class,4.0,5.0,4.0,3.0,0.0,0.0,3.0,yes
+A380,United Kingdom,Family Leisure,MIA to LHR,Business Class,4.0,3.0,3.0,3.0,0.0,3.0,3.0,yes
+Boeing 777,Qatar,Business,DOH to CDG via BAH / LHR,Premium Economy,4.0,4.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 747-400,Brazil,Solo Leisure,GRU to LHR,First Class,3.0,5.0,4.0,1.0,0.0,2.0,2.0,yes
+Boeing 787,United Kingdom,Couple Leisure,GLA to KUL via LHR,Business Class,4.0,5.0,3.0,3.0,0.0,3.0,3.0,yes
+A380,United Kingdom,Family Leisure,LHR to MIA,Business Class,5.0,3.0,3.0,4.0,0.0,4.0,4.0,yes
+A320 / Boeing 787,Australia,Business,ATH to KUL via LHR,Business Class,4.0,4.0,4.0,4.0,4.0,4.0,4.0,yes
+Boeing 767-300,Germany,Business,FRA to LHR,Economy Class,3.0,3.0,4.0,3.0,0.0,0.0,4.0,yes
+A319,United Kingdom,Couple Leisure,LBA to LHR,Economy Class,5.0,5.0,5.0,5.0,2.0,4.0,5.0,yes
+Boeing 777-200,United Kingdom,Business,BLR to LHR,Economy Class,4.0,3.0,1.0,3.0,1.0,2.0,3.0,no
+A321,United Kingdom,Family Leisure,GLA to LIS via LHR,Business Class,1.0,2.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 777,United States,Couple Leisure,LHR to DFW,First Class,3.0,1.0,5.0,2.0,0.0,0.0,2.0,no
+Boeing 777-200,United Kingdom,Solo Leisure,LHR to JFK,First Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,JFK to LHR,Business Class,5.0,5.0,5.0,4.0,0.0,5.0,5.0,yes
+Boeing 787,United Kingdom,Couple Leisure,LHR to YYC,Business Class,4.0,5.0,4.0,3.0,0.0,5.0,3.0,yes
+Boeing 777,United Kingdom,Business,LHR to BOS,First Class,4.0,4.0,1.0,4.0,2.0,3.0,2.0,no
+A320,United Kingdom,Business,LHR to GVA,Business Class,1.0,2.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 777-200,Netherlands,Couple Leisure,AMS to BKK via LHR,Business Class,3.0,2.0,1.0,1.0,0.0,3.0,1.0,no
+A320,United Kingdom,Solo Leisure,GVA to LHR,Business Class,1.0,4.0,3.0,2.0,0.0,0.0,1.0,no
+Boeing 747-400,United States,Business,LHR to JFK,Economy Class,1.0,1.0,1.0,1.0,2.0,1.0,1.0,no
+Boeing 777 and Boeing 787,United Kingdom,Solo Leisure,LHR to BKK via KUL,Business Class,5.0,5.0,5.0,3.0,0.0,5.0,1.0,no
+Boeing 787,United Kingdom,Business,KUL to LHR,Business Class,5.0,5.0,5.0,5.0,5.0,5.0,1.0,no
+A380,Switzerland,Business,JNB to LHR,Business Class,1.0,1.0,1.0,2.0,0.0,2.0,1.0,no
+A320,United Kingdom,Business,ZRH to LHR,Business Class,1.0,5.0,2.0,1.0,1.0,1.0,3.0,no
+Boeing 777,United Kingdom,Couple Leisure,LGW to UVF,First Class,4.0,5.0,4.0,4.0,0.0,5.0,4.0,yes
+Boeing 747,Netherlands,Business,BWI to AMS via LHR,Economy Class,4.0,2.0,1.0,1.0,0.0,0.0,1.0,no
+A320,United Kingdom,Couple Leisure,LGW to SVQ,Business Class,3.0,5.0,3.0,4.0,0.0,0.0,3.0,yes
+A380,United Kingdom,Couple Leisure,LHR to YVR,Business Class,4.0,5.0,3.0,4.0,0.0,4.0,4.0,yes
+A380,United States,Couple Leisure,LAX to FCO via LHR,Economy Class,1.0,2.0,2.0,2.0,0.0,4.0,1.0,no
+A380 and Boeing 767,United Kingdom,Couple Leisure,JNB to EDI via LHR,First Class,4.0,5.0,1.0,4.0,0.0,3.0,1.0,no
+Boeing 777,United Kingdom,Solo Leisure,LHR to BKK,Economy Class,4.0,1.0,2.0,4.0,3.0,3.0,3.0,no
+Boeing 787,United Kingdom,Couple Leisure,LHR to EWR,Premium Economy,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+A319,United Kingdom,Couple Leisure,LGW to OPO,Economy Class,4.0,4.0,5.0,3.0,0.0,0.0,4.0,yes
+Boeing 767,United Kingdom,Couple Leisure,ATH to LHR,Business Class,1.0,4.0,1.0,2.0,0.0,0.0,2.0,no
+Boeing 777-200ER,United Kingdom,Solo Leisure,JFK to LGW,Economy Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+A320,United Kingdom,Couple Leisure,LGW to FAO,Economy Class,1.0,1.0,1.0,1.0,0.0,0.0,3.0,no
+A320,United Kingdom,Business,LHR to ATH,Business Class,0.0,0.0,1.0,0.0,0.0,0.0,1.0,no
+A320/A319,United Kingdom,Business,LHR to EDI,Economy Class,4.0,3.0,3.0,1.0,0.0,0.0,3.0,yes
+A320,United Kingdom,Couple Leisure,LHR to DUB,Business Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+Boeing 777,United Kingdom,Solo Leisure,BGI to LGW,Business Class,4.0,5.0,5.0,4.0,0.0,4.0,4.0,yes
+Boeing 747,United Kingdom,Couple Leisure,LHR to MIA,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 777-200,United Kingdom,Solo Leisure,PHL to LHR,First Class,5.0,2.0,4.0,1.0,0.0,3.0,1.0,no
+A380,Australia,Solo Leisure,LHR to SIN,Premium Economy,4.0,3.0,4.0,2.0,0.0,4.0,3.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,LHR to BOS,Business Class,4.0,5.0,5.0,1.0,0.0,4.0,4.0,yes
+Boeing 777,Australia,Couple Leisure,SIN to SYD,Business Class,3.0,2.0,5.0,3.0,0.0,3.0,3.0,no
+A320,United Kingdom,Couple Leisure,LGW to PFO,Business Class,4.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+"A320, A380",United States,Solo Leisure,BCN to SFO via LHR,First Class,5.0,4.0,1.0,3.0,1.0,5.0,3.0,no
+Boeing 777,United Kingdom,Couple Leisure,UVF to LGW,Business Class,3.0,5.0,4.0,4.0,0.0,2.0,3.0,yes
+Boeing 777,United Kingdom,Couple Leisure,LGW to UVF,Premium Economy,4.0,3.0,1.0,3.0,0.0,2.0,3.0,no
+A319,Germany,Business,LHR to STR,Economy Class,1.0,3.0,4.0,2.0,0.0,0.0,3.0,no
+A320 / Boeing 777,United Kingdom,Solo Leisure,MAN to PHL via LHR,First Class,5.0,5.0,5.0,4.0,0.0,4.0,5.0,yes
+A320,United Kingdom,Couple Leisure,LHR to OTP,Economy Class,3.0,3.0,2.0,3.0,0.0,0.0,3.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,JFK to LHR,First Class,3.0,4.0,1.0,4.0,0.0,3.0,3.0,yes
+Boeing 747-400,United Kingdom,Family Leisure,LHR to MIA,Economy Class,2.0,2.0,2.0,2.0,1.0,1.0,3.0,no
+Boeing 747,United States,Solo Leisure,JFK to LHR,Economy Class,5.0,5.0,5.0,1.0,0.0,5.0,4.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,LHR to DXB,Economy Class,3.0,4.0,4.0,4.0,0.0,3.0,4.0,yes
+A380,Philippines,Solo Leisure,LHR to SFO,Premium Economy,5.0,4.0,3.0,4.0,0.0,5.0,5.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,LGW to PUJ,Economy Class,3.0,5.0,1.0,4.0,0.0,1.0,3.0,yes
+Boeing 777,United Kingdom,Couple Leisure,LGW to BDA,Economy Class,4.0,4.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 787,United Kingdom,Solo Leisure,LHR to YYZ,Business Class,5.0,5.0,5.0,5.0,0.0,5.0,4.0,yes
+Boeing 777-300,Thailand,Solo Leisure,BKK to LHR,Economy Class,3.0,4.0,3.0,4.0,0.0,2.0,4.0,yes
+A320,United Kingdom,Family Leisure,LHR to CDG,Business Class,4.0,5.0,2.0,4.0,0.0,0.0,3.0,yes
+A380,United States,Business,SFO to LHR,Business Class,4.0,3.0,4.0,3.0,3.0,4.0,2.0,no
+Saab 2000,United Kingdom,Solo Leisure,LCY to IOM,Economy Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+A321 / Boeing 747-400,Netherlands,Couple Leisure,AMS to GRU via LHR,Economy Class,4.0,4.0,4.0,4.0,0.0,2.0,5.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,JFK to LHR,Economy Class,4.0,4.0,5.0,3.0,0.0,2.0,3.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,LHR to JFK,Business Class,4.0,4.0,4.0,3.0,0.0,2.0,3.0,yes
+A320,United Kingdom,Couple Leisure,LGW to DBV,Economy Class,4.0,4.0,4.0,3.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Couple Leisure,LHR to WAW,Economy Class,2.0,4.0,3.0,3.0,0.0,0.0,2.0,no
+Boeing 777,United Kingdom,Couple Leisure,BGI to LGW,Business Class,4.0,4.0,4.0,4.0,0.0,2.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,LGW to BGI,Business Class,4.0,5.0,4.0,4.0,0.0,3.0,4.0,yes
+A320,United Kingdom,Solo Leisure,MXP to LHR,Economy Class,2.0,2.0,3.0,2.0,0.0,0.0,3.0,no
+A320,United Kingdom,Couple Leisure,LHR to BCN,Business Class,1.0,3.0,3.0,1.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Family Leisure,LGW to MCO,Economy Class,4.0,3.0,5.0,4.0,0.0,3.0,4.0,yes
+Boeing 777-200,Australia,Family Leisure,BKK to LHR,Premium Economy,3.0,4.0,4.0,1.0,0.0,1.0,2.0,no
+Boeing 777,United Kingdom,Solo Leisure,PVG to LHR,Economy Class,4.0,5.0,4.0,4.0,0.0,3.0,5.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,LHR to DEN,Premium Economy,4.0,4.0,4.0,3.0,0.0,2.0,4.0,yes
+A319,France,Solo Leisure,LHR to BSL,Premium Economy,2.0,3.0,3.0,1.0,0.0,0.0,3.0,no
+A320 / Boeing 777,United States,Solo Leisure,PSA to ORD via LHR,Economy Class,2.0,2.0,4.0,2.0,0.0,1.0,3.0,yes
+Boeing 787,United Kingdom,Business,LHR to Seoul,Business Class,1.0,4.0,4.0,3.0,0.0,4.0,3.0,no
+A320,United Kingdom,Couple Leisure,LHR to JTR,Business Class,1.0,3.0,1.0,3.0,0.0,0.0,1.0,no
+Boeing 787,United Kingdom,Solo Leisure,KUL to LHR,Economy Class,1.0,1.0,3.0,1.0,2.0,2.0,2.0,no
+A320,New Zealand,Solo Leisure,LGW to AMS,Economy Class,3.0,3.0,1.0,0.0,0.0,0.0,3.0,no
+Boeing 777-200,Canada,Couple Leisure,YYZ to LHR,First Class,3.0,4.0,5.0,5.0,0.0,4.0,5.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,LHR to MIA,Economy Class,3.0,2.0,2.0,3.0,0.0,3.0,4.0,no
+A319,Australia,Business,OSL to LHR,Business Class,1.0,2.0,1.0,1.0,0.0,1.0,1.0,no
+A319 / A320,United Kingdom,Business,LGW to IBZ,Business Class,4.0,4.0,4.0,5.0,0.0,0.0,3.0,yes
+Boeing 747-400,United Kingdom,Business,DXB to LHR,Economy Class,3.0,3.0,3.0,3.0,0.0,3.0,4.0,yes
+Boeing 777-200,United Kingdom,Solo Leisure,LHR to SFO,Economy Class,3.0,4.0,4.0,4.0,0.0,3.0,4.0,yes
+Boeing 747-400 / A320,Belgium,Family Leisure,ORD to AMS via LHR,Business Class,5.0,5.0,4.0,5.0,0.0,5.0,5.0,yes
+Boeing 747,United Kingdom,Family Leisure,MAN to DXB via LHR,Economy Class,1.0,2.0,2.0,1.0,0.0,1.0,2.0,no
+Boeing 787,United Kingdom,Couple Leisure,LHR to YYC,Premium Economy,5.0,4.0,5.0,5.0,1.0,4.0,4.0,yes
+Boeing 747,United Kingdom,Couple Leisure,LHR to YYZ,First Class,4.0,5.0,5.0,5.0,0.0,3.0,5.0,yes
+A380,Belgium,Business,AMS to HKG via LHR,Economy Class,1.0,2.0,3.0,1.0,1.0,3.0,2.0,no
+A380,United Kingdom,Solo Leisure,LHR to HKG,First Class,5.0,5.0,5.0,5.0,0.0,5.0,4.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,LHR to GRU,Business Class,4.0,5.0,4.0,5.0,0.0,3.0,4.0,yes
+Boeing 777,United Kingdom,Business,LHR to NBO,Economy Class,3.0,2.0,2.0,2.0,2.0,2.0,2.0,no
+Boeing 777,United Kingdom,Business,NBO to LHR,Premium Economy,3.0,2.0,3.0,2.0,0.0,3.0,2.0,no
+Boeing 777-200,United States,Business,DOH to LHR via BAH,First Class,5.0,2.0,1.0,2.0,1.0,4.0,2.0,no
+A380,United Kingdom,Business,LHR to JNB,Business Class,3.0,4.0,2.0,2.0,2.0,4.0,3.0,no
+A320 / A380,United Kingdom,Family Leisure,MAN to LAX via LHR,Economy Class,1.0,3.0,2.0,1.0,0.0,3.0,1.0,no
+Boeing 747,United Kingdom,Couple Leisure,LHR to JFK,Economy Class,3.0,5.0,5.0,5.0,0.0,4.0,3.0,yes
+Boeing 777 and Boeing 787,United Kingdom,Solo Leisure,LHR to IAH,Business Class,4.0,5.0,4.0,4.0,0.0,4.0,5.0,yes
+Boeing 777,China,Solo Leisure,LHR to PEK,Business Class,4.0,4.0,3.0,4.0,0.0,3.0,4.0,yes
+Boeing 747,Canada,Solo Leisure,YVR to CDG via LHR,Economy Class,2.0,5.0,5.0,5.0,0.0,2.0,5.0,yes
+A380,China,Solo Leisure,HKG to LHR,Premium Economy,4.0,4.0,3.0,3.0,0.0,3.0,5.0,yes
+A380-800,United Kingdom,Couple Leisure,SFO to LHR,Business Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,PEK to LHR,Premium Economy,5.0,5.0,4.0,4.0,0.0,2.0,5.0,yes
+A380,United Kingdom,Couple Leisure,LHR to LAX,Premium Economy,5.0,5.0,4.0,4.0,0.0,5.0,4.0,yes
+A320,United Kingdom,Family Leisure,LHR to ATH,Economy Class,4.0,4.0,3.0,4.0,0.0,3.0,4.0,yes
+Boeing 747,Belgium,Business,RUH to DUS via LHR,Business Class,4.0,4.0,1.0,3.0,0.0,0.0,3.0,no
+A320,United Kingdom,Solo Leisure,AMS to LGW,Business Class,1.0,3.0,2.0,1.0,0.0,0.0,2.0,no
+A319,United Kingdom,Solo Leisure,LGW to AMS,Economy Class,3.0,1.0,1.0,1.0,0.0,0.0,3.0,yes
+Boeing 767-300,United Kingdom,Family Leisure,LHR to LCA,Business Class,3.0,4.0,2.0,5.0,0.0,1.0,3.0,yes
+SAAB 2000,United Kingdom,Couple Leisure,LCY to IOM,Economy Class,4.0,5.0,4.0,5.0,0.0,0.0,4.0,yes
+Boeing 737,Denmark,Solo Leisure,CPH to LHR,Economy Class,3.0,1.0,5.0,1.0,0.0,0.0,4.0,no
+E-170,United Kingdom,Business,LCY to RTM,Economy Class,4.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+Boeing 787 / A320,Canada,Couple Leisure,YYZ to TXL via LHR,Business Class,5.0,5.0,5.0,5.0,0.0,5.0,4.0,yes
+Boeing 777,Canada,Couple Leisure,TLV to LHR,Business Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+A319,United Kingdom,Couple Leisure,LGW to FCO,Business Class,3.0,5.0,3.0,3.0,0.0,0.0,2.0,yes
+A380 / Boeing 747-400,United States,Business,IAD to DXB via LHR,Business Class,3.0,4.0,4.0,3.0,0.0,3.0,3.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,MIA to MAN via LHR,Economy Class,3.0,2.0,4.0,1.0,0.0,1.0,1.0,no
+A321,United Kingdom,Couple Leisure,LHR to PSA,Business Class,1.0,4.0,3.0,3.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,UVF to LGW,Premium Economy,2.0,1.0,2.0,1.0,0.0,1.0,1.0,no
+A320,United Kingdom,Family Leisure,SVQ to LGW,Economy Class,3.0,5.0,2.0,3.0,0.0,0.0,4.0,yes
+A319,United Kingdom,Family Leisure,LGW to SVQ,Economy Class,3.0,4.0,4.0,3.0,0.0,0.0,4.0,yes
+Boeing 787,United Kingdom,Solo Leisure,BCN to SEL via LHR,Economy Class,3.0,4.0,4.0,4.0,0.0,4.0,5.0,yes
+Boeing 777-200,Switzerland,Couple Leisure,LHR to IAH,Economy Class,3.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,LHR to DEN,First Class,3.0,4.0,4.0,3.0,1.0,3.0,2.0,no
+Boeing 747-400 /A380,South Africa,Solo Leisure,SEA to JNB via LHR,Economy Class,3.0,4.0,4.0,4.0,0.0,2.0,4.0,yes
+Boeing 787,United Kingdom,Solo Leisure,AUH to LHR,Economy Class,2.0,5.0,4.0,1.0,0.0,4.0,4.0,yes
+A320,Malaysia,Solo Leisure,LGW to AMS,Business Class,2.0,2.0,3.0,2.0,0.0,0.0,2.0,no
+Boeing 747-400,United States,Solo Leisure,ORD to LHR,First Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+A320,United Kingdom,Solo Leisure,LHR to AMS,Business Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+Boeing 777,United States,Couple Leisure,PHL to LHR,Economy Class,1.0,5.0,3.0,1.0,0.0,3.0,1.0,no
+A320 / Boeing 767,United Kingdom,Business,LHR to EDI,Economy Class,4.0,4.0,4.0,2.0,0.0,0.0,4.0,yes
+Boeing 777,United States,Couple Leisure,PHL to LHR,Economy Class,1.0,5.0,3.0,1.0,0.0,3.0,1.0,no
+Boeing 777-300,United Kingdom,Solo Leisure,SIN to LHR,Premium Economy,1.0,2.0,2.0,1.0,0.0,1.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,LHR to NBO,Premium Economy,3.0,5.0,5.0,4.0,0.0,3.0,4.0,yes
+"A320, A380",Greece,Solo Leisure,ATH to LAX via LHR,Economy Class,2.0,4.0,4.0,4.0,0.0,5.0,3.0,yes
+A320,United Kingdom,Solo Leisure,TRN to LGW,Business Class,4.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+Boeing 747-400,United Kingdom,Business,LHR to SFO,Economy Class,1.0,3.0,1.0,3.0,0.0,1.0,1.0,no
+"A320, Boeing 777",Finland,Couple Leisure,HEL to BOM via LHR,Economy Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,PUJ to LGW,Premium Economy,2.0,3.0,4.0,3.0,0.0,2.0,3.0,yes
+A321,United Kingdom,Business,LHR to SVO,Economy Class,1.0,2.0,5.0,1.0,0.0,3.0,2.0,no
+A320,Switzerland,Solo Leisure,LHR to ZRH,Economy Class,4.0,3.0,3.0,3.0,0.0,0.0,4.0,yes
+A321,Switzerland,Solo Leisure,ZRH to LHR,Business Class,4.0,4.0,4.0,3.0,0.0,0.0,3.0,yes
+A380,United Kingdom,Couple Leisure,MIA to LHR,Premium Economy,1.0,4.0,4.0,3.0,0.0,4.0,2.0,no
+Boeing 777,United Kingdom,Business,HKG to LHR,Premium Economy,3.0,3.0,1.0,3.0,0.0,3.0,1.0,no
+A319,United Kingdom,Solo Leisure,LHR to EDI,Economy Class,5.0,5.0,5.0,3.0,0.0,0.0,3.0,yes
+Boeing 777 ,United Kingdom,Couple Leisure,SYD to LHR via SIN,Business Class,1.0,2.0,2.0,0.0,0.0,3.0,1.0,no
+A380,United Kingdom,Couple Leisure,EDI to SFO via LHR,Premium Economy,5.0,4.0,4.0,5.0,0.0,5.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,LHR to SIN,First Class,5.0,4.0,3.0,3.0,0.0,5.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,LHR to GIG,Premium Economy,4.0,4.0,4.0,3.0,4.0,4.0,3.0,yes
+Boeing 747-400 / A380,United Kingdom,Business,LHR to ORD,First Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 767,United Kingdom,Solo Leisure,LHR to ATH,Economy Class,4.0,5.0,5.0,4.0,0.0,4.0,5.0,yes
+Boeing 747-400,Denmark,Business,CPH to ACC via LHR,Economy Class,4.0,4.0,3.0,4.0,0.0,4.0,5.0,yes
+A320,United Kingdom,Solo Leisure,LHR to MUC,Business Class,2.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+A320,Australia,Solo Leisure,ARN to LHR,Economy Class,1.0,2.0,3.0,2.0,0.0,0.0,3.0,no
+A320,United Kingdom,Business,LHR to HEL,Business Class,3.0,4.0,4.0,2.0,0.0,0.0,2.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,EDI to PHL via LHR,Economy Class,4.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Solo Leisure,VCE to LGW,Economy Class,4.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+Boeing 787,United Kingdom,Business,LHR to MAA,Business Class,5.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 777-200,United Kingdom,Solo Leisure,JFK to LHR,Business Class,4.0,5.0,5.0,4.0,0.0,4.0,4.0,yes
+Boeing 777-300ER,United Kingdom,Solo Leisure,LHR to JFK,Economy Class,4.0,4.0,4.0,3.0,0.0,4.0,4.0,yes
+"A320, Boeing 767-300",United Kingdom,Business,LHR - EDI to LHR,Economy Class,4.0,4.0,4.0,3.0,0.0,0.0,3.0,yes
+Boeing 777,United Kingdom,Solo Leisure,JFK to LHR,Economy Class,2.0,5.0,3.0,2.0,0.0,2.0,3.0,no
+Boeing 747-400,Switzerland,Couple Leisure,ACC to ZRH via LHR,Economy Class,3.0,5.0,4.0,4.0,0.0,4.0,5.0,yes
+A320,United Kingdom,Solo Leisure,OUL to LHR via HEL,Economy Class,5.0,5.0,4.0,3.0,0.0,0.0,4.0,yes
+A319,Netherlands,Business,LHR to AMS,Business Class,1.0,2.0,3.0,1.0,0.0,0.0,1.0,no
+A320,Romania,Solo Leisure,OTP to LHR,Business Class,1.0,4.0,4.0,1.0,0.0,1.0,2.0,no
+A380,United States,Business,IAD to LHR,Economy Class,5.0,5.0,1.0,3.0,1.0,3.0,4.0,yes
+Boeing 747,United Kingdom,Couple Leisure,LHR to CPT,Premium Economy,3.0,2.0,4.0,2.0,0.0,1.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,MAN to GIG via LHR,First Class,1.0,1.0,1.0,3.0,0.0,2.0,2.0,no
+"Boeing 777, A320, A380",United States,Couple Leisure,LAX to AMS via LHR,Business Class,4.0,5.0,5.0,3.0,0.0,4.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,LGW to PUJ,Economy Class,4.0,5.0,2.0,3.0,0.0,2.0,5.0,yes
+Boeing 777,United Kingdom,Solo Leisure,LGW to CUN,Premium Economy,4.0,1.0,3.0,3.0,0.0,3.0,3.0,no
+Boeing 787-9,United Kingdom,Couple Leisure,KUL to LHR,First Class,1.0,4.0,4.0,3.0,0.0,3.0,1.0,no
+Boeing 767,United Kingdom,Couple Leisure,LHR to ATH,Economy Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+Boeing 747,United Kingdom,Family Leisure,LHR to YVR,Economy Class,1.0,1.0,2.0,1.0,0.0,1.0,1.0,no
+Boeing 787 / 777,United States,Business,SEA to TLV via LHR,Business Class,3.0,3.0,2.0,2.0,0.0,2.0,2.0,no
+A320,United Kingdom,Couple Leisure,LGW to NAP,Business Class,2.0,5.0,2.0,4.0,0.0,0.0,3.0,yes
+A319,United Kingdom,Solo Leisure,LHR to DUB,Economy Class,5.0,3.0,3.0,3.0,0.0,0.0,4.0,yes
+Boeing 777,United Kingdom,Solo Leisure,LHR to YYZ,Business Class,0.0,0.0,3.0,0.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Solo Leisure,YYZ to LHR,Business Class,2.0,2.0,4.0,2.0,0.0,0.0,1.0,no
+A320,United Kingdom,Couple Leisure,LGW to RAK,Economy Class,3.0,4.0,4.0,2.0,0.0,0.0,4.0,yes
+Boeing 747,Canada,Family Leisure,YVR to LIS via LHR,Economy Class,3.0,3.0,1.0,1.0,3.0,2.0,1.0,no
+A320,United Kingdom,Solo Leisure,LGW to GVA,Business Class,5.0,5.0,2.0,4.0,0.0,0.0,5.0,yes
+A380,United Kingdom,Couple Leisure,LHR to MIa,First Class,5.0,5.0,4.0,5.0,0.0,4.0,4.0,yes
+Boeing 747 400,United Kingdom,Family Leisure,EDI to LAS via LHR,Business Class,4.0,5.0,3.0,5.0,0.0,3.0,4.0,yes
+Boeing 777,United Kingdom,Family Leisure,LHR to DXB,Business Class,3.0,3.0,2.0,3.0,0.0,2.0,3.0,no
+A320,Italy,Solo Leisure,MXP to LHR,Economy Class,4.0,4.0,3.0,4.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Solo Leisure,BCN to LHR,Economy Class,3.0,5.0,4.0,4.0,0.0,0.0,3.0,yes
+Boeing 747-400,United States,Business,LHR to BOM,Business Class,4.0,5.0,4.0,4.0,0.0,3.0,5.0,yes
+Boeing 777,United Kingdom,Solo Leisure,ATL to LHR,First Class,5.0,5.0,4.0,5.0,0.0,5.0,4.0,yes
+Boeing 777-200,United States,Business,DOH to LHR via BAH,Business Class,4.0,4.0,3.0,4.0,0.0,3.0,4.0,yes
+Boeing 747-400,Brazil,Business,LHR to GRU,Business Class,3.0,4.0,4.0,2.0,0.0,2.0,3.0,no
+A320,United Kingdom,Solo Leisure,KBP to LHR,Economy Class,4.0,4.0,1.0,5.0,0.0,0.0,5.0,yes
+Boeing 747-400,United Kingdom,Family Leisure,YVR to LHR,Economy Class,2.0,1.0,3.0,2.0,0.0,3.0,2.0,no
+A320,United Kingdom,Couple Leisure,GLA to LHR,Economy Class,4.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+"A380, Boeing 747 and Boeing 777",South Africa,Solo Leisure,JNB to JFK via LHR,Economy Class,4.0,5.0,5.0,4.0,0.0,3.0,4.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,GIG to LHR,First Class,3.0,4.0,3.0,3.0,0.0,4.0,3.0,no
+A380,United Kingdom,Couple Leisure,LHR to SIN,First Class,3.0,4.0,3.0,4.0,0.0,3.0,3.0,no
+"A320, A380, Boeing 777-300",Poland,Couple Leisure,WAW to HKG via LHR,Economy Class,3.0,3.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 777,United Kingdom,Business,LHR to EWR,First Class,5.0,5.0,4.0,5.0,0.0,5.0,4.0,yes
+A318,United Kingdom,Solo Leisure,LCY to JFK,Business Class,3.0,5.0,5.0,1.0,0.0,2.0,5.0,yes
+Boeing 777-200,United States,Solo Leisure,LHR to BOS,Economy Class,2.0,2.0,1.0,1.0,0.0,2.0,2.0,no
+Boeing 777,United Kingdom,Couple Leisure,LHR to GIG,Business Class,4.0,5.0,4.0,4.0,0.0,3.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,LGW to MLE,Business Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+A380,United Kingdom,Couple Leisure,JNB to LHR,Business Class,3.0,2.0,1.0,2.0,1.0,2.0,1.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,GLA to JFK via LHR,Economy Class,4.0,5.0,4.0,5.0,0.0,5.0,5.0,yes
+Boeing 747-400,Kuwait,Solo Leisure,KWI to EDI via LHR,Premium Economy,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,YVR to LHR,Premium Economy,3.0,3.0,4.0,1.0,1.0,1.0,2.0,no
+A380,United Kingdom,Solo Leisure,LHR to SFO via EDI,Premium Economy,1.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+Embraer 190,United Kingdom,Solo Leisure,FRA to LCY,Economy Class,5.0,5.0,2.0,4.0,0.0,0.0,3.0,yes
+A320,United Kingdom,Solo Leisure,LGW to SZG,Economy Class,4.0,4.0,3.0,3.0,0.0,0.0,4.0,yes
+A380,United Kingdom,Family Leisure,MIA to MAN via LHR,Premium Economy,2.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 777,Thailand,Couple Leisure,BKK to LHR,Economy Class,2.0,2.0,3.0,1.0,1.0,1.0,2.0,no
+A380,United Kingdom,Solo Leisure,HKG to LHR,Economy Class,4.0,5.0,4.0,3.0,0.0,3.0,4.0,yes
+Boeing 767,Netherlands,Solo Leisure,AMS to LHR,Economy Class,4.0,4.0,5.0,4.0,0.0,0.0,4.0,yes
+Boeing 777-300ER,Germany,Solo Leisure,HKG to LHR,First Class,5.0,4.0,3.0,2.0,0.0,0.0,2.0,no
+Boeing 747,Canada,Solo Leisure,CPT to LHR,Business Class,4.0,3.0,4.0,4.0,0.0,4.0,4.0,yes
+A380,Germany,Solo Leisure,LHR to SFO,Economy Class,4.0,5.0,4.0,5.0,0.0,5.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,BKK to LHR,Business Class,2.0,3.0,3.0,2.0,1.0,3.0,3.0,yes
+Boeing 777-300,Saudi Arabia,Solo Leisure,LHR to JED,Economy Class,3.0,4.0,3.0,4.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Couple Leisure,FNC to LGW,Business Class,1.0,2.0,2.0,1.0,0.0,0.0,1.0,no
+Boeing 777-200,United Kingdom,Family Leisure,iAH to LHR,Premium Economy,3.0,3.0,3.0,3.0,0.0,2.0,2.0,no
+A320/A321,Romania,Family Leisure,OTP to LHR,Economy Class,4.0,4.0,3.0,4.0,0.0,0.0,5.0,yes
+Boeing 777-200,Canada,Couple Leisure,YYZ to LHR,Business Class,2.0,2.0,4.0,2.0,0.0,4.0,4.0,no
+Boeing 747,United Kingdom,Couple Leisure,LHR to MEX,First Class,4.0,5.0,4.0,4.0,0.0,4.0,5.0,yes
+Boeing 777,Germany,Couple Leisure,MUC to JFK via LHR,Premium Economy,3.0,3.0,5.0,4.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Couple Leisure,LHR to PSA,Economy Class,4.0,2.0,1.0,1.0,0.0,0.0,1.0,no
+A320 and A319,United Kingdom,Solo Leisure,lgw to alicante,Economy Class,4.0,5.0,3.0,4.0,0.0,0.0,5.0,yes
+Boeing 767,United Kingdom,Couple Leisure,LHR to GLA,Economy Class,3.0,3.0,2.0,2.0,0.0,0.0,1.0,no
+A320,United Kingdom,Couple Leisure,MLA to LGW,Economy Class,4.0,4.0,4.0,4.0,0.0,0.0,5.0,yes
+A380,United Kingdom,Couple Leisure,JNB to DUB via LHR,Economy Class,3.0,5.0,3.0,4.0,0.0,1.0,4.0,no
+A320 / Boeing 787,United States,Solo Leisure,TLV to PHL via LHR,Economy Class,3.0,4.0,4.0,4.0,0.0,5.0,1.0,yes
+Boeing 787,Canada,Family Leisure,NCE to YUL via LHR,Economy Class,5.0,5.0,5.0,4.0,0.0,4.0,5.0,yes
+Boeing 777,United Kingdom,Solo Leisure,BKK to LHR,Economy Class,1.0,1.0,2.0,1.0,0.0,1.0,1.0,no
+Boeing 747,United States,Solo Leisure,YVR-LIS via LHR,Economy Class,3.0,3.0,4.0,3.0,0.0,2.0,3.0,no
+Boeing 777,India,Family Leisure,LHR to DEL,Business Class,4.0,4.0,5.0,4.0,0.0,4.0,4.0,yes
+B767 / A380,Spain,Business,MAD to LAX via LHR,Business Class,4.0,5.0,5.0,5.0,0.0,5.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,CPH to ORD via LHR,Business Class,2.0,3.0,1.0,1.0,1.0,1.0,1.0,no
+A320,Austria,Solo Leisure,VIE to NCL via LHR,Economy Class,3.0,3.0,4.0,3.0,0.0,0.0,2.0,yes
+A320,France,Solo Leisure,LHR to BCN,Economy Class,3.0,3.0,4.0,3.0,0.0,0.0,4.0,yes
+A319,United Kingdom,Solo Leisure,LHR to NCL,Economy Class,2.0,3.0,4.0,1.0,0.0,0.0,1.0,no
+Boeing 777,Saudi Arabia,Solo Leisure,JED to LHR,Economy Class,4.0,5.0,4.0,5.0,0.0,4.0,5.0,yes
+A320,United Kingdom,Couple Leisure,LIS to LHR,Economy Class,3.0,1.0,3.0,3.0,0.0,1.0,3.0,no
+Boeing 747-400,Canada,Solo Leisure,LHR to YVR,Business Class,4.0,4.0,3.0,3.0,0.0,1.0,2.0,no
+Boeing 747-400,United Kingdom,Business,London to Vancouver,Economy Class,2.0,4.0,1.0,3.0,0.0,2.0,2.0,no
+Boeing 747-400,United Kingdom,Family Leisure,LHR to BOM,Economy Class,1.0,1.0,3.0,2.0,0.0,1.0,1.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,LGW to MCO,Business Class,5.0,5.0,4.0,5.0,0.0,4.0,5.0,yes
+Embraer170,Japan,Family Leisure,LCY to GVA,Economy Class,4.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,GRU to LHR,Business Class,5.0,5.0,5.0,5.0,0.0,3.0,5.0,yes
+Boeing 777-300,Spain,Solo Leisure,Madrid to Sydney via LHR,Economy Class,4.0,1.0,4.0,3.0,0.0,4.0,4.0,yes
+A380,United Kingdom,Couple Leisure,Heathrow to Johannesburg,Business Class,2.0,4.0,2.0,3.0,0.0,2.0,3.0,no
+A320,United Kingdom,Couple Leisure,LGW to BCN,Business Class,4.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+A320,United Kingdom,Couple Leisure,LHR to AMS,Business Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+A380,United Kingdom,Solo Leisure,London to Los Angeles,Business Class,3.0,3.0,3.0,2.0,0.0,2.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,GIG to LHR,Premium Economy,3.0,2.0,2.0,2.0,0.0,1.0,1.0,no
+Boeing 747,United Kingdom,Couple Leisure,LHR to YVR,Business Class,5.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+A319,United Kingdom,Business,Newcastle to Heathrow,Economy Class,4.0,5.0,5.0,0.0,0.0,0.0,5.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,MAN to JFK via LHR,Business Class,4.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,Phoenix to Heathrow,Economy Class,1.0,4.0,3.0,1.0,0.0,2.0,2.0,no
+Boeing 777,United Kingdom,Business,LHR to AUS,Premium Economy,3.0,3.0,1.0,2.0,1.0,3.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,Punta Cana to London,Economy Class,3.0,1.0,3.0,1.0,1.0,1.0,2.0,no
+Boeing 777-300,United Kingdom,Couple Leisure,LHR to SIN,Economy Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 777,United States,Solo Leisure,SEA to LHR,Premium Economy,4.0,3.0,2.0,3.0,0.0,4.0,4.0,yes
+Boeing 747,United States,Solo Leisure,LHR to SEA,Economy Class,2.0,3.0,5.0,5.0,0.0,2.0,3.0,yes
+Boeing 777,United Kingdom,Couple Leisure,BKK to LHR,Business Class,5.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+A320,Germany,Solo Leisure,TXL to LHR,Business Class,5.0,5.0,4.0,5.0,0.0,0.0,4.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,London Gatwick to Punta Cana,Business Class,5.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+Boeing 777-200,United Kingdom,Solo Leisure,LGW to TPA,Economy Class,3.0,4.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,Heathrow to Cape Town,Economy Class,4.0,5.0,5.0,5.0,0.0,4.0,4.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,London to Chicago,Economy Class,3.0,3.0,3.0,2.0,0.0,0.0,3.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Gatwick to Las Vegas,Premium Economy,4.0,4.0,4.0,3.0,1.0,3.0,3.0,yes
+Boeing 777 / A319,Belgium,Solo Leisure,HND to BRU via LHR,First Class,3.0,4.0,4.0,2.0,0.0,2.0,3.0,yes
+Boeing 747-400,Denmark,Business,LAS to LHR,First Class,3.0,5.0,1.0,2.0,0.0,1.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,Tampa to Gatwick,Business Class,4.0,4.0,3.0,3.0,0.0,2.0,4.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,LHR to MIA,Premium Economy,4.0,3.0,3.0,3.0,0.0,2.0,3.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,JFK to LHR,Economy Class,2.0,3.0,4.0,3.0,0.0,4.0,3.0,yes
+Boeing 777,United States,Couple Leisure,YUL to FCO via LHR,Economy Class,4.0,3.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,LHR to KUL,Premium Economy,3.0,2.0,3.0,2.0,0.0,2.0,3.0,no
+Boeing 777,United States,Family Leisure,IAD to DXB via LHR,Economy Class,1.0,4.0,3.0,4.0,0.0,4.0,4.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,EDI to LAS via LHR,Economy Class,3.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+A320,United Kingdom,Solo Leisure,MAD to LHR,Economy Class,5.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Couple Leisure,LHR to IST,Business Class,1.0,4.0,2.0,1.0,0.0,0.0,1.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,GLA to BKK via LHR,Premium Economy,2.0,1.0,2.0,3.0,1.0,1.0,2.0,no
+Boeing 777-300ER,United Kingdom,Business,MAN to BOM via LHR,Economy Class,3.0,1.0,4.0,1.0,0.0,2.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Bangkok to London,Business Class,4.0,2.0,3.0,2.0,1.0,0.0,2.0,no
+A319,United Kingdom,Business,LGW to AMS,Economy Class,1.0,2.0,1.0,1.0,0.0,0.0,3.0,no
+A380,United Kingdom,Couple Leisure,Heathrow to Singapore,First Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+A320/321,United Kingdom,Couple Leisure,LHR to Krakow,Business Class,2.0,5.0,2.0,4.0,0.0,0.0,3.0,yes
+A380,France,Solo Leisure,BSL to JNB via LHR,Premium Economy,4.0,5.0,4.0,4.0,0.0,5.0,4.0,yes
+Boeing 747-400,Canada,Solo Leisure,London to Vancouver,Economy Class,3.0,4.0,2.0,5.0,1.0,5.0,3.0,yes
+A380 / Boeing 747-400,United Kingdom,Couple Leisure,LHR to SFO,Premium Economy,4.0,5.0,3.0,5.0,0.0,4.0,5.0,yes
+Boeing 747-400,United Kingdom,Business,LHR to GRU,Business Class,1.0,2.0,3.0,1.0,0.0,1.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,LGW to Grenada,Premium Economy,3.0,3.0,3.0,3.0,2.0,2.0,3.0,yes
+Boeing 767 / A320,United Kingdom,Business,LHR to EDI,Economy Class,4.0,4.0,4.0,4.0,0.0,0.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,Tampa to Gatwick,Business Class,4.0,4.0,3.0,3.0,0.0,2.0,4.0,yes
+A319,Italy,Solo Leisure,FCO to LGW,Business Class,3.0,2.0,2.0,4.0,0.0,0.0,4.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,LHR to MIA,Premium Economy,4.0,3.0,3.0,3.0,0.0,2.0,3.0,yes
+A320,United Kingdom,Business,Hannover to LHR,Business Class,2.0,4.0,1.0,1.0,0.0,0.0,1.0,no
+A320,United Kingdom,Business,LHR to Hannover,Business Class,2.0,4.0,3.0,1.0,0.0,0.0,2.0,no
+Boeing 777,United Kingdom,Solo Leisure,LHR to DXB,Business Class,2.0,4.0,4.0,3.0,0.0,3.0,4.0,yes
+Boeing 777,United Kingdom,Solo Leisure,Heathrow to Houston,First Class,5.0,5.0,5.0,3.0,0.0,4.0,4.0,yes
+A319,United Kingdom,Family Leisure,LGW to ALC,Economy Class,4.0,4.0,4.0,4.0,0.0,0.0,4.0,yes
+A319,Ireland,Business,Kiev to Dublin via LHR,Economy Class,2.0,2.0,2.0,1.0,0.0,0.0,1.0,no
+Boeing 777-300,Australia,Business,Sydney to Singapore,Premium Economy,4.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+A320,Greece,Solo Leisure,ATH to LHR,Economy Class,4.0,5.0,3.0,4.0,0.0,0.0,4.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,CPT to LHR,First Class,5.0,2.0,4.0,2.0,0.0,1.0,3.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,LHR to LAX,Business Class,3.0,3.0,5.0,2.0,0.0,4.0,3.0,no
+Boeing 777-300,Germany,Business,LHR to EZE,Business Class,1.0,1.0,3.0,3.0,1.0,1.0,3.0,no
+Boeing 777,United Kingdom,Family Leisure,Gatwick to Orlando,Economy Class,3.0,5.0,1.0,2.0,1.0,3.0,3.0,no
+A320,New Zealand,Solo Leisure,Rome to Heathrow,Economy Class,5.0,4.0,5.0,2.0,0.0,0.0,2.0,no
+A320/319,United Kingdom,Solo Leisure,Gatwick to Venice,Economy Class,4.0,5.0,5.0,4.0,0.0,0.0,5.0,yes
+Boeing 777,United Kingdom,Couple Leisure,London to Luanda,Business Class,1.0,4.0,4.0,3.0,0.0,3.0,3.0,no
+Boeing 747-400,United Kingdom,Family Leisure,Denver to Heathrow,Economy Class,4.0,2.0,2.0,1.0,0.0,1.0,2.0,no
+Boeing 777-200,Thailand,Business,BKK to LHR,Business Class,1.0,2.0,4.0,2.0,0.0,1.0,3.0,no
+Boeing 777-300,Australia,Couple Leisure,London to Sydney,First Class,4.0,5.0,5.0,4.0,0.0,4.0,5.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,LHR to CPT,First Class,5.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+Boeing 777,United Kingdom,Couple Leisure,London to Kuala Lumpur,Business Class,4.0,4.0,5.0,2.0,0.0,3.0,3.0,no
+Boeing 747-400,France,Business,NCE to LAS via LHR,Premium Economy,4.0,3.0,4.0,2.0,0.0,2.0,4.0,yes
+Boeing 777,Singapore,Solo Leisure,Singapore to Sydney,First Class,4.0,5.0,4.0,4.0,0.0,4.0,5.0,yes
+A320 / A380,Sweden,Family Leisure,GOT to LAX via LHR,Economy Class,4.0,5.0,4.0,0.0,0.0,4.0,5.0,yes
+A320,United Kingdom,Business,Istanbul to London,Business Class,1.0,3.0,1.0,1.0,0.0,1.0,1.0,no
+A319 / Boeing 777-300,Switzerland,Solo Leisure,GVA to PEK via LHR,Economy Class,4.0,5.0,2.0,5.0,0.0,5.0,5.0,yes
+Boeing 777,United States,Couple Leisure,LHR to NBO,Business Class,5.0,5.0,5.0,4.0,0.0,4.0,5.0,yes
+Boeing 777,United Arab Emirates,Business,SEA to AUH via LHR,First Class,3.0,2.0,3.0,3.0,0.0,2.0,3.0,no
+Boeing 787,United Kingdom,Solo Leisure,Newark to Heathrow,Premium Economy,1.0,3.0,2.0,4.0,0.0,0.0,2.0,no
+Boeing 747-400,United Kingdom,Family Leisure,Heathrow to Las Vegas,Economy Class,3.0,5.0,4.0,4.0,1.0,3.0,3.0,yes
+A320,United States,Solo Leisure,Lisbon to London,Economy Class,4.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+Boeing 777,United States,Solo Leisure,PHL to ATH via LHR,Business Class,3.0,1.0,4.0,1.0,0.0,0.0,2.0,no
+Boeing 777,Singapore,Business,SIN to LHR,Business Class,3.0,1.0,1.0,1.0,1.0,3.0,3.0,no
+A380,Israel,Couple Leisure,MIA to LHR,Business Class,4.0,5.0,2.0,3.0,1.0,4.0,3.0,no
+Boeing 747-400,United Kingdom,Solo Leisure,SFO to LHR,Economy Class,3.0,3.0,5.0,3.0,0.0,2.0,5.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,London Heathrow to Bangkok,Premium Economy,2.0,2.0,2.0,3.0,2.0,1.0,1.0,no
+A380,United Kingdom,Solo Leisure,SFO to LHR,Premium Economy,4.0,4.0,4.0,4.0,0.0,4.0,4.0,yes
+A321,Italy,Business,London Heathrow to Milan Malpensa,Economy Class,4.0,5.0,4.0,5.0,0.0,0.0,3.0,yes
+Boeing 787-800,United Kingdom,Solo Leisure,LHR to Chengdu,Business Class,4.0,1.0,2.0,2.0,0.0,4.0,3.0,yes
+Boeing 777-300ER,United Kingdom,Business,Tokyo Narita to LHR,Business Class,4.0,3.0,4.0,2.0,0.0,3.0,4.0,yes
+Boeing 777-300ER,United Kingdom,Business,LHR to Tokyo Narita,First Class,5.0,5.0,4.0,5.0,0.0,5.0,5.0,yes
+Boeing 747- 400,United Kingdom,Couple Leisure,MAN to LAS via LHR,Economy Class,1.0,4.0,1.0,3.0,0.0,2.0,2.0,no
+Boeing 777,United Kingdom,Solo Leisure,Heathrow (London) to JFK (New York City),Premium Economy,4.0,3.0,3.0,4.0,0.0,3.0,4.0,yes
+A380,United Kingdom,Solo Leisure,LHR to SFO,Economy Class,5.0,4.0,5.0,4.0,0.0,4.0,4.0,yes
+Boeing 787,United Kingdom,Couple Leisure,London to Chennai,Economy Class,5.0,5.0,4.0,5.0,5.0,5.0,5.0,yes
+Boeing 747-400,United Kingdom,Business,London to Phoenix,Premium Economy,4.0,5.0,3.0,4.0,0.0,3.0,4.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,SFO to LHR,Premium Economy,2.0,4.0,2.0,2.0,0.0,2.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,Orlando to London,Economy Class,2.0,1.0,4.0,2.0,0.0,2.0,3.0,no
+B0eing 747-400,Australia,Business,London to Cape Town,Economy Class,1.0,2.0,4.0,3.0,0.0,2.0,1.0,no
+Boeing 777-200,United Kingdom,Business,Heathrow to Haneda,Business Class,2.0,5.0,2.0,4.0,0.0,2.0,3.0,no
+A319,Switzerland,Solo Leisure,LHR to GVA,Economy Class,4.0,4.0,1.0,2.0,0.0,0.0,4.0,yes
+A320,United Kingdom,Solo Leisure,LHR to AMS,Business Class,3.0,4.0,4.0,2.0,0.0,2.0,2.0,no
+Boeing 777,Australia,Couple Leisure,LHR to SYD via SIN,Premium Economy,4.0,4.0,3.0,4.0,0.0,4.0,4.0,yes
+Boeing 777-200,Australia,Couple Leisure,SYD to LHR via SIN,Business Class,1.0,4.0,4.0,3.0,0.0,4.0,2.0,no
+A380,United Kingdom,Couple Leisure,LHR to JNB,Premium Economy,5.0,5.0,4.0,4.0,0.0,5.0,3.0,yes
+A319,United Kingdom,Couple Leisure,Pisa to London Gatwick,Business Class,2.0,4.0,2.0,2.0,0.0,0.0,2.0,no
+A380 / Boeing 777,Australia,Family Leisure,LHR to SYD via SIN,Business Class,4.0,2.0,1.0,2.0,0.0,2.0,1.0,no
+Boeing 777-200,United Kingdom,Business,Antigua to Gatwick,Economy Class,1.0,2.0,4.0,1.0,0.0,2.0,2.0,no
+A380,United Kingdom,Couple Leisure,London to Los Angeles,Business Class,4.0,5.0,4.0,5.0,0.0,4.0,4.0,yes
+Boeing 747-400,Singapore,Business,LHR to SIN,Business Class,3.0,2.0,1.0,2.0,0.0,1.0,1.0,no
+A320,United Kingdom,Business,Athens to London,Business Class,1.0,2.0,1.0,2.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,SAN to LHR,Business Class,4.0,5.0,4.0,3.0,0.0,4.0,4.0,yes
+Boeing 777-200,United Kingdom,Family Leisure,Gatwick to Las Vegas,Premium Economy,4.0,3.0,3.0,3.0,0.0,4.0,3.0,yes
+Boeing 747,United Kingdom,Business,Vancouver to London,Premium Economy,3.0,1.0,4.0,2.0,0.0,1.0,2.0,no
+A320,United Kingdom,Couple Leisure,LHR to MAD,Economy Class,4.0,3.0,5.0,3.0,0.0,0.0,5.0,yes
+A319,United Kingdom,Solo Leisure,Bologna to Heathrow,Economy Class,2.0,3.0,3.0,2.0,0.0,0.0,4.0,no
+Boeing 747 400,United Kingdom,Couple Leisure,LAS to LHR,Economy Class,3.0,3.0,3.0,2.0,0.0,0.0,3.0,no
+A320,United Kingdom,Couple Leisure,Gatwick to Pisa,Business Class,2.0,2.0,4.0,3.0,0.0,0.0,3.0,no
+A319,United Kingdom,Couple Leisure,Gatwick to Bari,Business Class,4.0,5.0,5.0,4.0,0.0,0.0,5.0,yes
+Boeing 777,United States,Solo Leisure,LHR to SAN,Business Class,4.0,2.0,2.0,1.0,0.0,2.0,1.0,no
+A319,United Kingdom,Solo Leisure,London to Rome,Economy Class,3.0,4.0,3.0,3.0,0.0,0.0,3.0,yes
+767-300,United Kingdom,Family Leisure,LHR to ARN,First Class,4.0,4.0,3.0,3.0,0.0,0.0,3.0,yes
+Boeing 777-200,Israel,Couple Leisure,TLV to SAN via LHR,Economy Class,3.0,3.0,1.0,4.0,0.0,2.0,1.0,no
+A319/A321,United Kingdom,Couple Leisure,LHR to AMS,Economy Class,4.0,5.0,4.0,2.0,0.0,0.0,4.0,yes
+Boeing 777-200,United Kingdom,Business,Heathrow to Bahrain,Economy Class,2.0,3.0,3.0,1.0,2.0,2.0,3.0,no
+A380,Spain,Business,LHR to SIN,Business Class,4.0,4.0,4.0,4.0,0.0,4.0,5.0,yes
+Boeing 777-200,United Kingdom,Family Leisure,LHR to KUL,Economy Class,2.0,4.0,5.0,3.0,0.0,3.0,4.0,yes
+A320,Finland,Solo Leisure,HEL to JNB via LHR,Economy Class,1.0,4.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 777-200,Netherlands,Solo Leisure,London to Bangkok,Economy Class,4.0,4.0,3.0,3.0,0.0,3.0,3.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,GLA to BKK via LHR,Premium Economy,3.0,4.0,4.0,4.0,1.0,2.0,3.0,yes
+A320,United Kingdom,Couple Leisure,Fuereventura to LGW,Business Class,4.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,DUB to LAS via LHR,Economy Class,1.0,2.0,3.0,2.0,0.0,2.0,3.0,yes
+Boeing 747,United Kingdom,Family Leisure,Jersey to MIA via London,Economy Class,1.0,4.0,3.0,1.0,0.0,1.0,3.0,no
+Boeing 747-400,Ireland,Couple Leisure,London to Johannesburg,Economy Class,1.0,3.0,1.0,1.0,0.0,2.0,1.0,no
+A320,Austria,Business,VIE to LHR,Economy Class,4.0,4.0,5.0,4.0,0.0,0.0,4.0,yes
+Boeing 747-400,United States,Family Leisure,Phoenix to Heathrow,Economy Class,1.0,2.0,2.0,1.0,2.0,1.0,1.0,no
+A320,United Kingdom,Solo Leisure,LGW to SSH ,Business Class,3.0,5.0,5.0,4.0,0.0,0.0,3.0,yes
+A320,United Kingdom,Solo Leisure,SSH to LGW,Business Class,1.0,5.0,1.0,4.0,0.0,0.0,3.0,yes
+A320,United Kingdom,Family Leisure,LHR to GIB,Economy Class,4.0,5.0,3.0,1.0,0.0,0.0,4.0,yes
+Boeing 747-400,Canada,Business,LHR to DXB,Business Class,4.0,3.0,4.0,5.0,0.0,3.0,3.0,yes
+A320,Sweden,Business,Stockholm to London,Business Class,2.0,3.0,5.0,4.0,0.0,0.0,3.0,yes
+Boeing 777,Australia,Couple Leisure,SYD to SIN,Business Class,4.0,4.0,4.0,4.0,0.0,4.0,5.0,yes
+Boeing 777,United Kingdom,Business,HND to LHR,Business Class,2.0,2.0,3.0,1.0,0.0,2.0,2.0,no
+Boeing 747-400,Canada,Solo Leisure,Vancouver to London,Business Class,3.0,4.0,4.0,3.0,0.0,1.0,2.0,no
+A320,United Kingdom,Solo Leisure,Barcelona to London Heathrow,Economy Class,4.0,4.0,4.0,3.0,0.0,0.0,5.0,yes
+Boeing 777,United States,Solo Leisure,LHR to IAD,Premium Economy,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+A320,United Kingdom,Couple Leisure,LHR to Bologna,Business Class,1.0,5.0,3.0,3.0,0.0,0.0,1.0,no
+Boeing 767,United Kingdom,Couple Leisure,LCA to LHR,Economy Class,1.0,4.0,1.0,2.0,0.0,1.0,2.0,no
+A320,Netherlands,Couple Leisure,AMS to LHR,Economy Class,5.0,3.0,4.0,3.0,0.0,0.0,5.0,yes
+Boeing 747-400,Netherlands,Couple Leisure,LHR to MIA,Economy Class,3.0,5.0,4.0,5.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Solo Leisure,LHR to CPH,Economy Class,1.0,2.0,4.0,1.0,0.0,0.0,2.0,no
+A318,United Kingdom,Business,LCY to JFK via SNN,Business Class,5.0,5.0,5.0,5.0,0.0,3.0,4.0,yes
+A320,United Kingdom,Couple Leisure,LHR to BUD,Economy Class,5.0,5.0,5.0,3.0,0.0,0.0,5.0,yes
+Boeing 737,Australia,Business,Gatwick to Naples,Business Class,1.0,5.0,3.0,2.0,0.0,1.0,1.0,no
+A320,United Kingdom,Couple Leisure,LHR to KGS,Business Class,2.0,2.0,2.0,2.0,0.0,0.0,2.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,Boston to London,First Class,2.0,5.0,2.0,2.0,1.0,1.0,1.0,no
+A320,United Kingdom,Solo Leisure,LHR to OSL,Economy Class,4.0,3.0,5.0,4.0,0.0,0.0,4.0,yes
+Embraer E190,United Kingdom,Family Leisure,LCY to Granada,Business Class,1.0,4.0,1.0,1.0,0.0,0.0,1.0,no
+Boeing 777-200ER,United Kingdom,Solo Leisure,St Lucia to LGW,Business Class,5.0,5.0,5.0,5.0,0.0,5.0,4.0,yes
+Boeing 747-400,United Kingdom,Couple Leisure,LHR to PHX,Premium Economy,4.0,5.0,4.0,3.0,0.0,2.0,5.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,Heathrow to Vancouver,Economy Class,2.0,2.0,3.0,1.0,0.0,1.0,3.0,no
+Boeing 747-400,United Kingdom,Couple Leisure,Glasgow to Cape Town via LHR,Economy Class,1.0,3.0,3.0,2.0,0.0,1.0,3.0,no
+Boeing 747 / 777 / A380,United Arab Emirates,Solo Leisure,DXB to IAD via LHR,Business Class,1.0,2.0,3.0,1.0,1.0,1.0,2.0,no
+Boeing 777,Canada,Solo Leisure,YYZ to LHR,Premium Economy,3.0,5.0,4.0,5.0,0.0,3.0,5.0,yes
+Boeing 747-400,Canada,Solo Leisure,LHR to MIA,Premium Economy,5.0,5.0,5.0,5.0,0.0,3.0,5.0,yes
+Boeing 767,United Kingdom,Couple Leisure,Madrid to Heathrow,Economy Class,5.0,5.0,5.0,4.0,0.0,0.0,5.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,Gatwick to Mauritius,Economy Class,1.0,4.0,3.0,2.0,0.0,2.0,2.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,Moscow to Heathrow,Economy Class,3.0,4.0,3.0,3.0,0.0,3.0,3.0,yes
+A319,United Kingdom,Couple Leisure,London to St Petersburgh,Economy Class,3.0,4.0,3.0,4.0,0.0,0.0,4.0,yes
+A380,United Kingdom,Couple Leisure,Los Angeles to London,Business Class,3.0,4.0,4.0,4.0,0.0,4.0,3.0,yes
+A319,United Kingdom,Couple Leisure,London Heathrow to Basel,Business Class,1.0,4.0,1.0,2.0,0.0,0.0,2.0,no
+A320,United Kingdom,Business,London Heathrow to Rome FCO,Business Class,5.0,5.0,1.0,5.0,0.0,0.0,1.0,no
+Boeing 777,Spain,Solo Leisure,LHR to BKK,Economy Class,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no
+Boeing 777,Spain,Couple Leisure,London to Tokyo,First Class,4.0,2.0,1.0,1.0,0.0,2.0,1.0,no
+Boeing 777-300,United Kingdom,Family Leisure,GIG to LHR,Economy Class,1.0,1.0,1.0,3.0,1.0,2.0,1.0,no
+A319,United Kingdom,Solo Leisure,London Heathrow to Venice,Business Class,4.0,4.0,4.0,4.0,0.0,0.0,5.0,yes
+A321,South Africa,Solo Leisure,London to Paris,Economy Class,3.0,3.0,2.0,3.0,0.0,0.0,3.0,yes
+Boeing 777-200,United Kingdom,Couple Leisure,Heathrow to Bangkok,Economy Class,2.0,3.0,4.0,4.0,0.0,1.0,3.0,no
+Boeing 747-400,United Kingdom,Family Leisure,Las Vegas to London Heathrow,Economy Class,1.0,1.0,3.0,1.0,0.0,2.0,1.0,no
+A320,United Kingdom,Business,Athens to London,Business Class,1.0,3.0,2.0,2.0,0.0,2.0,1.0,no
+Boeing 777,United Kingdom,Solo Leisure,JFK to Manchester via LHR,Economy Class,1.0,1.0,1.0,1.0,0.0,1.0,2.0,no
+A319,United Kingdom,Couple Leisure,Gatwick to Barcelona,Economy Class,4.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+Boeing 777,United Kingdom,Business,Dubai to LHR,First Class,3.0,5.0,4.0,4.0,3.0,3.0,3.0,no
+Boeing 747-400,United Kingdom,Business,LHR to PEK,Business Class,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 747-400,United Kingdom,Business,London to New York JFK,Business Class,2.0,3.0,3.0,2.0,0.0,2.0,2.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,Glasgow to New York via LHR,Business Class,3.0,4.0,4.0,4.0,0.0,4.0,2.0,no
+A380,United Kingdom,Couple Leisure,Heathrow to Johannesburg,Business Class,5.0,4.0,4.0,5.0,5.0,3.0,3.0,yes
+A320,United Kingdom,Couple Leisure,LHR to ARN,Business Class,3.0,4.0,3.0,3.0,0.0,0.0,3.0,yes
+Boeing 747-400,United Kingdom,Business,London to Dubai,First Class,1.0,5.0,2.0,4.0,2.0,3.0,2.0,no
+A321,United Kingdom,Business,London to Brussels,Business Class,2.0,4.0,3.0,3.0,1.0,1.0,3.0,yes
+A380,United Kingdom,Couple Leisure,LAX to LHR,Business Class,3.0,1.0,2.0,0.0,0.0,2.0,2.0,no
+Boeing 747-400,Germany,Family Leisure,Denver to London,Economy Class,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 747-400,United Kingdom,Family Leisure,LHR to JFK,Economy Class,1.0,2.0,3.0,0.0,1.0,1.0,2.0,no
+Boeing 767,Australia,Couple Leisure,Calgary to London,Economy Class,5.0,5.0,4.0,2.0,0.0,2.0,4.0,yes
+A320,United Kingdom,Solo Leisure,MXP to LHR,Economy Class,5.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+Boeing 777,Canada,Couple Leisure,Toronto to London Heathrow,Business Class,3.0,2.0,3.0,2.0,2.0,2.0,2.0,no
+A320,United Kingdom,Solo Leisure,Lyon to London Heathrow,Economy Class,2.0,1.0,1.0,2.0,0.0,0.0,3.0,no
+A320,United Kingdom,Family Leisure,Gatwick to Marrakech,Economy Class,4.0,2.0,5.0,3.0,0.0,0.0,5.0,yes
+A319,United Kingdom,Business,London to Geneva,Economy Class,2.0,4.0,3.0,3.0,3.0,0.0,3.0,no
+Boeing 747-400,United Kingdom,Business,LHR to PHX,Economy Class,1.0,2.0,3.0,1.0,0.0,1.0,1.0,no
+Boeing 747,United Kingdom,Family Leisure,Manchester to Boston via Heathrow,Economy Class,1.0,4.0,1.0,1.0,0.0,1.0,1.0,no
+Boeing 767,United Kingdom,Business,LCA to LHR,Business Class,3.0,5.0,4.0,4.0,0.0,0.0,4.0,yes
+A319,United Kingdom,Business,Heathrow to Aberdeen,Economy Class,2.0,2.0,1.0,2.0,1.0,0.0,1.0,no
+Boeing 777-300,Australia,Couple Leisure,London to Kuala lumpur,Business Class,3.0,2.0,2.0,2.0,0.0,1.0,3.0,no
+A321,Denmark,Couple Leisure,LHR to CPH,Business Class,4.0,3.0,3.0,3.0,0.0,0.0,4.0,no
+A319/A320,United Kingdom,Solo Leisure,GLA to PRG via LHR,Economy Class,4.0,3.0,5.0,3.0,0.0,0.0,5.0,yes
+Boeing 737-400,United Kingdom,Couple Leisure,Gatwick to Genoa,Economy Class,1.0,2.0,3.0,1.0,0.0,0.0,1.0,no
+A319,Canada,Couple Leisure,London Heathrow to Toulouse,Economy Class,1.0,4.0,4.0,2.0,0.0,0.0,2.0,no
+A319,United Kingdom,Couple Leisure,LHR to DUB,Economy Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+A320,United Kingdom,Solo Leisure,Berlin to London Heathrow,Economy Class,3.0,1.0,1.0,2.0,0.0,0.0,2.0,no
+A380,United States,Business,LHR to IAD,First Class,4.0,5.0,3.0,4.0,0.0,4.0,5.0,yes
+Boeing 777-236,United States,Business,DOH to LHR via BAH,Business Class,4.0,4.0,1.0,2.0,0.0,3.0,3.0,yes
+Boeing 747-400,United Kingdom,Family Leisure,LHR to CPT,Economy Class,3.0,4.0,5.0,4.0,0.0,4.0,4.0,yes
+A319,United Kingdom,Solo Leisure,Bari to London Gatwick,Business Class,4.0,5.0,3.0,5.0,0.0,0.0,4.0,yes
+A319,Australia,Couple Leisure,London Heathrow to Düsseldorf,Economy Class,4.0,4.0,4.0,3.0,0.0,0.0,4.0,yes
+A380,Ghana,Business,Johannesburg to London Heathrow,Business Class,1.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+A380,United States,Family Leisure,SFO to LHR,Economy Class,2.0,1.0,3.0,1.0,0.0,4.0,1.0,no
+A320,United Kingdom,Family Leisure,Amsterdam to London Heathrow,Economy Class,4.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+A320,Canada,Family Leisure,Marseille to London Heathrow,Business Class,5.0,5.0,5.0,5.0,0.0,0.0,5.0,yes
+Boeing 777 / A320,Belgium,Couple Leisure,MIA to BRU via LHR,Business Class,4.0,5.0,5.0,5.0,5.0,5.0,5.0,yes
+Boeing 747-300,Saudi Arabia,Couple Leisure,RUH to NCL via LHR,Economy Class,2.0,3.0,1.0,2.0,0.0,0.0,1.0,no
+Boeing 777,United States,Couple Leisure,PHL to TXL via LHR,First Class,2.0,3.0,1.0,1.0,0.0,2.0,1.0,no
+Boeing 747,United States,Family Leisure,Hyderabad to Phoenix via LHR,Economy Class,1.0,3.0,1.0,3.0,0.0,1.0,1.0,no
+Boeing 777,United Kingdom,Couple Leisure,Washington Dulles to Heathrow,Business Class,3.0,5.0,3.0,3.0,0.0,3.0,3.0,yes
+Boeing 767,Italy,Couple Leisure,London to Nassau,Business Class,1.0,3.0,3.0,2.0,0.0,3.0,1.0,no
+Boeing 747,United Kingdom,Family Leisure,LHR to LAS,Business Class,5.0,5.0,5.0,5.0,0.0,5.0,5.0,yes
+Boeing 747-400,United States,Family Leisure,Boston to London,Economy Class,5.0,5.0,5.0,5.0,0.0,5.0,4.0,yes
+Boeing 777,Australia,Solo Leisure,London to Sydney via Singapore,Business Class,1.0,4.0,3.0,2.0,0.0,3.0,2.0,no
+Boeing 777,Australia,Solo Leisure,Sydney to London via Singapore,First Class,1.0,1.0,1.0,0.0,0.0,0.0,1.0,no
+A319,United Kingdom,Solo Leisure,Glasgow to London Gatwick,Economy Class,4.0,5.0,5.0,4.0,0.0,0.0,5.0,yes
+Boeing 767,United Kingdom,Couple Leisure,LHR to IST,Business Class,4.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+A319/A321,United Kingdom,Solo Leisure,GLA to DME via LGW / LHR,Economy Class,4.0,3.0,2.0,2.0,0.0,2.0,5.0,yes
+Boeing 747-400 / A321,United Kingdom,Solo Leisure,DME to GLA via LHR,Economy Class,4.0,3.0,3.0,5.0,0.0,3.0,5.0,yes
+Boeing 747-400,United Kingdom,Business,Beijing to London Heathrow,Business Class,2.0,2.0,2.0,2.0,0.0,3.0,1.0,no
+Boeing 767,United Kingdom,Solo Leisure,London to Larnaca,Economy Class,4.0,4.0,4.0,4.0,0.0,2.0,3.0,yes
+A319,United Kingdom,Solo Leisure,Dublin to LHR,Economy Class,4.0,5.0,4.0,4.0,0.0,3.0,4.0,yes
+Boeing 777,Australia,Couple Leisure,Sydney to Lisbon via LHR,Economy Class,1.0,1.0,1.0,1.0,0.0,2.0,1.0,no
+Boeing 747-400,United Kingdom,Business,LHR to DXB,Economy Class,1.0,2.0,2.0,2.0,0.0,1.0,1.0,no
+Boeing 747 400,South Africa,Couple Leisure,Cape Town to London,Economy Class,2.0,3.0,3.0,2.0,0.0,3.0,3.0,yes
+Boeing 747 400,South Africa,Couple Leisure,London to Cape Town,Economy Class,2.0,4.0,3.0,3.0,0.0,2.0,3.0,yes
+Boeing 777,United Kingdom,Business,Chicago to London,First Class,2.0,4.0,1.0,0.0,0.0,0.0,1.0,no
+Boeing 777,United Kingdom,Family Leisure,Washington Dulles to LHR,Economy Class,1.0,2.0,2.0,1.0,0.0,1.0,1.0,no
+A319,Switzerland,Solo Leisure,LHR to ZRH,Business Class,1.0,3.0,3.0,2.0,0.0,1.0,1.0,no
+Boeing 777,United Kingdom,Business,Tokyo Narita to London,Business Class,2.0,1.0,2.0,1.0,0.0,3.0,2.0,no
+Boeing 777-300,Australia,Couple Leisure,London to Sydney via Singapore,Economy Class,1.0,4.0,2.0,4.0,1.0,3.0,1.0,no
+A319 / A320,United Kingdom,Business,Heathrow to Vienna,Economy Class,4.0,2.0,3.0,2.0,0.0,0.0,2.0,no
+Boeing 747-400,South Africa,Business,Cape Town to London,Business Class,2.0,1.0,5.0,2.0,0.0,2.0,1.0,no
+Boeing 747 and A320,Switzerland,Family Leisure,San Francisco to Zurich via LHR,Economy Class,4.0,3.0,4.0,3.0,1.0,4.0,4.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,Vancouver to Heathrow,First Class,4.0,1.0,2.0,3.0,0.0,1.0,1.0,no
+Boeing 747,United Arab Emirates,Business,New York to Dublin via Heathrow,First Class,2.0,3.0,1.0,2.0,0.0,1.0,1.0,no
+A321,United Kingdom,Business,MAN-LHR ,Economy Class,4.0,5.0,4.0,5.0,0.0,0.0,5.0,yes
+Boeing 777,United Kingdom,Business,London Heathrow to Tokyo,Business Class,1.0,2.0,3.0,4.0,0.0,4.0,4.0,no
+Boeing 767,United Kingdom,Business,Istambul to London Heathrow,Business Class,5.0,5.0,5.0,5.0,0.0,3.0,5.0,yes
+Boeing 767,United Kingdom,Business,London Heathrow to Istanbul,Business Class,5.0,5.0,5.0,5.0,0.0,3.0,5.0,yes
+A318,United Kingdom,Business,London to Faro,Business Class,1.0,1.0,2.0,2.0,1.0,1.0,1.0,no
+A319,United Kingdom,Solo Leisure,Bari to Gatwick,Economy Class,4.0,1.0,3.0,4.0,0.0,0.0,3.0,yes
+Boeing 777,United States,Couple Leisure,Orlando to London,Business Class,5.0,5.0,5.0,4.0,0.0,4.0,5.0,yes
+A319,United Kingdom,Business,London to Newcastle,Economy Class,1.0,3.0,4.0,2.0,0.0,0.0,2.0,no
+A320,United Kingdom,Business,LHR to VIE return,Economy Class,3.0,2.0,2.0,2.0,0.0,0.0,3.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,LHR-BOM,Economy Class,4.0,1.0,3.0,1.0,0.0,5.0,3.0,no
+Boeing 777-300,Singapore,Solo Leisure,London to Singapire,Economy Class,2.0,3.0,4.0,3.0,0.0,4.0,4.0,no
+Boeing 777-200,United Kingdom,Family Leisure,London to Kuala Lumpur,Economy Class,4.0,4.0,4.0,4.0,0.0,3.0,4.0,yes
+Boeing 777-200,United States,Solo Leisure,ATL to LHR,Economy Class,4.0,2.0,3.0,3.0,0.0,4.0,3.0,yes
+Boeing 767/Airbus A320,United States,Solo Leisure,London Heathrow to Athens,Premium Economy,4.0,2.0,3.0,4.0,0.0,3.0,3.0,yes
+Boeing 777,United States,Couple Leisure,Orlando to London,Business Class,5.0,5.0,5.0,4.0,0.0,4.0,5.0,yes
+Boeing 777,Australia,Business,Singapore to Sydney,Business Class,2.0,1.0,3.0,1.0,0.0,2.0,2.0,no
+Boeing 777-200,United Kingdom,Couple Leisure,LHR to KUL,Business Class,4.0,5.0,4.0,3.0,0.0,4.0,5.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,London Heathrow to Bangkok,Economy Class,1.0,2.0,1.0,3.0,0.0,1.0,1.0,no
+Boeing 747-400,United Kingdom,Solo Leisure,London Heathrow to Chicago O'Hare,Business Class,5.0,5.0,5.0,5.0,0.0,3.0,5.0,yes
+Boeing 747-400,United Kingdom,Solo Leisure,ORD to LHR,First Class,5.0,5.0,5.0,5.0,0.0,3.0,5.0,yes
+Boeing 747,United States,Solo Leisure,Vancouver Canada to London,Business Class,2.0,3.0,3.0,1.0,0.0,1.0,2.0,no
+A321 / Boeing 747-400,United States,Solo Leisure,CAI to JFK via LHR,Economy Class,1.0,5.0,5.0,3.0,0.0,4.0,2.0,no
+Boeing 747- 400,United Kingdom,Family Leisure,LHR to JNB,Economy Class,3.0,5.0,4.0,4.0,0.0,3.0,5.0,yes
+A321,United Kingdom,Business,Heathrow to Brussels,Economy Class,3.0,3.0,1.0,4.0,0.0,0.0,2.0,no
+A320,Israel,Solo Leisure,Tel Aviv to London LHR,Business Class,5.0,5.0,5.0,5.0,0.0,4.0,4.0,yes
+A380,United Kingdom,Couple Leisure,LHR to LAX,Economy Class,4.0,5.0,5.0,4.0,5.0,5.0,3.0,yes
+Boeing 747-400,Australia,Business,London to Singapore,Business Class,1.0,5.0,1.0,4.0,0.0,1.0,3.0,no
+A320,Thailand,Solo Leisure,LHR to EDI,Economy Class,2.0,4.0,1.0,1.0,0.0,0.0,3.0,no
+A319/A320,United Kingdom,Couple Leisure,Gatwick to Dubrovnik,Business Class,4.0,4.0,4.0,5.0,0.0,0.0,4.0,yes
+A321,United Kingdom,Family Leisure,LHR to Hamburg ,Economy Class,5.0,5.0,4.0,4.0,0.0,1.0,5.0,yes
+A320,Australia,Family Leisure,Helsinki to London,Business Class,1.0,5.0,5.0,5.0,0.0,0.0,4.0,yes
+Boeing 747-400,United States,Couple Leisure,Chicago to Paris via London,Premium Economy,4.0,5.0,3.0,4.0,4.0,5.0,4.0,yes
+Boeing 767,Australia,Business,Istanbul to London,Business Class,1.0,4.0,3.0,1.0,0.0,1.0,1.0,no
+Boeing 777,Thailand,Business,Bangkok to London,Business Class,2.0,4.0,4.0,3.0,0.0,2.0,3.0,no
+E170,Ireland,Business,Dublin to London City,First Class,2.0,1.0,2.0,1.0,0.0,0.0,1.0,no
+Boeing 777,Australia,Business,Sydney to Singapore,Business Class,2.0,2.0,2.0,2.0,0.0,3.0,2.0,no
+Boeing 767,Australia,Business,London to Istanbul,Business Class,1.0,3.0,1.0,2.0,0.0,0.0,1.0,no
+Boeing 747-400,Australia,Business,Singapore to London,Business Class,1.0,3.0,2.0,2.0,0.0,0.0,2.0,no
+A318,United Kingdom,Solo Leisure,LCY to JFK via Shannon,Business Class,5.0,5.0,5.0,5.0,5.0,5.0,3.0,yes
+Boeing 777,United Kingdom,Family Leisure,Gatwick to Orlando,Economy Class,1.0,2.0,1.0,1.0,1.0,1.0,2.0,no
+A320,United Kingdom,Solo Leisure,Heathrow to Warsaw,Economy Class,3.0,5.0,5.0,4.0,0.0,0.0,5.0,yes
+B777-300 / A319,Thailand,Solo Leisure,Chicago to Berlin via London Heathrow,Economy Class,1.0,2.0,1.0,1.0,0.0,3.0,1.0,no
+A380,United Kingdom,Solo Leisure,London to Los Angesles,Economy Class,4.0,5.0,4.0,3.0,4.0,5.0,5.0,yes
+Boeing 777-200,Canada,Family Leisure,YUL to FCO via LHR,Economy Class,4.0,4.0,4.0,3.0,0.0,3.0,5.0,yes
+A320 / Boeing 777-300,Thailand,Solo Leisure,Berlin to Chicago via LHR,Economy Class,1.0,3.0,1.0,2.0,0.0,3.0,1.0,no
+A321 and B767,United Kingdom,Solo Leisure,LHR to FCO,Business Class,4.0,5.0,4.0,5.0,0.0,0.0,4.0,yes
+Boeing 767,United Kingdom,Couple Leisure,LHR to Grand Cayman via Nassau,Business Class,2.0,5.0,2.0,2.0,0.0,2.0,2.0,no
+A320,United Kingdom,Couple Leisure,Santorini to LHR,Business Class,3.0,4.0,1.0,5.0,0.0,0.0,4.0,yes
+A319,United Kingdom,Solo Leisure,London Gatwick to Glasgow,Economy Class,5.0,5.0,5.0,3.0,0.0,0.0,4.0,yes
+Airbus A380,United Kingdom,Couple Leisure,London to Johannesburg,Business Class,3.0,2.0,3.0,2.0,0.0,4.0,2.0,no
+Boeing 737,United Kingdom,Couple Leisure,Naples to London Gatwick,Economy Class,3.0,4.0,1.0,3.0,0.0,0.0,1.0,no
+A320,Australia,Business,Geneva to London,Business Class,2.0,5.0,4.0,4.0,0.0,4.0,4.0,yes
+B747-400 / A319,Australia,Solo Leisure,Vancouver to Berlin via London,Economy Class,1.0,4.0,4.0,3.0,0.0,3.0,2.0,no
+A320,United Kingdom,Solo Leisure,LHR to NCL,First Class,3.0,3.0,1.0,3.0,0.0,0.0,3.0,no
+A320,United Kingdom,Couple Leisure,LHR to Santorini,Business Class,2.0,4.0,4.0,5.0,0.0,0.0,4.0,yes
+B747 400,United Kingdom,Solo Leisure,LHR to MIA,First Class,4.0,5.0,5.0,5.0,0.0,4.0,5.0,yes
+777-200,United Kingdom,Couple Leisure,Bangkok to Heathrow,Economy Class,1.0,1.0,1.0,1.0,0.0,1.0,1.0,no
+777,United Arab Emirates,Business,Buenos Aires to Heathrow,Business Class,5.0,5.0,4.0,4.0,0.0,5.0,3.0,yes
+A320,United Kingdom,Solo Leisure,LHR to Milan Malpensa,Economy Class,4.0,5.0,4.0,4.0,4.0,0.0,4.0,yes
+boeing 787,United Kingdom,Solo Leisure,Seoul to London,Business Class,4.0,3.0,3.0,3.0,0.0,4.0,3.0,yes
+B747-400,Canada,Solo Leisure,LHR to YYZ,Economy Class,3.0,4.0,4.0,4.0,0.0,4.0,4.0,yes
+A320,United Kingdom,Couple Leisure,LGW to VCE,Economy Class,3.0,5.0,4.0,3.0,0.0,0.0,4.0,yes
+A321,United Kingdom,Business,LHR to SOF,Business Class,1.0,3.0,3.0,2.0,1.0,1.0,1.0,no
+B747,United Kingdom,Solo Leisure,LHR-DEN,Economy Class,3.0,5.0,0.0,4.0,0.0,2.0,4.0,yes
+777-300,United Kingdom,Solo Leisure,ORD-LHR,Business Class,4.0,5.0,0.0,2.0,0.0,4.0,5.0,yes
+A321,United Kingdom,Solo Leisure,LHR-GLA,Economy Class,4.0,5.0,0.0,3.0,0.0,0.0,4.0,yes
+A321,United Kingdom,Solo Leisure,GLA-LHR,Economy Class,4.0,5.0,0.0,4.0,0.0,0.0,4.0,yes
+A319,United Kingdom,Business,FRA-LHR ,Business Class,5.0,2.0,0.0,2.0,0.0,1.0,1.0,no
+Boeing 777,Sweden,Couple Leisure,Gatwick to Barbados,Business Class,3.0,4.0,0.0,3.0,0.0,4.0,3.0,no
+Airbus 319,Ukraine,Business,Kiev to London,Business Class,3.0,5.0,0.0,0.0,1.0,4.0,4.0,yes
+Boeing 747-400,United Kingdom,Business,London-Vancouver return,Business Class,4.0,5.0,0.0,4.0,0.0,3.0,5.0,yes
+Boeing 747-400,United Kingdom,Business,LHR-ORD,Business Class,4.0,2.0,0.0,3.0,0.0,4.0,3.0,yes
