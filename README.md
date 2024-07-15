@@ -1,7 +1,7 @@
 # Review Rating on Passenger Recommendation Analysis
 
 * Sumber diambil dari Kaggle.com dengan Judul Dataset `Airlines Reviews and Rating`
-* Link : [Klik Disini](https://www.kaggle.com/datasets/anandshaw2001/airlines-reviews-and-rating)
+* Dataset : [Klik Disini](https://www.kaggle.com/datasets/anandshaw2001/airlines-reviews-and-rating)
 * Tableau : [Klik Disini](https://public.tableau.com/app/profile/reski.hidayat/viz/h8dsft_Milestone1_Reski_Hidayat/ANALISAREKOMENDASIPENUMPANG)
   
 Dataset is provided in a CSV (Comma-Separated Values) format, ensuring compatibility with a wide range of data analysis tools and programming languages, including Python, R, Excel, and various data visualization software. The "Airlines Reviews and Rating.csv" 3291 rows and 15 columns, each row representing a single review by an airline passenger. The columns in this dataset are as follows:
