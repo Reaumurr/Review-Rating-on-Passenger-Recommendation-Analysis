@@ -1,4 +1,4 @@
-# Review Rating on Passenger Recommendatio Analysis
+# Review Rating on Passenger Recommendation Analysis
 
 ## Column Details:
 | Feature | Description |
