@@ -1,6 +1,8 @@
 # Review Rating on Passenger Recommendatio Analysis
 
 ## Column Details:
+| Feature | Description |
+| :--- | :--- |
 | Aircraft Type | Type of aircraft used for the flight.|
 | Users Reviews | Textual reviews provided by the users.|
 | Country | The country of the airline or the flight origin/destination.|
