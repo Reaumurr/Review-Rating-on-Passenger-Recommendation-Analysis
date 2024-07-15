@@ -1,6 +1,6 @@
 # Review Rating on Passenger Recommendation Analysis
 
-* Sumber diambil dari Kaggle.com dengan Judul Dataset `Airlines Reviews and Rating`
+Sumber diambil dari Kaggle.com dengan Judul Dataset `Airlines Reviews and Rating`
 * Dataset : [Klik Disini](https://www.kaggle.com/datasets/anandshaw2001/airlines-reviews-and-rating)
 * Tableau : [Klik Disini](https://public.tableau.com/app/profile/reski.hidayat/viz/h8dsft_Milestone1_Reski_Hidayat/ANALISAREKOMENDASIPENUMPANG)
   
